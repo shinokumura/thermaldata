@@ -7,17 +7,17 @@ This repository contains woking version of new thermal-resonance ranges informat
 - EXFOR data are extracted from 'EXFOR-2020-10-28.bck.c5' file that was distributed by Viktor on Oct.2020.
 - For the cross section data (sf6 = SIG), incident neutron energy range is from 0.0235 eV +/- 5%.
 - In the EXFOR data table, the coulums are:
-  --  dataset: EXFOR entry+subentry number
-  --  firstauthor: Name of first author
-  --  year: Year of the publication
-  --  sf4: Reaction product
-  --  sf5: Reaction branch
-  --  sf8: Reaction modifiers
-  --  sf9: Data type
-  --  en: Incident neutron energy (somethimes average of between MIN and MAX)
-  --  den: Uncertainty of incident neutron enery (en)
-  --  ydata: Cross section in barn
-  --  yddata: Uncertainty of cross section (ydata) in barn
+  -  dataset: EXFOR entry+subentry number
+  -  firstauthor: Name of first author
+  -  year: Year of the publication
+  -  sf4: Reaction product
+  -  sf5: Reaction branch
+  -  sf8: Reaction modifiers
+  -  sf9: Data type
+  -  en: Incident neutron energy (somethimes average of between MIN and MAX)
+  -  den: Uncertainty of incident neutron enery (en)
+  -  ydata: Cross section in barn
+  -  yddata: Uncertainty of cross section (ydata) in barn
 - Summary table (resulttable.dat) contains Evaluated data, EXFOR mean value, and EXFOR MXW/SPA data mean for each nuclides.
 
 # EXAMPLE

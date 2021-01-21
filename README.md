@@ -7,44 +7,68 @@ This repository contains woking version of new thermal-resonance ranges informat
 - EXFOR data are extracted from 'EXFOR-2020-10-28.bck.c5' file that was distributed by Viktor on Oct.2020.
 - For the cross section data (sf6 = SIG), incident neutron energy range is from 0.0235 eV +/- 5%.
 - In the EXFOR data table, the coulums are:
-    dataset: EXFOR entry+subentry number
-    firstauthor: Name of first author
-    year: Year of the publication
-    sf4: Reaction product
-    sf5: Reaction branch
-    sf8: Reaction modifiers
-    sf9: Data type
-    en: Incident neutron energy (somethimes average of between MIN and MAX)
-    den: Uncertainty of incident neutron enery (en)
-    ydata: Cross section in barn
-    yddata: Uncertainty of cross section (ydata) in barn
+  --  dataset: EXFOR entry+subentry number
+  --  firstauthor: Name of first author
+  --  year: Year of the publication
+  --  sf4: Reaction product
+  --  sf5: Reaction branch
+  --  sf8: Reaction modifiers
+  --  sf9: Data type
+  --  en: Incident neutron energy (somethimes average of between MIN and MAX)
+  --  den: Uncertainty of incident neutron enery (en)
+  --  ydata: Cross section in barn
+  --  yddata: Uncertainty of cross section (ydata) in barn
 - Summary table (resulttable.dat) contains Evaluated data, EXFOR mean value, and EXFOR MXW/SPA data mean for each nuclides.
 
 # EXAMPLE
 91-Pa-231 (n,g)
--# Evaluated data
--# Maxw.(n,g)                     |  (n,g)
--#          NAN (+/-       NAN)   |     2.00E+02  (+/-  2.30E+00)  <--- Read from the 'thermal-res-table.txt'.
--# EXFOR data mean
--#     2.40E+02 (+/-  9.50E+00)    <--- Calculated from EXFOR data by exclusion of the case where the reaction product is in an isomeric state.
--# EXFOR MXW/SPA data mean
--#     2.11E+02 (+/-  2.00E+01)    <--- Calculated from EXFOR MXW/SPA data flagged in sf8.
--# ------ EXFOR data ------
+
+$# Evaluated data
+
+$# Maxw.(n,g)                     |  (n,g)
+
+$#          NAN (+/-       NAN)   |     2.00E+02  (+/-  2.30E+00)  <--- Read from the 'thermal-res-table.txt'.
+
+$# EXFOR data mean
+
+$#     2.40E+02 (+/-  9.50E+00)    <--- Calculated from EXFOR data by exclusion of the case where the reaction product is in an isomeric state.
+
+$# EXFOR MXW/SPA data mean
+
+$#     2.11E+02 (+/-  2.00E+01)    <--- Calculated from EXFOR MXW/SPA data flagged in sf8.
+
+$# ------ EXFOR data ------
+
   dataset       firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
+  
  40163002  B.M.Aleksandrov+  1972  91-PA-232  --  -- 2.53E-02  NAN 2.60E+02 1.30E+01
+ 
  40579003       L.N.Jurova+  1984  91-PA-232  --  -- 2.53E-02  NAN 2.19E+02 6.00E+00
--# ------ MXW/SPA data ------
+ 
+$# ------ MXW/SPA data ------
+
   dataset     firstauthor  year        sf4  sf8 sf9       en  den    ydata   yddata
+  
  12273002      R.R.Smith+  1956  91-PA-232  MXW  -- 2.53E-02  NAN 2.00E+02 1.50E+01
+ 
  20634002  E.M.Gryntakis+  1974  91-PA-232  MXW  -- 2.53E-02  NAN 2.01E+02 2.20E+01
+ 
  20634002  E.M.Gryntakis+  1974  91-PA-232  MXW  -- 2.53E-02  NAN 2.18E+02 1.40E+01
+ 
  20691003     K.Kobayashi  1974  91-PA-232  MXW  -- 2.53E-02  NAN 2.01E+02 6.03E+00
+ 
  23227002    T.Hashimoto+  1988  91-PA-232  MXW  -- 2.53E-02  NAN 1.86E+02 1.30E+01
+ 
  12287002    G.T.Seaborg+  1946  91-PA-232  SPA  -- 2.53E-02  NAN 1.75E+02 2.62E+01
+ 
  12272002        R.Elson+  1953  91-PA-232  SPA  -- 2.53E-02  NAN 2.93E+02 4.40E+01
--# ------ Recom./Eval./Deriv. data ------
+ 
+$# ------ Recom./Eval./Deriv. data ------
+
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
+  
  V1002566  S.F.Mughabghab  2006  91-PA-232  --  RECOM 2.53E-02  NAN 2.01E+02 2.30E+00
+ 
 
 # SUMMARY TABLE
 - Summary table is resulttable.dat.

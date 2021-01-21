@@ -51,6 +51,16 @@ This repository contains woking version of new thermal-resonance ranges informat
 # SUMMARY TABLE
 - Summary table is resulttable.dat.
 - For (n,g) reaction, both Evaluated and Evaluated(MXW) taken from 'thermal-res-table.txt' are listed in column 3-6.
+  -  target: target nuclide in Z-Element-A format. If it is isomeric state, -M or -M2 is addded afterward.
+  -  reaction: so far, reactions are (n,g), (n,el), (n,a), (n,p), (n,f) only.
+  -  Eval.: Evaluated data taken from 'thermal-res-table.txt'.
+  -  Eval-err: Error of evaluated data taken from 'thermal-res-table.txt'.
+  -  Eval(MXW): Evaluated(MXW) data taken from 'thermal-res-table.txt'. only in (n,g).
+  -  Eval(MXW)-err: Error of evaluated(MXW) data taken from 'thermal-res-table.txt'. only in (n,g).
+  -  EXFOR-data-mean: Mean value of EXFOR data.
+  -  EXFOR-mean-err: Mean value of EXFOR data error.
+  -  MXW-data-mean: Mean value of EXFOR data measured in MXW or SPA specified in sf8.
+  -  MXW-mean-err: Mean value of EXFOR data error measured in MXW or SPA specified in sf8.
 ```
        target reaction    Eval.  Eval-err  Eval(MXW)  Eval(MXW)-err  EXFOR-data-mean  EXFOR-mean-err  MXW-data-mean  MXW-mean-err
         1-H-1    (n,g)      NAN       NAN   3.33E-01       7.00E-04         3.01E+00        2.36E-01       3.11E-01      6.23E-03

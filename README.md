@@ -25,11 +25,11 @@ This repository contains woking version of new thermal-resonance ranges informat
 ```
 # Evaluated data
 # Maxw.(n,g)                     |  (n,g)
-#          NAN (+/-       NAN)   |     2.00E+02  (+/-  2.30E+00)  <--- Read from the 'thermal-res-table.txt'.
+#          NAN (+/-       NAN)   |     2.00E+02  (+/-  2.30E+00)  **<--- Read from the 'thermal-res-table.txt'.**
 # EXFOR data mean
-#     2.40E+02 (+/-  9.50E+00)    <--- Calculated from EXFOR data by exclusion of the case where the reaction product is in an isomeric state.
+#     2.40E+02 (+/-  9.50E+00)    **<--- Calculated from EXFOR data by exclusion of the case where the reaction product is in an isomeric state.**
 # EXFOR MXW/SPA data mean
-#     2.11E+02 (+/-  2.00E+01)    <--- Calculated from EXFOR MXW/SPA data flagged in sf8.
+#     2.11E+02 (+/-  2.00E+01)    **<--- Calculated from EXFOR MXW/SPA data flagged in sf8.**
 # ------ EXFOR data ------
   dataset       firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
  40163002  B.M.Aleksandrov+  1972  91-PA-232  --  -- 2.53E-02  NAN 2.60E+02 1.30E+01 

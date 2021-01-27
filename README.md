@@ -71,18 +71,20 @@ This repository contains woking version of new thermal-resonance ranges informat
        3-Li-7    (n,g) 4.42E-02  5.00E-04        NAN            NAN         4.43E-02        5.00E-04       4.01E-02      7.60E-03
        4-Be-7    (n,g)      NAN       NAN        NAN            NAN              NAN             NAN       1.55E-01           NAN
 ```
-- For the other reactions, Evaluated data taken from 'thermal-res-table.txt' is listed in column 3-4.
+- For the other reactions, Evaluated MXW data (Eval(MXW) and Eval(MXW)-err) are always NaN.
 ```
-      target reaction    Eval.  Eval-err  EXFOR-data-mean  EXFOR-mean-err  MXW-data-mean  MXW-mean-err
-      2-He-3    (n,p) 5.33E+03  8.00E+00         5.66E+03        1.00E+03       5.04E+03      2.00E+02
-      4-Be-7    (n,p) 3.88E+04  8.09E+02         4.63E+04        3.71E+03       4.68E+04      4.05E+03
-      5-B-10    (n,p)      NAN       NAN              NAN             NAN       6.40E-03      1.47E-03
-      7-N-14    (n,p) 1.86E+00  3.00E-02         1.93E+00        5.88E-02       1.72E+00      4.68E-02
-    11-Na-22    (n,p) 2.78E+04  2.40E+03              NAN             NAN       3.06E+04      2.60E+03
-    13-Al-26    (n,p) 1.97E+00  1.00E-02              NAN             NAN            NAN           NAN
-     16-S-33    (n,p) 2.00E+00  1.00E+00              NAN             NAN       2.61E-02      2.00E-01
-    17-Cl-35    (n,p) 4.89E-01  1.40E-02         4.89E-01        1.40E-02       3.96E-01      4.10E-02
-    17-Cl-36    (n,p) 4.62E-02  4.00E-04         2.24E-01        5.10E-02       4.70E-02      2.00E-03
+      target reaction    Eval.  EEval-err  Eval(MXW)  Eval(MXW)-err  EXFOR-data-mean  EXFOR-mean-err  MXW-data-mean  MXW-mean-err
+       2-He-3    (n,p) 5.33E+03  8.00E+00        NAN            NAN         5.66E+03        1.00E+03       5.04E+03      2.00E+02
+       4-Be-7    (n,p) 3.88E+04  8.09E+02        NAN            NAN         4.63E+04        3.71E+03       4.68E+04      4.05E+03
+       5-B-10    (n,p)      NAN       NAN        NAN            NAN              NAN             NAN       6.40E-03      1.47E-03
+       7-N-14    (n,p) 1.86E+00  3.00E-02        NAN            NAN         1.91E+00        4.85E-02       1.74E+00      4.17E-02
+     11-Na-22    (n,p) 2.78E+04  2.40E+03        NAN            NAN              NAN             NAN       3.06E+04      2.60E+03
+     13-Al-26    (n,p) 1.97E+00  1.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
+      16-S-33    (n,p) 2.00E+00  1.00E+00        NAN            NAN              NAN             NAN       2.61E-02      2.00E-01
+     17-Cl-35    (n,p) 4.89E-01  1.40E-02        NAN            NAN         4.89E-01        1.40E-02       3.96E-01      4.10E-02
+     17-Cl-36    (n,p) 4.62E-02  4.00E-04        NAN            NAN         2.24E-01        5.10E-02            NAN           NAN
+     18-Ar-36    (n,p)      NAN       NAN        NAN            NAN              NAN             NAN       1.50E-03      8.10E-06
+     18-Ar-37    (n,p) 3.70E+01  4.00E+00        NAN            NAN              NAN             NAN       4.60E+01      7.33E+00
 ```
  
 2021 9th Jan.

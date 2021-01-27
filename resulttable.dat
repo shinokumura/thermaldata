@@ -127,7 +127,7 @@
      36-Kr-84    (n,g) 1.10E-01  1.50E-02        NAN            NAN              NAN             NAN       5.46E-01      4.77E-01
      36-Kr-85    (n,g)      NAN       NAN        NAN            NAN              NAN             NAN       8.33E+00      2.00E-01
      36-Kr-86    (n,g) 3.00E-03  2.00E-03        NAN            NAN              NAN             NAN       6.88E-01      2.00E-03
-     37-Rb-85    (n,g) 4.94E-01  7.00E-03        NAN            NAN         5.12E-01        6.21E-03       6.05E-01      4.56E-02
+     37-Rb-85    (n,g) 4.94E-01  7.00E-03        NAN            NAN         5.12E-01        6.21E-03       6.20E-01      5.13E-02
      37-Rb-87    (n,g) 1.16E-01  6.00E-03        NAN            NAN         9.56E-02        3.54E-03       1.09E-01      1.82E-02
      37-Rb-88    (n,g) 1.00E+00  3.00E-01        NAN            NAN              NAN             NAN       1.00E+00      3.00E-01
      38-Sr-84    (n,g) 8.52E-01  1.00E-01        NAN            NAN         1.46E+00        1.46E-01       3.20E-01      6.40E-02
@@ -194,7 +194,7 @@
     48-Cd-114    (n,g) 3.30E-01  1.80E-02        NAN            NAN         3.68E+00        3.60E-01       2.94E-01      1.60E-02
     48-Cd-116    (n,g) 7.50E-02  1.00E-02        NAN            NAN         2.50E+00             NAN       8.00E-03           NAN
     49-In-113    (n,g)      NAN       NAN   1.20E+01       6.00E-01              NAN             NAN       4.97E+00      3.80E-01
-    49-In-115    (n,g)      NAN       NAN   2.02E+02       2.00E+00         1.52E+02        3.53E+00       1.42E+02      7.79E+00
+    49-In-115    (n,g)      NAN       NAN   2.02E+02       2.00E+00         1.51E+02        4.08E+00       1.42E+02      7.79E+00
     50-Sn-112    (n,g) 5.13E-01  3.00E-02        NAN            NAN         5.13E-01        3.00E-02       8.09E-01      1.98E-01
     50-Sn-113    (n,g) 8.80E+00  1.20E+00        NAN            NAN              NAN             NAN            NAN           NAN
     50-Sn-114    (n,g) 6.40E-02  3.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
@@ -337,7 +337,7 @@
     70-Yb-176    (n,g)      NAN       NAN   2.85E+00       5.00E-02         2.90E+00        5.83E-02       1.81E+00      1.25E-01
     71-Lu-173    (n,g) 3.43E+01       NAN        NAN            NAN              NAN             NAN            NAN           NAN
     71-Lu-175    (n,g)      NAN       NAN   2.33E+01       1.10E+00         2.26E+01        2.25E+00            NAN           NAN
-    71-Lu-176    (n,g)      NAN       NAN   2.06E+03       7.00E+01         2.02E+03        1.09E+02       1.12E+03      3.43E+01
+    71-Lu-176    (n,g)      NAN       NAN   2.06E+03       7.00E+01         2.02E+03        1.09E+02       4.55E+00      1.40E+00
     71-Lu-177    (n,g) 8.80E+02  7.50E+01        NAN            NAN              NAN             NAN            NAN           NAN
   71-Lu-177-M    (n,g) 4.17E+02  2.60E+01        NAN            NAN              NAN             NAN            NAN           NAN
     72-Hf-174    (n,g)      NAN       NAN   5.49E+02       7.00E+00         9.09E+02        2.05E+02       5.03E+02      1.92E+02
@@ -347,7 +347,6 @@
  72-Hf-178-M2    (n,g) 2.36E+02       NAN        NAN            NAN         4.80E+01        7.50E+00       4.60E+01      5.00E+00
     72-Hf-179    (n,g)      NAN       NAN   4.10E+01       3.00E+00         3.86E+01        2.12E+00       5.00E+01      2.50E+01
     72-Hf-180    (n,g)      NAN       NAN        NAN            NAN         1.29E+01        7.16E-01       1.22E+01      2.00E+00
-  72-Hf-180-M    (n,g)      NAN       NAN        NAN            NAN              NAN             NAN            NAN           NAN
     72-Hf-181    (n,g) 4.00E+01  3.00E+01        NAN            NAN              NAN             NAN       6.00E+01      2.42E+01
     72-Hf-182    (n,g) 1.33E+02  1.00E+01        NAN            NAN         1.34E+02        1.44E+01            NAN           NAN
     73-Ta-179    (n,g) 9.32E+02  6.20E+01        NAN            NAN              NAN             NAN            NAN           NAN
@@ -478,8 +477,8 @@
    100-Fm-255    (n,g) 2.60E+01  3.00E+00        NAN            NAN              NAN             NAN       3.00E+01      4.00E+00
    100-Fm-256    (n,g) 4.50E+01       NAN        NAN            NAN              NAN             NAN            NAN           NAN
    100-Fm-257    (n,g)      NAN       NAN        NAN            NAN              NAN             NAN            NAN           NAN
-        1-H-1   (n,el) 2.05E+01  1.40E-02        NAN            NAN         5.70E+01        5.70E-01       3.18E+01      7.97E+00
-        1-H-2   (n,el) 3.39E+00  1.20E-02        NAN            NAN         2.25E+00        4.00E-02       7.00E+00      1.17E+00
+        1-H-1   (n,el) 2.05E+01  1.40E-02        NAN            NAN         5.70E+01        5.70E-01       1.60E+01           NAN
+        1-H-2   (n,el) 3.39E+00  1.20E-02        NAN            NAN              NAN             NAN            NAN           NAN
        2-He-3   (n,el) 3.10E+00  1.30E-01        NAN            NAN         3.30E+00        2.00E-01            NAN           NAN
        2-He-4   (n,el) 7.90E-01  2.00E-02        NAN            NAN         7.73E-01        9.00E-03            NAN           NAN
        3-Li-6   (n,el) 7.50E-01  2.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
@@ -489,19 +488,19 @@
        5-B-11   (n,el) 4.83E+00  4.00E-02        NAN            NAN         4.90E+00        2.00E-01            NAN           NAN
        6-C-12   (n,el) 4.75E+00  2.00E-03        NAN            NAN         4.80E+00        1.00E-01       4.80E+00      8.05E-01
        6-C-13   (n,el) 4.19E+00  1.20E-01        NAN            NAN              NAN             NAN            NAN           NAN
-       7-N-14   (n,el) 1.00E+01  1.20E-01        NAN            NAN         1.05E+01             NAN       8.20E+00      1.38E+00
+       7-N-14   (n,el) 1.00E+01  1.20E-01        NAN            NAN              NAN             NAN            NAN           NAN
        7-N-15   (n,el) 4.59E+00  5.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
-       8-O-16   (n,el) 3.76E+00  6.00E-03        NAN            NAN              NAN             NAN       4.20E+00      7.04E-01
+       8-O-16   (n,el) 3.76E+00  6.00E-03        NAN            NAN              NAN             NAN            NAN           NAN
        8-O-17   (n,el) 3.61E+00  6.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
-       9-F-19   (n,el) 3.64E+00  1.00E-02        NAN            NAN              NAN             NAN       3.92E+00      6.88E-01
+       9-F-19   (n,el) 3.64E+00  1.00E-02        NAN            NAN              NAN             NAN       3.75E+00           NAN
      10-Ne-20   (n,el) 2.47E+00  3.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
      10-Ne-21   (n,el) 5.22E+00  3.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      10-Ne-22   (n,el) 1.71E+00  9.00E-03        NAN            NAN              NAN             NAN            NAN           NAN
-     11-Na-23   (n,el) 3.04E+00  7.00E-03        NAN            NAN              NAN             NAN       3.60E+00      6.04E-01
+     11-Na-23   (n,el) 3.04E+00  7.00E-03        NAN            NAN              NAN             NAN            NAN           NAN
      12-Mg-24   (n,el) 3.74E+00  4.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
      12-Mg-25   (n,el) 1.73E+00  1.30E-01        NAN            NAN              NAN             NAN            NAN           NAN
      12-Mg-26   (n,el) 2.83E+00  1.70E-01        NAN            NAN              NAN             NAN            NAN           NAN
-     13-Al-27   (n,el) 1.41E+00  1.00E-03        NAN            NAN         2.50E+00        2.00E-01       1.60E+00      2.68E-01
+     13-Al-27   (n,el) 1.41E+00  1.00E-03        NAN            NAN              NAN             NAN       1.60E+00      2.68E-01
      14-Si-28   (n,el) 1.99E+00  6.00E-03        NAN            NAN              NAN             NAN            NAN           NAN
      14-Si-29   (n,el) 2.66E+00  1.30E-01        NAN            NAN              NAN             NAN            NAN           NAN
      14-Si-30   (n,el) 2.49E+00  4.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
@@ -520,24 +519,24 @@
      20-Ca-42   (n,el) 1.37E+00  8.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
      20-Ca-43   (n,el) 5.00E+00  2.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      20-Ca-46   (n,el) 4.77E+00  6.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
-     21-Sc-45   (n,el) 2.24E+01  4.00E-01        NAN            NAN         2.38E+01        1.60E+00            NAN           NAN
-     22-Ti-46   (n,el) 2.74E+00  6.00E-02        NAN            NAN         2.80E+00        3.00E-01            NAN           NAN
-     22-Ti-47   (n,el) 3.43E+00  2.20E-01        NAN            NAN         2.15E+00        3.00E-01            NAN           NAN
-     22-Ti-48   (n,el) 4.10E+00  2.00E-01        NAN            NAN         4.05E+00        2.00E-01            NAN           NAN
-     22-Ti-49   (n,el) 7.00E-01  3.00E-01        NAN            NAN         2.10E+00        4.00E-01            NAN           NAN
+     21-Sc-45   (n,el) 2.24E+01  4.00E-01        NAN            NAN         2.40E+01        2.00E+00            NAN           NAN
+     22-Ti-46   (n,el) 2.74E+00  6.00E-02        NAN            NAN         2.10E+00             NAN            NAN           NAN
+     22-Ti-47   (n,el) 3.43E+00  2.20E-01        NAN            NAN         1.30E+00             NAN            NAN           NAN
+     22-Ti-48   (n,el) 4.10E+00  2.00E-01        NAN            NAN         3.70E+00             NAN            NAN           NAN
+     22-Ti-49   (n,el) 7.00E-01  3.00E-01        NAN            NAN         1.00E+00             NAN            NAN           NAN
      22-Ti-50   (n,el) 4.22E+00  1.40E-01        NAN            NAN         3.50E+00             NAN            NAN           NAN
-      23-V-50   (n,el) 7.50E+00  1.00E+00        NAN            NAN         7.50E+00        1.00E+00            NAN           NAN
-      23-V-51   (n,el) 4.90E+00  6.00E-02        NAN            NAN         4.25E+00        2.48E-01       4.00E+00      6.71E-01
+      23-V-50   (n,el) 7.50E+00  1.00E+00        NAN            NAN              NAN             NAN            NAN           NAN
+      23-V-51   (n,el) 4.90E+00  6.00E-02        NAN            NAN         4.80E+00        2.00E-01       4.00E+00      6.71E-01
      24-Cr-52   (n,el) 2.78E+00  2.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
      24-Cr-53   (n,el) 7.30E+00  2.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      24-Cr-54   (n,el) 2.54E+00  1.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
-     25-Mn-55   (n,el) 2.06E+00  3.00E-02        NAN            NAN         3.80E+00        3.04E-01       2.10E+00      3.52E-01
-     26-Fe-54   (n,el) 2.17E+00  1.00E-01        NAN            NAN         4.00E+00        3.20E-01            NAN           NAN
+     25-Mn-55   (n,el) 2.06E+00  3.00E-02        NAN            NAN              NAN             NAN       2.10E+00      3.52E-01
+     26-Fe-54   (n,el) 2.17E+00  1.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      26-Fe-56   (n,el) 1.26E+01  4.90E-01        NAN            NAN         1.29E+01        7.04E-01            NAN           NAN
      26-Fe-57   (n,el) 6.80E-01  6.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
      27-Co-59   (n,el) 6.02E+00  7.00E-02        NAN            NAN              NAN             NAN       5.00E+00      8.39E-01
      27-Co-60   (n,el) 4.40E+00  4.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
-     28-Ni-58   (n,el) 2.53E+01  4.00E-01        NAN            NAN         4.40E+00        3.52E-01            NAN           NAN
+     28-Ni-58   (n,el) 2.53E+01  4.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      28-Ni-60   (n,el) 9.80E-01  7.00E-02        NAN            NAN         5.00E+00             NAN            NAN           NAN
      28-Ni-61   (n,el) 8.20E+00  1.00E+00        NAN            NAN         9.60E+00        2.00E+00            NAN           NAN
      28-Ni-62   (n,el) 9.65E+00  4.00E-01        NAN            NAN         9.20E+00        8.00E-01            NAN           NAN
@@ -556,7 +555,7 @@
      32-Ge-73   (n,el) 5.00E+00  2.00E-01        NAN            NAN         1.00E+00        9.00E-01            NAN           NAN
      32-Ge-74   (n,el) 7.11E+00  1.90E-01        NAN            NAN         6.10E+00        4.00E-01            NAN           NAN
      32-Ge-76   (n,el) 8.30E+00  3.00E+00        NAN            NAN              NAN             NAN            NAN           NAN
-     33-As-75   (n,el) 5.43E+00  3.00E-02        NAN            NAN         4.90E+00        3.92E-01       7.10E+00      1.19E+00
+     33-As-75   (n,el) 5.43E+00  3.00E-02        NAN            NAN              NAN             NAN       7.10E+00      1.19E+00
      34-Se-74   (n,el) 3.36E+00  3.40E-01        NAN            NAN              NAN             NAN            NAN           NAN
      34-Se-76   (n,el) 1.84E+01  3.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      34-Se-77   (n,el) 8.95E+00  1.90E-01        NAN            NAN              NAN             NAN            NAN           NAN
@@ -573,13 +572,13 @@
      38-Sr-84   (n,el) 7.00E+00  5.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      38-Sr-86   (n,el) 4.01E+00  7.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
      38-Sr-88   (n,el) 6.39E+00  1.10E-01        NAN            NAN              NAN             NAN            NAN           NAN
-      39-Y-89   (n,el) 7.66E+00  3.00E-02        NAN            NAN         7.46E+00        1.00E-02       1.40E+01      2.35E+00
+      39-Y-89   (n,el) 7.66E+00  3.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
      40-Zr-90   (n,el) 5.30E+00  3.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      40-Zr-91   (n,el) 9.82E+00  2.30E-01        NAN            NAN              NAN             NAN            NAN           NAN
      40-Zr-92   (n,el) 7.02E+00  3.90E-01        NAN            NAN              NAN             NAN            NAN           NAN
      40-Zr-94   (n,el) 8.59E+00  4.10E-01        NAN            NAN              NAN             NAN            NAN           NAN
      40-Zr-96   (n,el) 6.66E+00  5.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
-     41-Nb-93   (n,el) 6.37E+00  7.00E-02        NAN            NAN         5.90E+00        4.72E-01       5.00E+00      8.39E-01
+     41-Nb-93   (n,el) 6.37E+00  7.00E-02        NAN            NAN              NAN             NAN       5.00E+00      8.39E-01
      42-Mo-92   (n,el) 6.00E+00  1.40E-01        NAN            NAN              NAN             NAN            NAN           NAN
      42-Mo-94   (n,el) 5.83E+00  1.20E-01        NAN            NAN              NAN             NAN            NAN           NAN
      42-Mo-95   (n,el) 6.49E+00  3.70E-01        NAN            NAN              NAN             NAN            NAN           NAN
@@ -596,8 +595,8 @@
     46-Pd-105   (n,el) 7.80E+00  6.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     46-Pd-106   (n,el) 5.10E+00  6.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     46-Pd-108   (n,el) 2.46E+00  4.50E-01        NAN            NAN              NAN             NAN            NAN           NAN
-    47-Ag-107   (n,el) 7.26E+00  9.00E-02        NAN            NAN         6.40E+00        5.12E-01            NAN           NAN
-    47-Ag-109   (n,el) 2.48E+00  5.00E-02        NAN            NAN         6.15E+00        5.12E-01            NAN           NAN
+    47-Ag-107   (n,el) 7.26E+00  9.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
+    47-Ag-109   (n,el) 2.48E+00  5.00E-02        NAN            NAN         5.90E+00             NAN            NAN           NAN
     48-Cd-108   (n,el) 3.57E+00  3.20E-01        NAN            NAN              NAN             NAN            NAN           NAN
     48-Cd-110   (n,el) 4.22E+00  1.20E-01        NAN            NAN         4.30E+00        2.00E-01            NAN           NAN
     48-Cd-111   (n,el) 5.30E+00  3.00E-01        NAN            NAN         5.15E+00        6.50E-01            NAN           NAN
@@ -625,8 +624,8 @@
     52-Te-125   (n,el) 3.20E+00  1.50E-01        NAN            NAN              NAN             NAN            NAN           NAN
     52-Te-126   (n,el) 3.92E+00  1.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     52-Te-130   (n,el) 4.59E+00  1.10E-01        NAN            NAN              NAN             NAN            NAN           NAN
-     53-I-127   (n,el) 3.72E+00  6.00E-02        NAN            NAN         6.90E+00        5.52E-01            NAN           NAN
-    55-Cs-133   (n,el) 3.97E+00  5.00E-02        NAN            NAN         7.10E+00        5.68E-01            NAN           NAN
+     53-I-127   (n,el) 3.72E+00  6.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
+    55-Cs-133   (n,el) 3.97E+00  5.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
     56-Ba-132   (n,el) 7.90E+00  6.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     56-Ba-134   (n,el) 5.19E+00  1.80E-01        NAN            NAN              NAN             NAN            NAN           NAN
     56-Ba-135   (n,el) 3.79E+00  1.40E-01        NAN            NAN              NAN             NAN            NAN           NAN
@@ -641,7 +640,7 @@
     60-Nd-142   (n,el) 7.50E+00  5.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     60-Nd-143   (n,el) 8.04E+01  2.00E+00        NAN            NAN         6.70E+01        7.00E+00            NAN           NAN
     60-Nd-144   (n,el) 1.00E+00  2.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
-    60-Nd-145   (n,el) 1.65E+01  4.00E-01        NAN            NAN         1.70E+01        2.00E+00            NAN           NAN
+    60-Nd-145   (n,el) 1.65E+01  4.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     60-Nd-146   (n,el) 9.60E+00  4.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     60-Nd-148   (n,el) 4.30E+00  5.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     60-Nd-150   (n,el) 4.60E+00  4.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
@@ -698,7 +697,7 @@
      74-W-182   (n,el) 6.34E+00  7.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
      74-W-183   (n,el) 6.74E+00  5.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
      74-W-184   (n,el) 7.35E+00  1.70E-01        NAN            NAN              NAN             NAN            NAN           NAN
-     74-W-186   (n,el) 7.00E-02  1.00E-02        NAN            NAN         7.50E+00        1.00E+00            NAN           NAN
+     74-W-186   (n,el) 7.00E-02  1.00E-02        NAN            NAN              NAN             NAN            NAN           NAN
     75-Re-185   (n,el) 7.14E+00  1.00E+00        NAN            NAN              NAN             NAN            NAN           NAN
     75-Re-187   (n,el) 1.16E+01  2.40E+00        NAN            NAN              NAN             NAN            NAN           NAN
     76-Os-186   (n,el) 2.00E+01  4.00E+00        NAN            NAN         1.80E+01        5.00E+00            NAN           NAN
@@ -714,7 +713,7 @@
     78-Pt-195   (n,el) 1.01E+01  2.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     78-Pt-196   (n,el) 1.23E+01  2.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     78-Pt-198   (n,el) 7.81E+00  2.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
-    79-Au-197   (n,el) 7.90E+00  1.30E-01        NAN            NAN         9.30E+00        7.44E-01            NAN           NAN
+    79-Au-197   (n,el) 7.90E+00  1.30E-01        NAN            NAN              NAN             NAN            NAN           NAN
     80-Hg-198   (n,el) 9.50E+00  6.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     80-Hg-199   (n,el) 6.66E+01  2.00E+00        NAN            NAN              NAN             NAN            NAN           NAN
     81-Tl-203   (n,el) 9.91E+00  1.70E-01        NAN            NAN              NAN             NAN            NAN           NAN
@@ -725,7 +724,7 @@
     83-Bi-209   (n,el) 9.31E+00  4.00E-03        NAN            NAN              NAN             NAN       8.90E+00      1.49E+00
     88-Ra-226   (n,el) 9.80E+00  3.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     90-Th-229   (n,el) 9.36E+01       NAN        NAN            NAN              NAN             NAN            NAN           NAN
-    90-Th-230   (n,el) 1.04E+01  2.50E+00        NAN            NAN         1.60E+01        4.00E+00            NAN           NAN
+    90-Th-230   (n,el) 1.04E+01  2.50E+00        NAN            NAN              NAN             NAN            NAN           NAN
     90-Th-232   (n,el) 1.36E+01  8.00E-02        NAN            NAN              NAN             NAN       1.48E+01      3.00E-01
     91-Pa-231   (n,el) 1.08E+01  7.00E-01        NAN            NAN              NAN             NAN            NAN           NAN
     91-Pa-233   (n,el) 1.59E+01  3.20E+00        NAN            NAN              NAN             NAN            NAN           NAN

@@ -2306,7 +2306,6 @@
  23266044  F.Farina arbocco+  2013    27-CO-60  --  -- 2.53E-02  NAN 3.71E+01 2.00E-01
  23266045  F.Farina arbocco+  2013    27-CO-60  --  -- 2.53E-02  NAN 3.72E+01      NAN
  23266045  F.Farina arbocco+  2013    27-CO-60  --  -- 2.53E-02  NAN 3.71E+01      NAN
- 23488016        F.De corte+  1988  27-CO-60-G  --  -- 2.53E-02  NAN 3.72E+01 2.61E+00
  23266046  F.Farina arbocco+  2013  27-CO-60-G  --  -- 2.53E-02  NAN 1.67E+01 1.70E-01
  23266047  F.Farina arbocco+  2013  27-CO-60-G  --  -- 2.53E-02  NAN 1.67E+01      NAN
  22234003          I.Celenk+  1991  27-CO-60-M  --  -- 2.53E-02  NAN 4.69E+01      NAN
@@ -2326,7 +2325,6 @@
  11687005   R.P.Schuman+  1969    27-CO-60  MXW  -- 2.53E-02  NAN 3.80E+01 2.00E+00
  20625011  E.M.Gryntakis  1976    27-CO-60  MXW  -- 2.53E-02  NAN 3.75E+01 4.50E-01
  11528013    S.P.Harris+  1950    27-CO-60  SPA  -- 2.53E-02  NAN 3.57E+01      NAN
- 11738002   J.S.Merritt+  1968  27-CO-60-G  MXW  -- 2.53E-02  NAN 3.71E+01 2.70E-01
  20625010  E.M.Gryntakis  1976  27-CO-60-G  MXW  -- 2.53E-02  NAN 1.86E+01 1.70E+00
  11447026       L.Seren+  1947  27-CO-60-G  SPA  -- 2.53E-02  NAN 2.17E+01 4.34E+00
  11447025       L.Seren+  1947  27-CO-60-M  MXW  -- 2.53E-02  NAN 6.60E-01 1.32E-01
@@ -3112,12 +3110,6 @@
  23107003  G.Meierhofer+  2010    32-GE-75  --  -- 2.53E-02  NAN 4.98E-01 5.60E-02
  23107003  G.Meierhofer+  2010    32-GE-75  --  -- 2.53E-02  NAN 4.80E-01 5.00E-02
  23107006  G.Meierhofer+  2010    32-GE-75  --  -- 2.53E-02  NAN 4.97E-01 5.20E-02
- 23107004  G.Meierhofer+  2010  32-GE-75-G  --  -- 2.53E-02  NAN 3.75E-01 5.10E-02
- 23107004  G.Meierhofer+  2010  32-GE-75-G  --  -- 2.53E-02  NAN 3.84E-01 5.60E-02
- 23107004  G.Meierhofer+  2010  32-GE-75-G  --  -- 2.53E-02  NAN 3.62E-01 5.00E-02
- 23107004  G.Meierhofer+  2010  32-GE-75-G  --  -- 2.53E-02  NAN 3.60E-01 5.00E-02
- 23107004  G.Meierhofer+  2010  32-GE-75-G  --  -- 2.53E-02  NAN 3.66E-01 5.50E-02
- 23107004  G.Meierhofer+  2010  32-GE-75-G  --  -- 2.53E-02  NAN 3.48E-01 4.90E-02
  23107007  G.Meierhofer+  2010  32-GE-75-G  --  -- 2.53E-02  NAN 3.65E-01 5.10E-02
  23107002  G.Meierhofer+  2010  32-GE-75-M  --  -- 2.53E-02  NAN 1.33E-01 7.30E-03
  23107002  G.Meierhofer+  2010  32-GE-75-M  --  -- 2.53E-02  NAN 1.32E-01 9.70E-03
@@ -3166,7 +3158,6 @@
   dataset    firstauthor  year         sf4 sf8 sf9       en  den    ydata   yddata
  23092007  G.Meierhofer+  2009    32-GE-77  --  -- 2.53E-02  NAN 1.62E-01      NAN
  23092008  G.Meierhofer+  2009    32-GE-77  --  -- 2.53E-02  NAN 1.55E-01 1.68E-02
- 23092003  G.Meierhofer+  2009  32-GE-77-G  --  -- 2.53E-02  NAN 6.88E-02 3.40E-03
  23092004  G.Meierhofer+  2009  32-GE-77-G  --  -- 2.53E-02  NAN 4.69E-02 4.92E-03
  23092009  G.Meierhofer+  2009  32-GE-77-G  --  -- 2.53E-02  NAN 3.99E-02 4.90E-03
  23092002  G.Meierhofer+  2009  32-GE-77-M  --  -- 2.53E-02  NAN 1.15E-01 1.60E-02
@@ -3177,7 +3168,6 @@
  11447038          L.Seren+  1947    32-GE-77  SPA  -- 2.53E-02  NAN 8.50E-02 1.70E-02
  11426010   W.A.Brooksbank+  1955    32-GE-77  SPA  -- 2.53E-02  NAN 4.60E-01      NAN
  11823005  E.Der mateosian+  1957  32-GE-77-G  MXW  -- 2.53E-02  NAN 7.60E-02 1.50E-02
- 31753004     K.F.Alexander  1964  32-GE-77-G  MXW  -- 2.53E-02  NAN 1.15E-01 2.50E-02
  12866042          R.E.Heft  1978  32-GE-77-G  SPA  -- 2.50E-02  NAN 5.50E-02 1.00E-03
  11823004  E.Der mateosian+  1957  32-GE-77-M  MXW  -- 2.53E-02  NAN 8.70E-02 1.50E-02
  21342005        H.Weigmann  1962  32-GE-77-M  MXW  -- 2.53E-02  NAN 1.20E-01 3.00E-02
@@ -3463,25 +3453,23 @@
 # EXFOR MXW/SPA data mean
 #     2.82E+00 (+/-  3.20E-01)
 # ------ EXFOR data ------
-  dataset        firstauthor  year         sf4 sf8 sf9       en  den    ydata   yddata
- 20789023          T.B.Ryves  1970    35-BR-82  --  -- 2.53E-02  NAN 2.69E+00 6.47E-02
- 23266078  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.59E+00 3.00E-02
- 23266079  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.60E+00      NAN
- 23266079  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.60E+00      NAN
- 23266079  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.59E+00      NAN
- 23266079  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.60E+00      NAN
- 23266079  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.60E+00      NAN
- 23266079  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.52E+00      NAN
- 23266079  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.61E+00      NAN
- 23266079  F.Farina arbocco+  2013    35-BR-82  --  -- 2.53E-02  NAN 2.58E+00      NAN
- 23488026        F.De corte+  1988  35-BR-82-G  --  -- 2.53E-02  NAN 2.59E+00 3.11E-02
+  dataset        firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
+ 20789023          T.B.Ryves  1970  35-BR-82  --  -- 2.53E-02  NAN 2.69E+00 6.47E-02
+ 23266078  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.59E+00 3.00E-02
+ 23266079  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.60E+00      NAN
+ 23266079  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.60E+00      NAN
+ 23266079  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.59E+00      NAN
+ 23266079  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.60E+00      NAN
+ 23266079  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.60E+00      NAN
+ 23266079  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.52E+00      NAN
+ 23266079  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.61E+00      NAN
+ 23266079  F.Farina arbocco+  2013  35-BR-82  --  -- 2.53E-02  NAN 2.58E+00      NAN
 # ------ MXW/SPA data ------
   dataset firstauthor  year         sf4  sf8 sf9       en  den    ydata   yddata
  10644031   G.Gleason  1975    35-BR-82  MXW  -- 2.53E-02  NAN 2.10E+00 1.00E-01
  11447046    L.Seren+  1947    35-BR-82  SPA  -- 2.53E-02  NAN 2.25E+00 4.50E-01
  11625012    W.S.Lyon  1960    35-BR-82  SPA  -- 2.53E-02  NAN 4.10E+00 4.10E-01
  11829002   J.F.Emery  1965  35-BR-82-G  SPA  -- 2.53E-02  NAN 2.60E-01      NAN
- 11829006   J.F.Emery  1965  35-BR-82-G  SPA  -- 2.53E-02  NAN 3.23E+00 2.00E-01
  12866060    R.E.Heft  1978  35-BR-82-G  SPA  -- 2.50E-02  NAN 2.35E-01 4.00E-03
  11829004   J.F.Emery  1965  35-BR-82-M  SPA  -- 2.53E-02  NAN 3.30E+00      NAN
  12866058    R.E.Heft  1978  35-BR-82-M  SPA  -- 2.50E-02  NAN 2.12E+00 3.00E-02
@@ -3614,7 +3602,6 @@
   dataset    firstauthor  year         sf4  sf8 sf9       en  den    ydata   yddata
  11858013   J.Macnamara+  1950    36-KR-85  SPA  -- 2.53E-02  NAN 1.05E+00 9.50E-01
  11849003    T.Eastwood+  1963    36-KR-85  SPA  -- 2.53E-02  NAN 4.20E-02 4.20E-03
- 11887002    E.Hoagland+  1951  36-KR-85-G  SPA  -- 2.53E-02  NAN 6.20E-02      NAN
  11883006    E.Kondaiah+  1968  36-KR-85-M  MXW  -- 2.53E-02  NAN 9.00E-02 1.30E-02
  21896003  R.D.Penzhorn+  1983  36-KR-85-M  MXW  -- 2.50E-02  NAN 8.50E-02 6.00E-03
  11887003    E.Hoagland+  1951  36-KR-85-M  SPA  -- 2.53E-02  NAN 9.60E-02      NAN
@@ -3687,7 +3674,7 @@
 # EXFOR data mean
 #     5.12E-01 (+/-  6.21E-03)
 # EXFOR MXW/SPA data mean
-#     6.05E-01 (+/-  4.56E-02)
+#     6.20E-01 (+/-  5.13E-02)
 # ------ EXFOR data ------
   dataset        firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
  23488027        F.De corte+  1988  37-RB-86  --  -- 2.53E-02  NAN 4.94E-01 7.41E-03
@@ -3701,7 +3688,6 @@
  11447047        L.Seren+  1947    37-RB-86  SPA  -- 2.53E-02  NAN 7.20E-01 1.44E-01
  11625013        W.S.Lyon  1960    37-RB-86  SPA  -- 2.53E-02  NAN 1.00E+00 1.00E-01
  11813009     G.H.E.Sims+  1967    37-RB-86  SPA  -- 2.53E-02  NAN 6.65E-01 9.00E-03
- 12866062        R.E.Heft  1978    37-RB-86  SPA  -- 2.50E-02  NAN 5.19E-01 1.10E-02
  11748009        B.Keisch  1963  37-RB-86-G  MXW  -- 2.53E-02  NAN 4.50E-01 4.00E-02
  21403004  A.Foglio para+  1967  37-RB-86-G  MXW  -- 2.53E-02  NAN 4.05E-01 4.00E-02
  31246004       H.S.Hans+  1960  37-RB-86-M  MXW  -- 2.53E-02  NAN 7.00E-03 2.00E-03
@@ -3789,9 +3775,6 @@
 # ------ EXFOR data ------
   dataset        firstauthor  year         sf4 sf8 sf9       en  den    ydata   yddata
  11649003           W.S.Lyon  1953    38-SR-85  --  -- 2.53E-02  NAN 1.46E+00 1.46E-01
- 23488030        F.De corte+  1988  38-SR-85-G  --  -- 2.53E-02  NAN 1.04E-03 1.04E-05
- 23260072  F.Farina arbocco+  2014  38-SR-85-G  --  -- 2.53E-02  NAN 7.00E-01 7.00E-03
- 23260073  F.Farina arbocco+  2014  38-SR-85-G  --  -- 2.53E-02  NAN 7.00E-01      NAN
  23488029        F.De corte+  1988  38-SR-85-M  --  -- 2.53E-02  NAN 6.10E-01 9.15E-03
  23260070  F.Farina arbocco+  2014  38-SR-85-M  --  -- 2.53E-02  NAN 6.59E-01 3.00E-03
  23260071  F.Farina arbocco+  2014  38-SR-85-M  --  -- 2.53E-02  NAN 6.57E-01      NAN
@@ -3801,7 +3784,6 @@
  23519002   G.E.Harrison+  1952    38-SR-85  SPA  -- 2.53E-02  NAN 3.20E-01 6.40E-02
  31246006       H.S.Hans+  1960  38-SR-85-G  MXW  -- 2.53E-02  NAN 6.00E-01 2.00E-01
  21403006  A.Foglio para+  1967  38-SR-85-G  MXW  -- 2.53E-02  NAN 2.40E-01 7.20E-04
- 21116003      M.Asdente+  1956  38-SR-85-G  SPA  -- 2.53E-02  NAN 1.59E+00 1.10E-01
  12866068        R.E.Heft  1978  38-SR-85-G  SPA  -- 2.50E-02  NAN 1.99E-01 1.00E-02
  31246005       H.S.Hans+  1960  38-SR-85-M  MXW  -- 2.53E-02  NAN 4.00E-01 2.00E-01
  11832004     H.H.Kramer+  1965  38-SR-85-M  MXW  -- 2.53E-02  NAN 6.50E-01 6.50E-02
@@ -5516,14 +5498,12 @@
 # Maxw.(n,g)                     |  (n,g)
 #          NAN (+/-       NAN)   |     2.02E+02  (+/-  2.00E+00)
 # EXFOR data mean
-#     1.52E+02 (+/-  3.53E+00)
+#     1.51E+02 (+/-  4.08E+00)
 # EXFOR MXW/SPA data mean
 #     1.42E+02 (+/-  7.79E+00)
 # ------ EXFOR data ------
   dataset        firstauthor  year              sf4 sf8 sf9       en  den    ydata   yddata
  22234005          I.Celenk+  1991      49-IN-116-M  --  -- 2.53E-02  NAN 1.92E+02      NAN
- 20610003         W.Mannhart  1975     49-IN-116-M1  --  -- 2.53E-02  NAN 1.62E+02 7.00E-01
- 23488048        F.De corte+  1988     49-IN-116-M1  --  -- 2.53E-02  NAN 1.57E+02 4.71E+00
  20789025          T.B.Ryves  1970  49-IN-116-M1+M2  --  -- 2.53E-02  NAN 1.61E+02 2.24E+00
  23260099  F.Farina arbocco+  2014  49-IN-116-M1+M2  --  -- 2.53E-02  NAN 1.58E+02 2.00E+00
  23260100  F.Farina arbocco+  2014  49-IN-116-M1+M2  --  -- 2.53E-02  NAN 1.59E+02      NAN
@@ -5604,14 +5584,10 @@
 # EXFOR MXW/SPA data mean
 #     8.09E-01 (+/-  1.98E-01)
 # ------ EXFOR data ------
-  dataset        firstauthor  year          sf4 sf8 sf9       en  den    ydata   yddata
- 14107002         K.S.Krane+  2006    50-SN-113  --  -- 2.53E-02  NAN 5.13E-01 3.00E-02
- 23488049        F.De corte+  1988  50-SN-113-G  --  -- 2.53E-02  NAN 5.41E-01 1.08E-02
- 14107003         K.S.Krane+  2006  50-SN-113-G  --  -- 2.53E-02  NAN 3.86E-01 3.80E-02
- 23260101  F.Farina arbocco+  2014  50-SN-113-G  --  -- 2.53E-02  NAN 5.41E-01 1.00E-03
- 23260102  F.Farina arbocco+  2014  50-SN-113-G  --  -- 2.53E-02  NAN 5.41E-01      NAN
- 23260102  F.Farina arbocco+  2014  50-SN-113-G  --  -- 2.53E-02  NAN 5.40E-01      NAN
- 14107004         K.S.Krane+  2006  50-SN-113-M  --  -- 2.53E-02  NAN 1.40E-01 2.60E-02
+  dataset firstauthor  year          sf4 sf8 sf9       en  den    ydata   yddata
+ 14107002  K.S.Krane+  2006    50-SN-113  --  -- 2.53E-02  NAN 5.13E-01 3.00E-02
+ 14107003  K.S.Krane+  2006  50-SN-113-G  --  -- 2.53E-02  NAN 3.86E-01 3.80E-02
+ 14107004  K.S.Krane+  2006  50-SN-113-M  --  -- 2.53E-02  NAN 1.40E-01 2.60E-02
 # ------ MXW/SPA data ------
   dataset   firstauthor  year          sf4  sf8 sf9       en  den    ydata   yddata
  12608002       W.Lyon+  1967    50-SN-113  MXW  -- 2.53E-02  NAN 6.50E-01      NAN
@@ -5958,23 +5934,9 @@
 # EXFOR MXW/SPA data mean
 #     4.10E+00 (+/-  2.53E-01)
 # ------ EXFOR data ------
-  dataset        firstauthor  year          sf4 sf8 sf9       en  den    ydata   yddata
- 12602005          C.H.Hogg+  1970    51-SB-124  --  -- 2.53E-02  NAN 4.30E+00 4.00E-01
- 20789029          T.B.Ryves  1970    51-SB-124  --  -- 2.53E-02  NAN 4.14E+00 8.53E-02
- 23488055        F.De corte+  1988  51-SB-124-G  --  -- 2.53E-02  NAN 4.08E+00 9.38E-02
- 23260109  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.89E+00 3.00E-02
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.90E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.88E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.90E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.87E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.89E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.93E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.88E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.84E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.89E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.90E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.94E+00      NAN
- 23260110  F.Farina arbocco+  2014  51-SB-124-G  --  -- 2.53E-02  NAN 3.91E+00      NAN
+  dataset firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
+ 12602005   C.H.Hogg+  1970  51-SB-124  --  -- 2.53E-02  NAN 4.30E+00 4.00E-01
+ 20789029   T.B.Ryves  1970  51-SB-124  --  -- 2.53E-02  NAN 4.14E+00 8.53E-02
 # ------ MXW/SPA data ------
   dataset       firstauthor  year          sf4  sf8 sf9       en  den    ydata   yddata
  11507059       H.Pomerance  1952    51-SB-124  MXW  -- 2.53E-02  NAN 3.94E+00 3.15E-01
@@ -5984,7 +5946,6 @@
  11658012       G.H.E.Sims+  1968    51-SB-124  SPA  -- 2.53E-02  NAN 5.88E+00 1.20E-01
  12866110          R.E.Heft  1978    51-SB-124  SPA  -- 2.50E-02  NAN 3.78E+00 8.00E-02
  21404003         E.Orvini+  1967  51-SB-124-G  MXW  -- 2.53E-02  NAN 4.03E+00 1.60E-01
- 11658011       G.H.E.Sims+  1968  51-SB-124-G  MXW  -- 2.53E-02  NAN 4.44E+00 9.00E-02
  11987002       K.E.Plumlee  1968  51-SB-124-G  MXW  -- 2.53E-02  NAN 4.00E+00 8.00E-01
  11997002  E.Der mateosian+  1947  51-SB-124-M  MXW  -- 2.53E-02  NAN 3.00E-02      NAN
 # ------ Recom./Eval./Deriv. data ------
@@ -8744,7 +8705,6 @@
  20187008          J.Alstad+  1972  66-DY-165-G  --  -- 2.53E-02  NAN 1.10E+03 1.50E+02
  21563024           M.Lucas+  1977  66-DY-165-G  --  -- 2.53E-02  NAN 2.70E+03      NAN
  21563024           M.Lucas+  1977  66-DY-165-G  --  -- 2.53E-02  NAN 2.71E+03      NAN
- 23488073        F.De corte+  1988  66-DY-165-G  --  -- 2.53E-02  NAN 2.72E+03 3.54E+02
  22234006          I.Celenk+  1991  66-DY-165-G  --  -- 2.53E-02  NAN 1.06E+03      NAN
  20187007          J.Alstad+  1972  66-DY-165-M  --  -- 2.53E-02  NAN 1.70E+03 2.50E+02
  23488073        F.De corte+  1988  66-DY-165-M  --  -- 2.53E-02  NAN 1.70E+03 2.55E+01
@@ -9409,7 +9369,7 @@
 # EXFOR data mean
 #     2.02E+03 (+/-  1.09E+02)
 # EXFOR MXW/SPA data mean
-#     1.12E+03 (+/-  3.43E+01)
+#     4.55E+00 (+/-  1.40E+00)
 # ------ EXFOR data ------
   dataset   firstauthor  year          sf4 sf8 sf9       en      den    ydata   yddata
  21322005   A.H.Baston+  1960    71-LU-177  --  -- 2.53E-02      NAN 2.10E+03 1.50E+02
@@ -9432,7 +9392,6 @@
  20096002  M.Jorgensen+  1962  71-LU-177-M  --  -- 2.53E-02      NAN 1.00E+00      NAN
 # ------ MXW/SPA data ------
   dataset    firstauthor  year           sf4  sf8 sf9       en  den    ydata   yddata
- 12866172       R.E.Heft  1978     71-LU-177  SPA  -- 2.50E-02  NAN 3.35E+03 1.00E+02
  11447110       L.Seren+  1947   71-LU-177-G  MXW  -- 2.53E-02  NAN 3.64E+03 7.28E+02
  31818002      C.Heiser+  1965   71-LU-177-L  SPA  -- 2.53E-02  NAN 3.15E+02 6.00E+01
  12088002  D.R.Nethaway+  1967  71-LU-177-M1  MXW  -- 2.53E-02  NAN 7.00E+00 2.10E+00
@@ -9691,19 +9650,6 @@
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
  V1002381  S.F.Mughabghab  2006  72-HF-181  --  RECOM 2.53E-02  NAN 1.30E+01 7.00E-02
-
-
-
-72-Hf-180-M (n,g)
-# no Evaluated data
-# EXFOR data mean
-#          NAN (+/-       NAN)
-# EXFOR MXW/SPA data mean
-#          NAN (+/-       NAN)
-# ------ EXFOR data ------
-# ------ Recom./Eval./Deriv. data ------
-  dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
- V1002384  S.F.Mughabghab  2006  72-HF-181  --  RECOM 2.53E-02  NAN 5.20E+01 1.30E+01
 
 
 
@@ -12495,7 +12441,6 @@
  41514002   E.F.Fomushkin+  2007  95-AM-242-G      MXW  -- 2.50E-02  NAN 8.36E+02 3.20E+01
  12576002     G.T.Seaborg+  1946  95-AM-242-G      SPA  -- 2.53E-02  NAN 5.60E+02 8.40E+01
  12576003     G.T.Seaborg+  1946  95-AM-242-G      SPA  -- 2.53E-02  NAN 8.00E+02      NAN
- 13575002       G.C.Hanna+  1951  95-AM-242-G      SPA  -- 2.53E-02  NAN 5.68E+02 5.68E+01
  12583003     K.Street jr+  1952  95-AM-242-G      SPA  -- 2.53E-02  NAN 3.00E+02      NAN
  12578002        R.W.Hoff+  1959  95-AM-242-G      SPA  -- 2.53E-02  NAN 6.20E+02 6.50E+01
  12566002       D.H.White+  1965  95-AM-242-L      MXW  -- 2.53E-02  NAN 1.00E-05      NAN

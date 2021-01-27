@@ -4,14 +4,13 @@
 # EXFOR data mean
 #     5.70E+01 (+/-  5.70E-01)
 # EXFOR MXW/SPA data mean
-#     3.18E+01 (+/-  7.97E+00)
+#     1.60E+01 (+/-       NAN)
 # ------ EXFOR data ------
   dataset firstauthor  year    sf4 sf8 sf9       en  den    ydata   yddata
  21274007  U.Schmidt+  1966  1-H-1  --  -- 2.55E-02  NAN 5.70E+01 5.70E-01
 # ------ MXW/SPA data ------
-  dataset   firstauthor  year    sf4  sf8 sf9       en  den    ydata   yddata
- 12649002     D.M.Yost+  1936  1-H-1  MXW  -- 2.53E-02  NAN 1.60E+01      NAN
- 22518013  M.Goldhaber+  1937  1-H-1  MXW  -- 2.53E-02  NAN 4.75E+01 7.97E+00
+  dataset firstauthor  year    sf4  sf8 sf9       en  den    ydata  yddata
+ 12649002   D.M.Yost+  1936  1-H-1  MXW  -- 2.53E-02  NAN 1.60E+01     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year    sf4 sf8    sf9       en  den    ydata   yddata
  V1001002  S.F.Mughabghab  2006  1-H-1  --  RECOM 2.53E-02  NAN 2.05E+01 1.40E-02
@@ -22,15 +21,10 @@
 # Evaluated data (n,el)
 #     3.39E+00 (+/-  1.20E-02)
 # EXFOR data mean
-#     2.25E+00 (+/-  4.00E-02)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     7.00E+00 (+/-  1.17E+00)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset firstauthor  year    sf4 sf8 sf9       en  den    ydata   yddata
- 21433002   W.Gissler  1963  1-H-2  --  -- 2.53E-02  NAN 2.25E+00 4.00E-02
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year    sf4  sf8 sf9       en  den    ydata   yddata
- 22518014  M.Goldhaber+  1937  1-H-2  MXW  -- 2.53E-02  NAN 7.00E+00 1.17E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year    sf4 sf8    sf9       en  den    ydata   yddata
  V1001003  S.F.Mughabghab  2006  1-H-2  --  RECOM 2.53E-02  NAN 3.39E+00 1.20E-02
@@ -240,15 +234,11 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     1.10E+01 (+/-       NAN)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-# ------ MXW/SPA data ------
-  dataset firstauthor  year    sf4  sf8 sf9       en  den    ydata  yddata
- 21234004    J.Rossel  1947  7-N-0  MXW  -- 2.53E-02  NAN 1.10E+01     NAN
 # ------ Recom./Eval./Deriv. data ------
-  dataset     firstauthor  year    sf4  sf8    sf9       en  den    ydata   yddata
- 21234005        J.Rossel  1947  7-N-0  MXW  DERIV 2.53E-02  NAN 1.00E+01      NAN
- V1001031  S.F.Mughabghab  2006  7-N-0   --  RECOM 2.53E-02  NAN 1.00E+01 8.00E-02
+  dataset     firstauthor  year    sf4 sf8    sf9       en  den    ydata   yddata
+ V1001031  S.F.Mughabghab  2006  7-N-0  --  RECOM 2.53E-02  NAN 1.00E+01 8.00E-02
 
 
 
@@ -256,15 +246,10 @@
 # Evaluated data (n,el)
 #     1.00E+01 (+/-  1.20E-01)
 # EXFOR data mean
-#     1.05E+01 (+/-       NAN)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     8.20E+00 (+/-  1.38E+00)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset firstauthor  year     sf4 sf8 sf9       en  den    ydata  yddata
- 21167004   A.Gibert+  1946  7-N-14  --  -- 2.53E-02  NAN 1.05E+01     NAN
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year     sf4  sf8 sf9       en  den    ydata   yddata
- 22518017  M.Goldhaber+  1937  7-N-14  MXW  -- 2.53E-02  NAN 8.20E+00 1.38E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year     sf4 sf8    sf9       en  den    ydata   yddata
  V1001032  S.F.Mughabghab  2006  7-N-14  --  RECOM 2.53E-02  NAN 1.00E+01 1.20E-01
@@ -304,11 +289,8 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     4.20E+00 (+/-  7.04E-01)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year     sf4  sf8 sf9       en  den    ydata   yddata
- 22518018  M.Goldhaber+  1937  8-O-16  MXW  -- 2.53E-02  NAN 4.20E+00 7.04E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year     sf4 sf8    sf9       en  den    ydata   yddata
  V1001038  S.F.Mughabghab  2006  8-O-16  --  RECOM 2.53E-02  NAN 3.76E+00 6.00E-03
@@ -335,15 +317,13 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     3.92E+00 (+/-  6.88E-01)
+#     3.75E+00 (+/-       NAN)
 # ------ EXFOR data ------
 # ------ MXW/SPA data ------
-  dataset   firstauthor  year     sf4  sf8 sf9       en  den    ydata   yddata
- 22518019  M.Goldhaber+  1937  9-F-19  MXW  -- 2.53E-02  NAN 4.10E+00 6.88E-01
- 11434002   C.T.Hibdon+  1951  9-F-19  MXW  -- 2.53E-02  NAN 3.75E+00      NAN
+  dataset  firstauthor  year     sf4  sf8 sf9       en  den    ydata  yddata
+ 11434002  C.T.Hibdon+  1951  9-F-19  MXW  -- 2.53E-02  NAN 3.75E+00     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year     sf4 sf8    sf9       en  den    ydata   yddata
- 20602002          W.Dilg  1974  9-F-19  --  DERIV 2.53E-02  NAN 3.58E+00 1.40E-02
  V1001046  S.F.Mughabghab  2006  9-F-19  --  RECOM 2.53E-02  NAN 3.64E+00 1.00E-02
 
 
@@ -414,11 +394,8 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     3.60E+00 (+/-  6.04E-01)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year       sf4  sf8 sf9       en  den    ydata   yddata
- 22518020  M.Goldhaber+  1937  11-NA-23  MXW  -- 2.53E-02  NAN 3.60E+00 6.04E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
  V1001060  S.F.Mughabghab  2006  11-NA-23  --  RECOM 2.53E-02  NAN 3.04E+00 7.00E-03
@@ -487,18 +464,15 @@
 # Evaluated data (n,el)
 #     1.41E+00 (+/-  1.00E-03)
 # EXFOR data mean
-#     2.50E+00 (+/-  2.00E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #     1.60E+00 (+/-  2.68E-01)
 # ------ EXFOR data ------
-  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11043034    C.Shull+  1951  13-AL-27  --  -- 2.53E-02  NAN 2.50E+00 2.00E-01
 # ------ MXW/SPA data ------
   dataset   firstauthor  year       sf4  sf8 sf9       en  den    ydata   yddata
  22518022  M.Goldhaber+  1937  13-AL-27  MXW  -- 2.53E-02  NAN 1.60E+00 2.68E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
- 20602004          W.Dilg  1974  13-AL-27  --  DERIV 2.53E-02  NAN 1.42E+00 3.00E-03
  V1001077  S.F.Mughabghab  2006  13-AL-27  --  RECOM 2.53E-02  NAN 1.41E+00 1.00E-03
 
 
@@ -646,11 +620,8 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     1.00E+01 (+/-  1.68E+00)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
- 22518026  M.Goldhaber+  1937  17-CL-0  MXW  -- 2.53E-02  NAN 1.00E+01 1.68E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  V1001103  S.F.Mughabghab  2006  17-CL-0  --  RECOM 2.53E-02  NAN 1.58E+01 2.00E-01
@@ -750,11 +721,8 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     1.50E+00 (+/-  2.52E-01)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year     sf4  sf8 sf9       en  den    ydata   yddata
- 22518027  M.Goldhaber+  1937  19-K-0  MXW  -- 2.53E-02  NAN 1.50E+00 2.52E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year     sf4 sf8    sf9       en  den    ydata   yddata
  V1001120  S.F.Mughabghab  2006  19-K-0  --  RECOM 2.53E-02  NAN 2.04E+00 1.00E-01
@@ -849,16 +817,14 @@
 # Evaluated data (n,el)
 #     2.24E+01 (+/-  4.00E-01)
 # EXFOR data mean
-#     2.38E+01 (+/-  1.60E+00)
+#     2.40E+01 (+/-  2.00E+00)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset    firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 12622004    W.Milligan+  1953  21-SC-45  --  -- 2.53E-02  NAN 2.40E+01 2.00E+00
- 21280008  N.J.Pattenden  1955  21-SC-45  --  -- 2.53E-02  NAN 2.36E+01 1.20E+00
+  dataset  firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
+ 12622004  W.Milligan+  1953  21-SC-45  --  -- 2.53E-02  NAN 2.40E+01 2.00E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
- 20602006          W.Dilg  1974  21-SC-45  --  DERIV 2.53E-02  NAN 2.21E+01 4.00E-01
  V1001149  S.F.Mughabghab  2006  21-SC-45  --  RECOM 2.53E-02  NAN 2.24E+01 4.00E-01
 
 
@@ -868,14 +834,13 @@
 # EXFOR data mean
 #     4.00E+00 (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     6.20E+00 (+/-  1.04E+00)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
   dataset firstauthor  year      sf4 sf8 sf9       en  den    ydata  yddata
  11642004    C.Shull+  1960  22-TI-0  --  -- 2.53E-02  NAN 4.00E+00     NAN
 # ------ MXW/SPA data ------
-  dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
- 11434003   C.T.Hibdon+  1951       --  MXW  -- 2.53E-02  NAN 3.96E+00      NAN
- 22518029  M.Goldhaber+  1937  22-TI-0  MXW  -- 2.53E-02  NAN 6.20E+00 1.04E+00
+  dataset  firstauthor  year sf4  sf8 sf9       en  den    ydata  yddata
+ 11434003  C.T.Hibdon+  1951  --  MXW  -- 2.53E-02  NAN 3.96E+00     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  V1001153  S.F.Mughabghab  2006  22-TI-0  --  RECOM 2.53E-02  NAN 4.09E+00 3.00E-02
@@ -886,13 +851,12 @@
 # Evaluated data (n,el)
 #     2.74E+00 (+/-  6.00E-02)
 # EXFOR data mean
-#     2.80E+00 (+/-  3.00E-01)
+#     2.10E+00 (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset        firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11642007           C.Shull+  1960  22-TI-46  --  -- 2.53E-02  NAN 2.10E+00      NAN
- 41263003  E.Ya.Doil'nitsyn+  1969  22-TI-46  --  -- 2.50E-02  NAN 3.50E+00 3.00E-01
+  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata  yddata
+ 11642007    C.Shull+  1960  22-TI-46  --  -- 2.53E-02  NAN 2.10E+00     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
  V1001156  S.F.Mughabghab  2006  22-TI-46  --  RECOM 2.53E-02  NAN 2.72E+00 6.00E-02
@@ -903,13 +867,12 @@
 # Evaluated data (n,el)
 #     3.43E+00 (+/-  2.20E-01)
 # EXFOR data mean
-#     2.15E+00 (+/-  3.00E-01)
+#     1.30E+00 (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset        firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11642010           C.Shull+  1960  22-TI-47  --  -- 2.53E-02  NAN 1.30E+00      NAN
- 41263005  E.Ya.Doil'nitsyn+  1969  22-TI-47  --  -- 2.50E-02  NAN 3.00E+00 3.00E-01
+  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata  yddata
+ 11642010    C.Shull+  1960  22-TI-47  --  -- 2.53E-02  NAN 1.30E+00     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
  V1001159  S.F.Mughabghab  2006  22-TI-47  --  RECOM 2.53E-02  NAN 3.10E+00 2.00E-01
@@ -920,13 +883,12 @@
 # Evaluated data (n,el)
 #     4.10E+00 (+/-  2.00E-01)
 # EXFOR data mean
-#     4.05E+00 (+/-  2.00E-01)
+#     3.70E+00 (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset        firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11642013           C.Shull+  1960  22-TI-48  --  -- 2.53E-02  NAN 3.70E+00      NAN
- 41263007  E.Ya.Doil'nitsyn+  1969  22-TI-48  --  -- 2.50E-02  NAN 4.40E+00 2.00E-01
+  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata  yddata
+ 11642013    C.Shull+  1960  22-TI-48  --  -- 2.53E-02  NAN 3.70E+00     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
  V1001162  S.F.Mughabghab  2006  22-TI-48  --  RECOM 2.53E-02  NAN 4.10E+00 2.00E-01
@@ -937,13 +899,12 @@
 # Evaluated data (n,el)
 #     7.00E-01 (+/-  3.00E-01)
 # EXFOR data mean
-#     2.10E+00 (+/-  4.00E-01)
+#     1.00E+00 (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset        firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11642016           C.Shull+  1960  22-TI-49  --  -- 2.53E-02  NAN 1.00E+00      NAN
- 41263009  E.Ya.Doil'nitsyn+  1969  22-TI-49  --  -- 2.50E-02  NAN 3.20E+00 4.00E-01
+  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata  yddata
+ 11642016    C.Shull+  1960  22-TI-49  --  -- 2.53E-02  NAN 1.00E+00     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
  V1001165  S.F.Mughabghab  2006  22-TI-49  --  RECOM 2.53E-02  NAN 7.00E-01 3.00E-01
@@ -969,22 +930,14 @@
 23-V-0 (n,el)
 # no Evaluated data
 # EXFOR data mean
-#     4.74E+00 (+/-  6.25E-02)
+#     4.87E+00 (+/-  5.00E-02)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset     firstauthor  year     sf4 sf8 sf9       en      den    ydata   yddata
- 20369003    H.Ceulemans+  1970  23-V-0  --  -- 2.53E-02      NAN 4.87E+00 5.00E-02
- 40294004  V.P.Vertebnyj+  1973  23-V-0  --  -- 2.53E-02 2.50E-07 4.70E+00 1.00E-01
- 40294004  V.P.Vertebnyj+  1973  23-V-0  --  -- 2.53E-02 9.00E-07 4.70E+00 3.00E-02
- 40294004  V.P.Vertebnyj+  1973  23-V-0  --  -- 2.53E-02 1.75E-06 4.60E+00 1.00E-01
- 40294004  V.P.Vertebnyj+  1973  23-V-0  --  -- 2.53E-02 1.75E-06 4.79E+00 6.00E-02
- 40294004  V.P.Vertebnyj+  1973  23-V-0  --  -- 2.53E-02 1.75E-06 4.80E+00 1.00E-01
- 40294004  V.P.Vertebnyj+  1973  23-V-0  --  -- 2.53E-02 1.75E-06 4.75E+00 3.00E-02
- 40294012  V.P.Vertebnyj+  1973  23-V-0  --  -- 2.53E-02      NAN 4.75E+00 3.00E-02
+  dataset   firstauthor  year     sf4 sf8 sf9       en  den    ydata   yddata
+ 20369003  H.Ceulemans+  1970  23-V-0  --  -- 2.53E-02  NAN 4.87E+00 5.00E-02
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year     sf4 sf8    sf9       en  den    ydata   yddata
- 20602008          W.Dilg  1974  23-V-0  --  DERIV 2.53E-02  NAN 4.79E+00 3.00E-02
  V1001171  S.F.Mughabghab  2006  23-V-0  --  RECOM 2.53E-02  NAN 4.95E+00 4.00E-02
 
 
@@ -993,12 +946,10 @@
 # Evaluated data (n,el)
 #     7.50E+00 (+/-  1.00E+00)
 # EXFOR data mean
-#     7.50E+00 (+/-  1.00E+00)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset     firstauthor  year      sf4 sf8 sf9       en  den    ydata   yddata
- 40294015  V.P.Vertebnyj+  1973  23-V-50  --  -- 2.53E-02  NAN 7.50E+00 1.00E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  V1001173  S.F.Mughabghab  2006  23-V-50  --  RECOM 2.53E-02  NAN 7.60E+00 6.00E-01
@@ -1009,12 +960,11 @@
 # Evaluated data (n,el)
 #     4.90E+00 (+/-  6.00E-02)
 # EXFOR data mean
-#     4.25E+00 (+/-  2.48E-01)
+#     4.80E+00 (+/-  2.00E-01)
 # EXFOR MXW/SPA data mean
 #     4.00E+00 (+/-  6.71E-01)
 # ------ EXFOR data ------
   dataset    firstauthor  year      sf4 sf8 sf9       en  den    ydata   yddata
- 11043061       C.Shull+  1951  23-V-51  --  -- 2.53E-02  NAN 3.70E+00 2.96E-01
  21278003  P.A.Egelstaff  1953  23-V-51  --  -- 2.53E-02  NAN 4.80E+00 2.00E-01
 # ------ MXW/SPA data ------
   dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
@@ -1087,12 +1037,10 @@
 # Evaluated data (n,el)
 #     2.06E+00 (+/-  3.00E-02)
 # EXFOR data mean
-#     3.80E+00 (+/-  3.04E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #     2.10E+00 (+/-  3.52E-01)
 # ------ EXFOR data ------
-  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11043066    C.Shull+  1951  25-MN-55  --  -- 2.53E-02  NAN 3.80E+00 3.04E-01
 # ------ MXW/SPA data ------
   dataset   firstauthor  year       sf4  sf8 sf9       en  den    ydata   yddata
  22518032  M.Goldhaber+  1937  25-MN-55  MXW  -- 2.53E-02  NAN 2.10E+00 3.52E-01
@@ -1105,17 +1053,13 @@
 26-Fe-0 (n,el)
 # no Evaluated data
 # EXFOR data mean
-#     1.13E+01 (+/-  4.00E-02)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     7.37E+00 (+/-  5.99E-01)
+#     1.03E+01 (+/-  1.73E+00)
 # ------ EXFOR data ------
-  dataset firstauthor  year      sf4 sf8 sf9       en  den    ydata   yddata
- 20602010      W.Dilg  1974  26-FE-0  --  -- 2.53E-02  NAN 1.13E+01 4.00E-02
 # ------ MXW/SPA data ------
-  dataset    firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
- 22518033   M.Goldhaber+  1937  26-FE-0  MXW  -- 2.53E-02  NAN 1.03E+01 1.73E+00
- 12599002  M.D.Goldberg+  1953  26-FE-0  SPA  -- 2.53E-02  NAN 1.14E+01 4.00E-02
- 12599003  M.D.Goldberg+  1953  26-FE-0  SPA  -- 2.53E-02  NAN 4.30E-01 3.00E-02
+  dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
+ 22518033  M.Goldhaber+  1937  26-FE-0  MXW  -- 2.53E-02  NAN 1.03E+01 1.73E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  V1001198  S.F.Mughabghab  2006  26-FE-0  --  RECOM 2.53E-02  NAN 1.13E+01 3.00E-02
@@ -1126,12 +1070,10 @@
 # Evaluated data (n,el)
 #     2.17E+00 (+/-  1.00E-01)
 # EXFOR data mean
-#     4.00E+00 (+/-  3.20E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11043073    C.Shull+  1951  26-FE-54  --  -- 2.53E-02  NAN 4.00E+00 3.20E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
  V1001199  S.F.Mughabghab  2006  26-FE-54  --  RECOM 2.53E-02  NAN 2.17E+00 1.00E-01
@@ -1181,7 +1123,6 @@
  22518034  M.Goldhaber+  1937  27-CO-59  MXW  -- 2.53E-02  NAN 5.00E+00 8.39E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
- 20602012          W.Dilg  1974  27-CO-59  --  DERIV 2.53E-02  NAN 6.11E+00 1.00E-01
  V1001216  S.F.Mughabghab  2006  27-CO-59  --  RECOM 2.53E-02  NAN 6.00E+00 7.00E-02
 
 
@@ -1197,13 +1138,11 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     1.16E+01 (+/-  8.10E-01)
+#     1.24E+01 (+/-  2.08E+00)
 # ------ EXFOR data ------
 # ------ MXW/SPA data ------
-  dataset    firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
- 22518035   M.Goldhaber+  1937  28-NI-0  MXW  -- 2.53E-02  NAN 1.24E+01 2.08E+00
- 12599005  M.D.Goldberg+  1953  28-NI-0  SPA  -- 2.53E-02  NAN 1.74E+01 5.00E-02
- 12599006  M.D.Goldberg+  1953  28-NI-0  SPA  -- 2.53E-02  NAN 5.00E+00 3.00E-01
+  dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
+ 22518035  M.Goldhaber+  1937  28-NI-0  MXW  -- 2.53E-02  NAN 1.24E+01 2.08E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8   sf9       en  den    ydata   yddata
  V1001222  S.F.Mughabghab  2006  28-NI-0  --  CALC 2.53E-02  NAN 1.78E+01 4.00E-01
@@ -1214,12 +1153,10 @@
 # Evaluated data (n,el)
 #     2.53E+01 (+/-  4.00E-01)
 # EXFOR data mean
-#     4.40E+00 (+/-  3.52E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11043086    C.Shull+  1951  28-NI-58  --  -- 2.53E-02  NAN 4.40E+00 3.52E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
  V1001223  S.F.Mughabghab  2006  28-NI-58  --  RECOM 2.53E-02  NAN 2.53E+01 4.00E-01
@@ -1304,7 +1241,6 @@
  22518036  M.Goldhaber+  1937  29-CU-0  MXW  -- 2.53E-02  NAN 8.60E+00 1.44E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
- 20602014          W.Dilg  1974  29-CU-0  --  DERIV 2.53E-02  NAN 7.70E+00 4.00E-02
  V1001238  S.F.Mughabghab  2006  29-CU-0  --  RECOM 2.53E-02  NAN 7.78E+00 3.00E-02
 
 
@@ -1562,12 +1498,10 @@
 # Evaluated data (n,el)
 #     5.43E+00 (+/-  3.00E-02)
 # EXFOR data mean
-#     4.90E+00 (+/-  3.92E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #     7.10E+00 (+/-  1.19E+00)
 # ------ EXFOR data ------
-  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11043108    C.Shull+  1951  33-AS-75  --  -- 2.53E-02  NAN 4.90E+00 3.92E-01
 # ------ MXW/SPA data ------
   dataset   firstauthor  year       sf4  sf8 sf9       en  den    ydata   yddata
  22518039  M.Goldhaber+  1937  33-AS-75  MXW  -- 2.53E-02  NAN 7.10E+00 1.19E+00
@@ -1682,11 +1616,8 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     7.00E+00 (+/-  1.17E+00)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
- 22518041  M.Goldhaber+  1937  35-BR-0  MXW  -- 2.53E-02  NAN 7.00E+00 1.17E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  21376003  P.A.Egelstaff+  1950  35-BR-0  --  DERIV 2.53E-02  NAN 6.20E+00 2.00E-01
@@ -1797,11 +1728,8 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     9.50E+00 (+/-  1.59E+00)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
- 22518042  M.Goldhaber+  1937  38-SR-0  MXW  -- 2.53E-02  NAN 9.50E+00 1.59E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  V1001343  S.F.Mughabghab  2006  38-SR-0  --  RECOM 2.53E-02  NAN 1.00E+01 1.00E+00
@@ -1838,15 +1766,10 @@
 # Evaluated data (n,el)
 #     7.66E+00 (+/-  3.00E-02)
 # EXFOR data mean
-#     7.46E+00 (+/-  1.00E-02)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     1.40E+01 (+/-  2.35E+00)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset  firstauthor  year      sf4 sf8 sf9       en  den    ydata   yddata
- 11886004  B.M.Rustad+  1966  39-Y-89  --  -- 2.53E-02  NAN 7.46E+00 1.00E-02
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
- 22518043  M.Goldhaber+  1937  39-Y-89  MXW  -- 2.53E-02  NAN 1.40E+01 2.35E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  V1001360  S.F.Mughabghab  2006  39-Y-89  --  RECOM 2.53E-02  NAN 7.66E+00 3.00E-02
@@ -1945,18 +1868,15 @@
 # Evaluated data (n,el)
 #     6.37E+00 (+/-  7.00E-02)
 # EXFOR data mean
-#     5.90E+00 (+/-  4.72E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #     5.00E+00 (+/-  8.39E-01)
 # ------ EXFOR data ------
-  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11043127    C.Shull+  1951  41-NB-93  --  -- 2.53E-02  NAN 5.90E+00 4.72E-01
 # ------ MXW/SPA data ------
   dataset   firstauthor  year       sf4  sf8 sf9       en  den    ydata   yddata
  22518045  M.Goldhaber+  1937  41-NB-93  MXW  -- 2.53E-02  NAN 5.00E+00 8.39E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
- 20602018          W.Dilg  1974  41-NB-93  --  DERIV 2.53E-02  NAN 6.37E+00 4.00E-02
  V1001382  S.F.Mughabghab  2006  41-NB-93  --  RECOM 2.53E-02  NAN 6.37E+00 7.00E-02
 
 
@@ -2221,12 +2141,10 @@
 # Evaluated data (n,el)
 #     7.26E+00 (+/-  9.00E-02)
 # EXFOR data mean
-#     6.40E+00 (+/-  5.12E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
- 11043140    C.Shull+  1951  47-AG-107  --  -- 2.53E-02  NAN 6.40E+00 5.12E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
  V1001466  S.F.Mughabghab  2006  47-AG-107  --  RECOM 2.53E-02  NAN 7.44E+00 9.00E-02
@@ -2237,13 +2155,12 @@
 # Evaluated data (n,el)
 #     2.48E+00 (+/-  5.00E-02)
 # EXFOR data mean
-#     6.15E+00 (+/-  5.12E-01)
+#     5.90E+00 (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset    firstauthor  year        sf4 sf8 sf9       en      den    ydata   yddata
- 11043144       C.Shull+  1951  47-AG-109  --  -- 2.53E-02      NAN 6.40E+00 5.12E-01
- 40622010  V.A.Anufriev+  1982  47-AG-109  --  -- 2.50E-02 2.90E-08 5.90E+00      NAN
+  dataset    firstauthor  year        sf4 sf8 sf9       en      den    ydata  yddata
+ 40622010  V.A.Anufriev+  1982  47-AG-109  --  -- 2.50E-02 2.90E-08 5.90E+00     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
  V1001468  S.F.Mughabghab  2006  47-AG-109  --  RECOM 2.53E-02  NAN 2.53E+00 5.00E-02
@@ -2669,14 +2586,7 @@
 53-I-127 (n,el)
 # Evaluated data (n,el)
 #     3.72E+00 (+/-  6.00E-02)
-# EXFOR data mean
-#     6.90E+00 (+/-  5.52E-01)
-# EXFOR MXW/SPA data mean
-#          NAN (+/-       NAN)
-# ------ EXFOR data ------
-  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 11043154    C.Shull+  1951  53-I-127  --  -- 2.53E-02  NAN 6.90E+00 5.52E-01
-
+# no EXFOR data
 
 
 54-Xe-0 (n,el)
@@ -2699,12 +2609,10 @@
 # Evaluated data (n,el)
 #     3.97E+00 (+/-  5.00E-02)
 # EXFOR data mean
-#     7.10E+00 (+/-  5.68E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
- 11043158    C.Shull+  1951  55-CS-133  --  -- 2.53E-02  NAN 7.10E+00 5.68E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
  V1002076  S.F.Mughabghab  2006  55-CS-133  --  RECOM 2.53E-02  NAN 3.97E+00 5.00E-02
@@ -2716,11 +2624,8 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#     8.20E+00 (+/-  1.38E+00)
+#          NAN (+/-       NAN)
 # ------ EXFOR data ------
-# ------ MXW/SPA data ------
-  dataset   firstauthor  year      sf4  sf8 sf9       en  den    ydata   yddata
- 22518052  M.Goldhaber+  1937  56-BA-0  MXW  -- 2.53E-02  NAN 8.20E+00 1.38E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  V1002084  S.F.Mughabghab  2006  56-BA-0  --  RECOM 2.53E-02  NAN 3.42E+00 4.00E-02
@@ -2973,12 +2878,10 @@
 # Evaluated data (n,el)
 #     1.65E+01 (+/-  4.00E-01)
 # EXFOR data mean
-#     1.70E+01 (+/-  2.00E+00)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset    firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
- 40495004  V.A.Anufriev+  1979  60-ND-145  --  -- 2.53E-02  NAN 1.70E+01 2.00E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
  V1002156  S.F.Mughabghab  2006  60-ND-145  --  RECOM 2.53E-02  NAN 1.65E+01 4.00E-01
@@ -3901,12 +3804,10 @@
 # Evaluated data (n,el)
 #     7.00E-02 (+/-  1.00E-02)
 # EXFOR data mean
-#     7.50E+00 (+/-  1.00E+00)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset    firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
- 40608004  V.A.Anufriev+  1981  74-W-186  --  -- 2.50E-02  NAN 7.50E+00 1.00E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
  V1002416  S.F.Mughabghab  2006  74-W-186  --  RECOM 2.53E-02  NAN 7.00E-02 1.00E-02
@@ -3916,12 +3817,10 @@
 75-Re-0 (n,el)
 # no Evaluated data
 # EXFOR data mean
-#     9.50E+00 (+/-  5.00E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset       firstauthor  year      sf4 sf8 sf9       en  den    ydata   yddata
- 12163003  S.J.Friesenhahn+  1968  75-RE-0  --  -- 2.53E-02  NAN 9.50E+00 5.00E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year      sf4 sf8    sf9       en  den    ydata   yddata
  V1002422  S.F.Mughabghab  2006  75-RE-0  --  RECOM 2.53E-02  NAN 1.13E+01 5.00E-01
@@ -4198,12 +4097,10 @@
 # Evaluated data (n,el)
 #     7.90E+00 (+/-  1.30E-01)
 # EXFOR data mean
-#     9.30E+00 (+/-  7.44E-01)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
- 11043175    C.Shull+  1951  79-AU-197  --  -- 2.53E-02  NAN 9.30E+00 7.44E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
  V1002484  S.F.Mughabghab  2006  79-AU-197  --  RECOM 2.53E-02  NAN 7.90E+00 1.30E-01
@@ -4390,12 +4287,10 @@
 # Evaluated data (n,el)
 #     1.04E+01 (+/-  2.50E+00)
 # EXFOR data mean
-#     1.60E+01 (+/-  4.00E+00)
+#          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
-  dataset  firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
- 40377007  R.N.Ivanov+  1977  90-TH-230  --  -- 2.50E-02  NAN 1.60E+01 4.00E+00
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
  V1002557  S.F.Mughabghab  2006  90-TH-230  --   CALC 2.53E-02  NAN 1.04E+01 2.50E+00

@@ -2002,10 +2002,14 @@
 # Maxw.(n,g)                     |  (n,g)
 #     7.00E+01 (+/-  1.00E+01)   |          NAN  (+/-       NAN)
 # EXFOR data mean
-#          NAN (+/-       NAN)
+#     7.65E+01 (+/-  9.80E-01)
 # EXFOR MXW/SPA data mean
 #     1.01E+02 (+/-  7.00E+00)
 # ------ EXFOR data ------
+  dataset firstauthor  year       sf4 sf8 sf9       en  den    ydata   yddata
+ 23731002   J.Ulrich+  2020  25-MN-54  --  -- 2.53E-02  NAN 7.54E+01 9.40E-01
+ 23731003   J.Ulrich+  2020  25-MN-54  --  -- 2.53E-02  NAN 7.75E+01 1.00E+00
+ 23731004   J.Ulrich+  2020  25-MN-54  --  -- 2.53E-02  NAN 7.65E+01 1.00E+00
 # ------ MXW/SPA data ------
   dataset     firstauthor  year       sf4  sf8 sf9       en  den    ydata   yddata
  20566002      R.Woelfle+  1972  25-MN-54  MXW  -- 2.52E-02  NAN 6.60E+01 7.00E+00
@@ -2083,6 +2087,7 @@
  12866024           R.E.Heft  1978  25-MN-56  SPA  -- 2.50E-02  NAN 1.33E+01 1.00E-01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year       sf4 sf8    sf9       en  den    ydata   yddata
+ 31827003      M.A.Islam+  2020  25-MN-56  --  DERIV 2.53E-02  NAN 1.29E+01 5.30E-01
  V0042003       E.J.Axton  1986  25-MN-56  --   EVAL 2.53E-02  NAN 1.34E+01 3.70E-02
  V1001196  S.F.Mughabghab  2006  25-MN-56  --  RECOM 2.53E-02  NAN 1.34E+01 5.00E-02
 
@@ -6755,12 +6760,13 @@
 # Maxw.(n,g)                     |  (n,g)
 #     8.30E+00 (+/-  3.00E-01)   |          NAN  (+/-       NAN)
 # EXFOR data mean
-#     8.30E+00 (+/-  3.16E-01)
+#     8.44E+00 (+/-  2.83E-01)
 # EXFOR MXW/SPA data mean
 #     1.16E+01 (+/-  2.25E+00)
 # ------ EXFOR data ------
-  dataset firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
- 22342002    T.Katoh+  1997  55-CS-136  --  -- 2.53E-02  NAN 8.30E+00 3.16E-01
+  dataset  firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
+ 22342002     T.Katoh+  1997  55-CS-136  --  -- 2.53E-02  NAN 8.30E+00 3.16E-01
+ 23602002  S.Nakamura+  2020  55-CS-136  --  -- 2.53E-02  NAN 8.57E+00 2.50E-01
 # ------ MXW/SPA data ------
   dataset firstauthor  year        sf4  sf8 sf9       en  den    ydata   yddata
  12008002  A.P.Baerg+  1958  55-CS-136  MXW  -- 2.53E-02  NAN 8.70E+00 5.00E-01
@@ -7137,6 +7143,7 @@
  12866126         R.E.Heft  1978  57-LA-140  SPA  -- 2.50E-02  NAN 9.18E+00 5.00E-02
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year        sf4 sf8    sf9       en  den    ydata   yddata
+ 31795007      A.M.Hurst+  2019  57-LA-140  --  DERIV 2.53E-02  NAN 9.36E+00 7.40E-01
  V1002116  S.F.Mughabghab  2006  57-LA-140  --  RECOM 2.53E-02  NAN 9.04E+00 4.00E-02
 
 
@@ -7664,10 +7671,12 @@
 # Maxw.(n,g)                     |  (n,g)
 #          NAN (+/-       NAN)   |     1.68E+02  (+/-  3.50E+00)
 # EXFOR data mean
-#          NAN (+/-       NAN)
+#     9.00E+01 (+/-  2.00E+01)
 # EXFOR MXW/SPA data mean
 #     1.30E+02 (+/-  5.00E+01)
 # ------ EXFOR data ------
+  dataset    firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
+ 40363003  V.K.Gorshkov+  1957  61-PM-148  --  -- 2.50E-02  NAN 9.00E+01 2.00E+01
 # ------ MXW/SPA data ------
   dataset     firstauthor  year          sf4  sf8 sf9       en  den    ydata   yddata
  12149002     G.W.Parker+  1947    61-PM-148  MXW  -- 2.53E-02  NAN 6.00E+01      NAN
@@ -7834,11 +7843,12 @@
 # Maxw.(n,g)                     |  (n,g)
 #          NAN (+/-       NAN)   |     5.70E+01  (+/-  3.00E+00)
 # EXFOR data mean
-#     6.77E+01 (+/-  3.25E+01)
+#     3.01E+02 (+/-  3.83E+01)
 # EXFOR MXW/SPA data mean
 #     7.03E+01 (+/-  1.30E+01)
 # ------ EXFOR data ------
   dataset      firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
+ 40363004    V.K.Gorshkov+  1957  62-SM-148  --  -- 2.50E-02  NAN 1.00E+03 5.00E+01
  20638046  R.B.Tattersall+  1960  62-SM-148  --  -- 2.53E-02  NAN 8.70E+01 6.00E+01
  20637002   R.Dobrozemsky+  1971  62-SM-148  --  -- 2.53E-02  NAN 6.40E+01 5.00E+00
  21563005         M.Lucas+  1977  62-SM-148  --  -- 2.53E-02  NAN 5.20E+01      NAN
@@ -7880,11 +7890,12 @@
 # Maxw.(n,g)                     |  (n,g)
 #          NAN (+/-       NAN)   |     4.01E+04  (+/-  6.00E+02)
 # EXFOR data mean
-#     4.08E+04 (+/-  1.00E+03)
+#     4.51E+04 (+/-  3.00E+03)
 # EXFOR MXW/SPA data mean
 #     6.93E+04 (+/-  2.01E+03)
 # ------ EXFOR data ------
   dataset    firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
+ 40363005  V.K.Gorshkov+  1957  62-SM-150  --  -- 2.50E-02  NAN 5.80E+04 9.00E+03
  21325010  N.J.Pattenden  1958  62-SM-150  --  -- 2.53E-02  NAN 3.99E+04 6.00E+02
  21406002    K.L.Aitken+  1961  62-SM-150  --  -- 2.53E-02  NAN 4.23E+04 1.20E+03
  21406002    K.L.Aitken+  1961  62-SM-150  --  -- 2.53E-02  NAN 4.01E+04 1.20E+03
@@ -12310,29 +12321,36 @@
 # Maxw.(n,g)                     |  (n,g)
 #          NAN (+/-       NAN)   |     1.89E+01  (+/-  7.00E-01)
 # EXFOR data mean
-#     1.83E+01 (+/-  2.10E+00)
+#     1.88E+01 (+/-  1.99E+00)
 # EXFOR MXW/SPA data mean
-#     2.64E+01 (+/-  4.05E+00)
+#     2.56E+01 (+/-  3.67E+00)
 # ------ EXFOR data ------
-  dataset  firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
- 12481010    J.Butler+  1957  94-PU-243  --  -- 2.53E-02  NAN 1.86E+01 8.00E-01
- 31726003  C.Genreith+  2013  94-PU-243  --  -- 2.53E-02  NAN 1.96E+01 3.90E+00
- 31726006  C.Genreith+  2013  94-PU-243  --  -- 2.53E-02  NAN 1.67E+01 1.60E+00
+  dataset          firstauthor  year        sf4 sf8 sf9       en  den    ydata   yddata
+ 12481010            J.Butler+  1957  94-PU-243  --  -- 2.53E-02  NAN 1.86E+01 8.00E-01
+ 31726003          C.Genreith+  2013  94-PU-243  --  -- 2.53E-02  NAN 1.96E+01 3.90E+00
+ 31726006          C.Genreith+  2013  94-PU-243  --  -- 2.53E-02  NAN 1.67E+01 1.60E+00
+ 31801002  J.Lerendegui-marco+  2019  94-PU-243  --  -- 2.53E-02  NAN 1.79E+01 2.11E+00
+ 31801002  J.Lerendegui-marco+  2019  94-PU-243  --  -- 2.53E-02  NAN 1.80E+01 1.41E+00
+ 31801002  J.Lerendegui-marco+  2019  94-PU-243  --  -- 2.53E-02  NAN 2.10E+01 3.00E+00
+ 31801002  J.Lerendegui-marco+  2019  94-PU-243  --  -- 2.53E-02  NAN 1.95E+01 1.76E+00
+ 31801007  J.Lerendegui-marco+  2019  94-PU-243  --  -- 2.53E-02  NAN 1.92E+01 1.32E+00
 # ------ MXW/SPA data ------
-  dataset   firstauthor  year        sf4  sf8 sf9       en  den    ydata   yddata
- 10171002   R.W.Durham+  1970  94-PU-243  MXW  -- 2.53E-02  NAN 1.87E+01 7.00E-01
- 22696005      G.Fioni+  2001  94-PU-243  MXW  -- 2.53E-02  NAN 1.70E+01 1.70E+00
- 22924006      F.Marie+  2006  94-PU-243  MXW  -- 2.50E-02  NAN 2.25E+01 1.19E+00
- 12538002  M.H.Studier+  1954  94-PU-243  SPA  -- 2.53E-02  NAN 3.00E+01 1.00E+01
- 12535008   P.R.Fields+  1956  94-PU-243  SPA  -- 2.53E-02  NAN 3.00E+01 1.00E+01
- 12481009     J.Butler+  1957  94-PU-243  SPA  -- 2.53E-02  NAN 5.21E+01 7.00E-01
- 12550002       C.H.Ice  1966  94-PU-243  SPA  -- 2.53E-02  NAN 1.80E+01      NAN
- 12550002       C.H.Ice  1966  94-PU-243  SPA  -- 2.53E-02  NAN 2.30E+01      NAN
+  dataset          firstauthor  year        sf4  sf8 sf9       en  den    ydata   yddata
+ 31801003  J.Lerendegui-marco+  2019  94-PU-243   AV  -- 2.53E-02  NAN 1.87E+01 1.40E+00
+ 10171002          R.W.Durham+  1970  94-PU-243  MXW  -- 2.53E-02  NAN 1.87E+01 7.00E-01
+ 22696005             G.Fioni+  2001  94-PU-243  MXW  -- 2.53E-02  NAN 1.70E+01 1.70E+00
+ 22924006             F.Marie+  2006  94-PU-243  MXW  -- 2.50E-02  NAN 2.25E+01 1.19E+00
+ 12538002         M.H.Studier+  1954  94-PU-243  SPA  -- 2.53E-02  NAN 3.00E+01 1.00E+01
+ 12535008          P.R.Fields+  1956  94-PU-243  SPA  -- 2.53E-02  NAN 3.00E+01 1.00E+01
+ 12481009            J.Butler+  1957  94-PU-243  SPA  -- 2.53E-02  NAN 5.21E+01 7.00E-01
+ 12550002              C.H.Ice  1966  94-PU-243  SPA  -- 2.53E-02  NAN 1.80E+01      NAN
+ 12550002              C.H.Ice  1966  94-PU-243  SPA  -- 2.53E-02  NAN 2.30E+01      NAN
 # ------ Recom./Eval./Deriv. data ------
-  dataset     firstauthor  year        sf4  sf8    sf9       en  den    ydata   yddata
- 22924007        F.Marie+  2006  94-PU-243   --  DERIV 2.50E-02  NAN 2.25E+01 1.19E+00
- 20881009         H.Ihle+  1972  94-PU-243  SPA  DERIV 2.50E-02  NAN 5.00E+01      NAN
- V1002632  S.F.Mughabghab  2006  94-PU-243   --  RECOM 2.53E-02  NAN 1.85E+01 5.00E-01
+  dataset          firstauthor  year        sf4  sf8    sf9       en  den    ydata   yddata
+ 22924007             F.Marie+  2006  94-PU-243   --  DERIV 2.50E-02  NAN 2.25E+01 1.19E+00
+ 31801006  J.Lerendegui-marco+  2019  94-PU-243   --  DERIV 2.53E-02  NAN 1.70E+01 3.00E+00
+ 20881009              H.Ihle+  1972  94-PU-243  SPA  DERIV 2.50E-02  NAN 5.00E+01      NAN
+ V1002632       S.F.Mughabghab  2006  94-PU-243   --  RECOM 2.53E-02  NAN 1.85E+01 5.00E-01
 
 
 

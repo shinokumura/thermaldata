@@ -190,10 +190,12 @@
 6-C-0 (n,el)
 # no Evaluated data
 # EXFOR data mean
-#          NAN (+/-       NAN)
+#     4.80E+00 (+/-       NAN)
 # EXFOR MXW/SPA data mean
 #          NAN (+/-       NAN)
 # ------ EXFOR data ------
+  dataset firstauthor  year    sf4 sf8 sf9       en  den    ydata  yddata
+ 23489003    B.Kimura  1942  6-C-0  --  -- 2.60E-02  NAN 4.80E+00     NAN
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year    sf4 sf8    sf9       en  den    ydata   yddata
  V1001024  S.F.Mughabghab  2006  6-C-0  --  RECOM 2.53E-02  NAN 4.74E+00 5.00E-03

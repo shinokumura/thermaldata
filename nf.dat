@@ -387,7 +387,7 @@
 # EXFOR data mean
 #     5.30E+02 (+/-  1.23E+01)
 # EXFOR MXW/SPA data mean
-#     5.01E+02 (+/-  1.53E+01)
+#     4.99E+02 (+/-  1.67E+01)
 # ------ EXFOR data ------
   dataset       firstauthor  year sf4 sf8 sf9       en      den    ydata   yddata
  21396004      J-M.Auclair+  1955  --  --  -- 2.53E-02      NAN 5.18E+02 1.60E+01
@@ -410,7 +410,7 @@
  20411002    A.J.Deruytter+  1974  --  --  -- 2.52E-02      NAN 5.34E+02 4.80E+00
  20411002    A.J.Deruytter+  1974  --  --  -- 2.55E-02      NAN 5.35E+02 4.70E+00
  20411002    A.J.Deruytter+  1974  --  --  -- 2.59E-02      NAN 5.25E+02 4.60E+00
- 32624003       Jia WEnhai+  1975  --  --  -- 2.53E-02      NAN 5.36E+02 1.13E+01
+ 32624003       Jia Wenhai+  1975  --  --  -- 2.53E-02      NAN 5.36E+02 1.14E+01
  40426002  V.A.Pshenichnyj+  1976  --  --  -- 2.42E-02      NAN 5.37E+02 2.69E+00
  40426007  V.A.Pshenichnyj+  1976  --  --  -- 2.56E-02      NAN 5.25E+02 5.10E+00
  40426007  V.A.Pshenichnyj+  1976  --  --  -- 2.49E-02      NAN 5.30E+02 4.60E+00
@@ -430,9 +430,8 @@
  20047004     D.Popovic+  1955  --  MXW  -- 2.53E-02  NAN 5.26E+02 2.60E+01
  21396003   J-M.Auclair+  1955  --  MXW  -- 2.53E-02  NAN 4.59E+02 1.40E+01
  12356003    C.B.Bigham+  1958  --  MXW  -- 2.53E-02  NAN 5.25E+02 3.10E+00
- 21471002     J.F.Raffle  1959  --  MXW  -- 2.53E-02  NAN 5.22E+02 1.50E+01
  20625042  E.M.Gryntakis  1976  --  MXW  -- 2.53E-02  NAN 5.11E+02 1.70E+01
- 21471004     J.F.Raffle  1959  --  RTE  -- 2.60E-02  NAN 5.18E+02 2.64E+00
+ 21471004     J.F.Raffle  1959  --  RTE  -- 2.60E-02  NAN 5.18E+02 1.19E+01
  10100002    L.W.Weston+  1970  --  RTE  -- 2.45E-02  NAN 5.32E+02      NAN
  12351004   M.G.Inghram+  1950  --  SPA  -- 2.53E-02  NAN 4.55E+02      NAN
 # ------ Recom./Eval./Deriv. data ------
@@ -460,9 +459,9 @@
 # Evaluated data (n,f)
 #     5.83E+02 (+/-  1.10E+00)
 # EXFOR data mean
-#     5.87E+02 (+/-  8.98E+00)
+#     5.87E+02 (+/-  9.00E+00)
 # EXFOR MXW/SPA data mean
-#     5.90E+02 (+/-  9.89E+00)
+#     5.90E+02 (+/-  9.88E+00)
 # ------ EXFOR data ------
   dataset      firstauthor  year sf4 sf8 sf9       en  den    ydata   yddata
  21082005     J.M.Auclair+  1900  --  --  -- 2.60E-02  NAN 5.69E+02 3.00E+00
@@ -476,7 +475,7 @@
  12403003     E.Melkonian+  1958  --  --  -- 2.53E-02  NAN 5.74E+02 1.10E+01
  12403003     E.Melkonian+  1958  --  --  -- 2.54E-02  NAN 5.84E+02 3.00E+00
  12439002     G.J.Safford+  1959  --  --  -- 2.53E-02  NAN 5.80E+02 7.00E+00
- 21471006       J.F.Raffle  1959  --  --  -- 2.53E-02  NAN 5.82E+02 1.20E+01
+ 21471006       J.F.Raffle  1959  --  --  -- 2.53E-02  NAN 5.82E+02 1.33E+01
  20189002    A.J.Deruytter  1961  --  --  -- 2.58E-02  NAN 5.80E+02 9.30E+00
  21387002      E.E.Maslin+  1965  --  --  -- 2.53E-02  NAN 5.72E+02 6.00E+00
  21520006       G.Fraysse+  1965  --  --  -- 2.53E-02  NAN 5.82E+02 1.00E+01
@@ -573,7 +572,6 @@
 # ------ MXW/SPA data ------
   dataset        firstauthor  year sf4  sf8 sf9       en      den    ydata   yddata
  10267022            R.Gwin+  1976  --   AV  -- 2.50E-02 1.00E-03 5.84E+02 2.92E+00
- 21471005         J.F.Raffle  1959  --  MXW  -- 2.53E-02      NAN 5.70E+02 1.00E+01
  12438004          C.H.Hogg+  1960  --  MXW  -- 2.53E-02      NAN 5.52E+02 5.50E+01
  41635007  Yu.Ya.Stavisskii+  1965  --  MXW  -- 2.53E-02      NAN 5.82E+02 6.00E+00
  13877002      E.E.Anderson+  1944  --  RTE  -- 2.50E-02      NAN 6.59E+02      NAN
@@ -881,7 +879,7 @@
 # EXFOR data mean
 #     7.41E+02 (+/-  8.31E+00)
 # EXFOR MXW/SPA data mean
-#     7.45E+02 (+/-  2.15E+01)
+#     7.46E+02 (+/-  2.17E+01)
 # ------ EXFOR data ------
   dataset      firstauthor  year sf4 sf8 sf9       en      den    ydata   yddata
  12515002  P.R.Tunnicliffe  1951  --  --  -- 2.50E-02      NAN 6.88E+02 6.00E+01
@@ -994,7 +992,6 @@
  14271002      F.Tovesson+  2010  --  --  -- 2.59E-02      NAN 7.46E+02 1.49E+01
 # ------ MXW/SPA data ------
   dataset        firstauthor  year sf4  sf8 sf9       en  den    ydata   yddata
- 21471008         J.F.Raffle  1959  --  MXW  -- 2.53E-02  NAN 7.39E+02 2.00E+01
  41635008  Yu.Ya.Stavisskii+  1965  --  MXW  -- 2.53E-02  NAN 7.48E+02 8.00E+00
  10341004          J.F.Wild+  1973  --  MXW  -- 2.53E-02  NAN 7.60E+02 6.00E+01
  40436002     K.D.Zhuravlev+  1975  --  MXW  -- 2.53E-02  NAN 7.16E+02 4.00E+01
@@ -1041,7 +1038,7 @@
 # EXFOR data mean
 #     1.00E+03 (+/-  7.92E+01)
 # EXFOR MXW/SPA data mean
-#     1.05E+03 (+/-  8.42E+01)
+#     1.08E+03 (+/-  9.90E+01)
 # ------ EXFOR data ------
   dataset     firstauthor  year sf4 sf8 sf9       en      den    ydata   yddata
  23526005  P.A.Egelstaff+  1955  --  --  -- 2.53E-02      NAN 9.71E+02 5.00E+01
@@ -1121,7 +1118,6 @@
   dataset     firstauthor  year sf4  sf8 sf9       en  den    ydata   yddata
  12521004     A.H.Jaffey+  1955  --  MXW  -- 2.53E-02  NAN 1.10E+03 3.00E+01
  13906008    M.G.Inghram+  1955  --  MXW  -- 2.50E-02  NAN 1.10E+03      NAN
- 21471011      J.F.Raffle  1959  --  MXW  -- 2.53E-02  NAN 9.30E+02 4.00E+01
  23526007  P.A.Egelstaff+  1955  --  SPA  -- 2.53E-02  NAN 1.08E+03 5.70E+01
  12535006     P.R.Fields+  1956  --  SPA  -- 2.53E-02  NAN 1.06E+03 2.10E+02
 # ------ Recom./Eval./Deriv. data ------
@@ -1364,6 +1360,7 @@
  40490002  K.D.Zhuravlev+  1979  --  MXW  -- 2.53E-02  NAN 6.72E+02 6.00E+01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year sf4  sf8    sf9       en  den    ydata   yddata
+ 23577003        O.Serot+  2005  --   --  DERIV 2.53E-02  NAN 5.72E+02 2.50E+01
  41532003   A.A.Alekseev+  2009  --   --  DERIV 2.50E-02  NAN 6.42E+02 2.90E+01
  20881021         H.Ihle+  1972  --  SPA  DERIV 2.50E-02  NAN 7.50E+02      NAN
  V1002661  S.F.Mughabghab  2006  --   --  RECOM 2.53E-02  NAN 6.17E+02 2.00E+01
@@ -1397,7 +1394,7 @@
 # EXFOR data mean
 #     1.99E+03 (+/-  8.72E+01)
 # EXFOR MXW/SPA data mean
-#     1.89E+03 (+/-  8.97E+01)
+#     1.90E+03 (+/-  1.28E+02)
 # ------ EXFOR data ------
   dataset    firstauthor  year sf4 sf8 sf9       en  den    ydata   yddata
  10165002    J.Halperin+  1970  --  --  -- 2.50E-02  NAN 1.92E+03 1.80E+02
@@ -1413,6 +1410,8 @@
  40436006  K.D.Zhuravlev+  1975  --  MXW  -- 2.53E-02  NAN 2.07E+03 1.50E+02
  10730004     J.C.Browne+  1978  --  RTE  -- 2.60E-02  NAN 2.14E+03 4.57E+01
  12557002     G.T.Seaborg  1955  --  SPA  -- 2.53E-02  NAN 1.80E+03      NAN
+ 14655002     P.R.Fields+  1956  --  SPA  -- 2.53E-02  NAN 1.80E+03 3.00E+02
+ 14655003     P.R.Fields+  1956  --  SPA  -- 2.53E-02  NAN 2.00E+03 1.50E+02
  12550008         C.H.Ice  1966  --  SPA  -- 2.53E-02  NAN 2.00E+03      NAN
  12580005      J.A.Smith+  1968  --  SPA  -- 2.53E-02  NAN 1.88E+03      NAN
  22941039   A.Letourneau+  2009  --  SPA  -- 2.53E-02  NAN 1.35E+03 2.30E+01
@@ -1438,6 +1437,7 @@
  40436007  K.D.Zhuravlev+  1975  --  MXW  -- 2.53E-02  NAN 1.40E-01 5.00E-02
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year sf4 sf8    sf9       en  den    ydata   yddata
+ 23577005        O.Serot+  2005  --  --  DERIV 2.53E-02  NAN 1.20E-02 2.50E-02
  V1002673  S.F.Mughabghab  2006  --  --  RECOM 2.53E-02  NAN 1.40E-01 5.00E-02
 
 
@@ -1489,6 +1489,7 @@
  40436009  K.D.Zhuravlev+  1975  --  MXW  -- 2.53E-02  NAN 3.90E-01 7.00E-02
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year sf4 sf8    sf9       en  den    ydata   yddata
+ 23577007        O.Serot+  2005  --  --  DERIV 2.53E-02  NAN 3.16E-01 4.30E-02
  V1002680  S.F.Mughabghab  2006  --  --  RECOM 2.53E-02  NAN 3.70E-01 5.00E-02
 
 
@@ -1664,8 +1665,11 @@
 # EXFOR data mean
 #          NAN (+/-       NAN)
 # EXFOR MXW/SPA data mean
-#          NAN (+/-       NAN)
+#     1.84E+03 (+/-  8.00E+01)
 # ------ EXFOR data ------
+# ------ MXW/SPA data ------
+  dataset firstauthor  year sf4  sf8 sf9       en  den    ydata   yddata
+ 12531006  H.Diamond+  1968  --  MXW  -- 2.53E-02  NAN 1.84E+03 8.00E+01
 # ------ Recom./Eval./Deriv. data ------
   dataset     firstauthor  year sf4 sf8    sf9       en  den    ydata   yddata
  V1002708  S.F.Mughabghab  2006  --  --  RECOM 2.53E-02  NAN 1.83E+03 8.00E+01

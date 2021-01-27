@@ -63,18 +63,18 @@
 # Evaluated data (n,a)
 #     2.35E-01 (+/-  1.00E-02)
 # EXFOR data mean
-#     2.51E-01 (+/-  8.50E-03)
+#     2.46E-01 (+/-  7.33E-03)
 # EXFOR MXW/SPA data mean
-#     2.75E-01 (+/-  4.90E-02)
+#     2.82E-01 (+/-  5.78E-02)
 # ------ EXFOR data ------
   dataset  firstauthor  year     sf4 sf8 sf9       en  den    ydata   yddata
+ 22399003  C.Wagemans+  1997  6-C-14  --  -- 2.53E-02  NAN 2.36E-01 5.00E-03
  22420002  J.Wagemans+  1998  6-C-14  --  -- 2.53E-02  NAN 2.44E-01 7.00E-03
  22496004  J.Wagemans+  2000  6-C-14  --  -- 2.53E-02  NAN 2.57E-01 1.00E-02
 # ------ MXW/SPA data ------
   dataset     firstauthor  year     sf4  sf8 sf9       en  den    ydata   yddata
  11437002        A.N.May+  1947  6-C-14  MXW  -- 2.53E-02  NAN 4.60E-01 1.10E-01
  11275003      G.C.Hanna+  1961  6-C-14  MXW  -- 2.53E-02  NAN 2.35E-01 5.00E-03
- 22399003     C.Wagemans+  1997  6-C-14  MXW  -- 2.53E-02  NAN 2.36E-01 5.00E-03
  41309002  YU.M.Gledenov+  1997  6-C-14  MXW  -- 2.53E-02  NAN 2.33E-01 1.20E-02
  41337002  Yu.M.Gledenov+  1997  6-C-14  MXW  -- 2.53E-02  NAN 2.33E-01 1.20E-02
  11422002       E.J.Seppi  1956  6-C-14  SPA  -- 2.53E-02  NAN 2.50E-01 1.50E-01

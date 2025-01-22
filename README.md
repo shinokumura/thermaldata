@@ -67,34 +67,36 @@ V1001-011-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.8
 The dataset was analyzed to calculate the mean and its associated uncertainty using the following methods:
 
 ### 1. Simple Mean and Standard Deviation
-- **Simple Mean (\( \mu \))**:  
-  \[
+- **Simple Mean ($ \mu $)**:  
+  $
   \mu = \frac{1}{N} \sum_{i=1}^N x_i
-  \]
-  where \( N \) is the total number of data points, and \( x_i \) is each data value. This value was obtained by (pandas.DataFrame.mean)[https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mean.html].
+  $, 
 
-- **Standard Deviation (\( \sigma \))**:  
-  \[
+  where $ N $ is the total number of data points, and $ x_i $ is each data value. This value was obtained by (pandas.DataFrame.mean)[https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mean.html].
+
+- **Standard Deviation ($ \sigma $)**:  
+  $
   \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \mu)^2}
-  \]
-  The standard deviation was also calculated by This value was obtained by (pandas.DataFrame.std)[https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.std.html].
+  $
+
+  The standard deviation was also calculated by (pandas.DataFrame.std)[https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.std.html].
 
 ### 2. Weighted Mean and Its Uncertainty
-For entries with valid errors (\( d_i > 0 \)), the weighted mean and its uncertainty were calculated:
+For entries with valid errors ($ d_i > 0 $), the weighted mean and its uncertainty were calculated:
 
-- **Weighted Mean (\( \mu_w \))**:  
-  \[
+- **Weighted Mean ($ \mu_w $)**:  
+  $
   \mu_w = \frac{\sum_{i=1}^N w_i x_i}{\sum_{i=1}^N w_i}
-  \]
-  where \( w_i = \frac{1}{d_i^2} \) is the weight based on the inverse square of the error \( d_i \).
+  $
+  where $ w_i = \frac{1}{d_i^2} $ is the weight based on the inverse square of the error $ d_i $.
 
-- **Uncertainty of Weighted Mean (\( \sigma_w \))**:  
-  \[
+- **Uncertainty of Weighted Mean ($ \sigma_w $)**:  
+  $
   \sigma_w = \sqrt{\frac{1}{\sum_{i=1}^N w_i}}
-  \]
+  $
 
 ### Notes
-- Dataset with zero uncertainty (\( d_i = 0 \)) (where the original EXFOR entry does not have DATA-ERR) were excluded from the weighted calculations.
+- Dataset with zero uncertainty ($ d_i = 0 $) (where the original EXFOR entry does not have DATA-ERR) were excluded from the weighted calculations.
 
 
 

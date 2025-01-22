@@ -1,9 +1,9 @@
 # Thermal-resonance ranges information table
-This repository contains woking version of new thermal-resonance ranges information table (thermal-res-table.txt) released from CoNDERC homepage (https://nds.iaea.org/conderc).
+This repository contains working version of new thermal-resonance ranges information table (thermal-res-table.txt) released from CoNDERC homepage (https://nds.iaea.org/conderc). Note that there is a new version of this data created by the [EXFOR Parser](https://github.com/IAEA-NDS/exforparser).
 
 # GENERAL
 - Each of na.dat, nel.dat, ng.dat, np.dat file contains (n,a), (n,el), (n,g), (n,f) and (n,p) reaction data.
-- Evaluated data are extracted from thermal-res-table.txt released from CoNDERC homepage (https://nds.iaea.org/conderc).
+- Evaluated data are extracted from thermal-res-table.txt released from [CoNDERC homepage](https://nds.iaea.org/conderc).
 - EXFOR data are extracted from 'EXFOR-2020-10-28.bck.c5' file that was distributed by Viktor on Oct.2020.
 - For the cross section data (sf6 = SIG), incident neutron energy range is from 0.0235 eV +/- 5%.
 - In the EXFOR data table, the coulums are:

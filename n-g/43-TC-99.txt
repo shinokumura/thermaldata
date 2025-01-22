@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 21325-005-0         N.J.Pattenden           1958   2.5300E-08   0.0000E+00   2.4800E+01   2.0000E+00                
 20638-026-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   1.6000E+01   7.0000E+00                
 40295-002-0         V.V.Ovechkin            1973   2.5300E-08   0.0000E+00   2.4000E+01   4.0000E+00                
@@ -34,7 +34,7 @@
 31541-003-0         G.L.Molnar              2002   2.5300E-08   0.0000E+00   2.6500E+01   2.6000E+00     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-408-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.2800E+01   1.3000E+00           RECOM
 # ------------------
 #

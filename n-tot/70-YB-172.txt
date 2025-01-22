@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12130-005-0         S.F.Mughabghab          1968   2.5300E-08   0.0000E+00   1.0200E+01   1.5000E+00                
 # ------------------
 #

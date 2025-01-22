@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 40467-003-0         V.D.Gavrilov            1976   2.5300E-08   0.0000E+00   2.8000E+00   2.5000E-01                
 22479-004-0         S.Yamamoto              1997   2.5300E-08   0.0000E+00   3.1500E+00   9.7000E-02                
 12496-003-0         G.C.Hanna               1951   2.5300E-08   0.0000E+00   3.0000E+00   0.0000E+00     MXW        
@@ -31,7 +31,7 @@
 22344-002-0         K.Kobayashi             1997   2.5300E-08   0.0000E+00   3.1500E+00   9.7000E-02     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2000E+00   9.0000E-02           RECOM
 # ------------------
 #
@@ -57,7 +57,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-002-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.4000E-01   1.2000E-02     MXW        
 # ------------------
 #
@@ -83,7 +83,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-004-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.4800E-01   2.3000E-02     MXW        
 # ------------------
 #
@@ -109,7 +109,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-006-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.7000E-01   2.3000E-02     MXW        
 # ------------------
 #
@@ -135,7 +135,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-008-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.7700E-01   4.6000E-02     MXW        
 # ------------------
 #
@@ -161,7 +161,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-010-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.6900E-02   2.4000E-03     MXW        
 # ------------------
 #
@@ -187,7 +187,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-012-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.1200E-02   8.1000E-03     MXW        
 # ------------------
 #
@@ -213,7 +213,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-014-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.4200E-01   1.2000E-02     MXW        
 # ------------------
 #
@@ -239,7 +239,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-016-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.8100E-01   1.7000E-02     MXW        
 # ------------------
 #
@@ -265,7 +265,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-018-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.0500E-01   1.7000E-02     MXW        
 # ------------------
 #
@@ -291,7 +291,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-020-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.2800E-01   1.9000E-02     MXW        
 # ------------------
 #
@@ -317,7 +317,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-022-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.8300E-01   2.4000E-02     MXW        
 # ------------------
 #
@@ -343,7 +343,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-024-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.2100E-01   1.1000E-02     MXW        
 # ------------------
 #
@@ -369,7 +369,7 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22425-026-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.6000E-03   3.0000E-04     MXW        
 # ------------------
 #

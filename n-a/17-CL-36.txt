@@ -21,12 +21,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22368-003-0         C.Wagemans              1996   2.5300E-08   0.0000E+00   5.9000E-04   7.0000E-05                
 22399-005-0         C.Wagemans              1997   2.5300E-08   0.0000E+00   5.9000E-04   7.0000E-05     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-107-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.9000E-04   7.0000E-05           RECOM
 # ------------------
 #

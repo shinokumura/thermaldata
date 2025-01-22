@@ -20,6 +20,16 @@ This repository contains a working version of the thermal neutron reaction cross
 
 
 
+## Download all files
+### By Git command
+Clone the repository from a terminal using:
+```sh
+git clone https://github.com/shinokumura/thermaldata.git
+```
+
+### Download as Zip File
+Download from [this link](https://github.com/shinokumura/thermaldata/archive/refs/heads/main.zip).
+
 ## EXAMPLE
 3-LI-6.txt (n,g)
 ```
@@ -48,7 +58,7 @@ This repository contains a working version of the thermal neutron reaction cross
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 31768-023-0         R.B.Firestone           2016   2.5300E-08   0.0000E+00   3.9300E-02   7.0000E-04                
 22510-002-0         L.Jarczyk               1961   2.5300E-08   0.0000E+00   4.8000E-02   1.5000E-02     MXW        
 11014-002-0         G.A.Bartholomew         1957   2.5300E-08   0.0000E+00   2.8000E-02   8.0000E-03     SPA        
@@ -56,7 +66,7 @@ This repository contains a working version of the thermal neutron reaction cross
 31570-003-0         Chang Su Park           2006   2.5300E-08   0.0000E+00   3.7700E-02   3.0537E-03     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-011-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.8500E-02   3.0000E-03           RECOM
 # ------------------
 #
@@ -72,14 +82,14 @@ The dataset was analyzed to calculate the mean and its associated uncertainty us
   \mu = \frac{1}{N} \sum_{i=1}^N x_i
   $, 
 
-  where $ N $ is the total number of data points, and $ x_i $ is each data value. This value was obtained by (pandas.DataFrame.mean)[https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mean.html].
+  where $ N $ is the total number of data points, and $ x_i $ is each data value. This value was obtained by [pandas.DataFrame.mean](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mean.html).
 
 - **Standard Deviation ($ \sigma $)**:  
   $
   \sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \mu)^2}
   $
 
-  The standard deviation was also calculated by (pandas.DataFrame.std)[https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.std.html].
+  The standard deviation was also calculated by [pandas.DataFrame.std](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.std.html).
 
 ### 2. Weighted Mean and Its Uncertainty
 For entries with valid errors ($ d_i > 0 $), the weighted mean and its uncertainty were calculated:
@@ -101,6 +111,6 @@ For entries with valid errors ($ d_i > 0 $), the weighted mean and its uncertain
 
 
 
-2021 9th Jan.
+22 Jan., 2025
 Shin
 

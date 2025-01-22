@@ -29,7 +29,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 14565-002-0         E.J.Hennelly            1968   2.5300E-08   0.0000E+00   1.6900E+02   0.0000E+00                
 23109-002-1         S.H.Eberle              1971   2.5300E-08   0.0000E+00   1.8400E+02   6.0000E+00                
 40579-007-0         L.N.Jurova              1984   2.5300E-08   0.0000E+00   1.5800E+02   4.0000E+00                
@@ -127,7 +127,7 @@
 14811-002-0         C.Romano                2022   2.5300E-08   0.0000E+00   1.7580E+02   5.8700E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23100-003-0         A.Letourneau            2010   2.5300E-08   0.0000E+00   1.8220E+02   4.5000E+00           DERIV
 23193-003-0         K.Hirose                2013   2.5300E-08   0.0000E+00   1.7670E+02   0.0000E+00           DERIV
 23601-004-1         G.Rovira                2022   2.5300E-08   0.0000E+00   1.7760E+02   3.8000E+00           DERIV

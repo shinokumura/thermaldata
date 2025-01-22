@@ -21,12 +21,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 11883-006-0         E.Kondaiah              1968   2.5300E-08   0.0000E+00   9.0000E-02   1.3000E-02     MXW        
 11887-003-0         E.Hoagland              1951   2.5300E-08   0.0000E+00   9.6000E-02   0.0000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-324-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   9.0000E-02   1.3000E-02           RECOM
 # ------------------
 #
@@ -52,12 +52,12 @@ V1001-324-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   9.0
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 11858-013-0         J.Macnamara             1950   2.5300E-08   0.0000E+00   1.0500E+00   0.0000E+00     SPA        
 11849-003-0         T.Eastwood              1963   2.5300E-08   0.0000E+00   4.2000E-02   4.2000E-03     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-324-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.1000E-01   1.5000E-02           RECOM
 # ------------------
 #
@@ -80,7 +80,7 @@ V1001-324-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.1
 #
 # Data Table
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-324-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.2000E-02   4.0000E-03           RECOM
 # ------------------
 #

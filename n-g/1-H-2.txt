@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 11030-002-0         J.S.Merritt             1968   2.5300E-08   0.0000E+00   5.2100E-04   9.0000E-06                
 11030-003-0         J.S.Merritt             1968   2.5300E-08   0.0000E+00   5.0600E-04   1.0000E-05                
 20460-002-0         M.G.Silk                1969   2.5300E-08   0.0000E+00   5.2300E-04   2.9000E-05                
@@ -37,7 +37,7 @@
 20301-002-0         H.Ishikawa              1973   2.5300E-08   0.0000E+00   5.5000E-04   1.0000E-05     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-003-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.0800E-04   1.5000E-05           RECOM
 # ------------------
 #

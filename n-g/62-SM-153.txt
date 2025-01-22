@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12127-009-0         W.H.Walker              1956   2.5300E-08   0.0000E+00   3.0000E+04   1.2000E+04     SPA        
 # ------------------
 #

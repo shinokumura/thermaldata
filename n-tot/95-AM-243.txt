@@ -19,12 +19,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12539-011-0         R.E.Cote                1959   2.5300E-08   0.0000E+00   1.9000E+02   0.0000E+00                
 10272-004-0         J.R.Berreth             1970   2.5300E-08   0.0000E+00   8.5000E+01   4.0000E+00                
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23534-009-0         A.Kimura                2019   2.5300E-08   0.0000E+00   8.5000E+01   1.1000E+01           DERIV
 V1002-652-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   8.4000E+01   1.9000E+00           RECOM
 # ------------------

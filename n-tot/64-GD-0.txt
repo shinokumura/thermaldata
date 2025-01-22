@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 21325-022-0         N.J.Pattenden           1958   2.5300E-08   0.0000E+00   5.1000E+04   1.0000E+03                
 11586-005-0         B.M.Rustad              1965   2.5300E-08   0.0000E+00   5.0400E+04   5.0000E+02                
 22088-003-0         K.Higurashi             1988   2.5300E-08   2.3000E-09   4.4450E+04   7.0100E+02     SPA        

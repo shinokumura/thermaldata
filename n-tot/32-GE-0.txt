@@ -19,11 +19,11 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 30231-002-0         R.Fulfaro               1971   2.5300E-08   0.0000E+00   3.6000E+00   3.0000E-01                
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 30905-003-0         M.Salama                1983   2.5300E-08   0.0000E+00   9.6900E+00   3.1000E-01     MXW   DERIV
 # ------------------
 #

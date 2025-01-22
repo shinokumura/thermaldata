@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 13845-007-0         G.A.Fink                1936   2.5300E-08   0.0000E+00   2.9000E+03   1.0000E+02                
 20638-074-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   2.4300E+03   4.0000E+01                
 11028-016-0         J.W.Meadows             1961   2.5300E-08   0.0000E+00   2.4840E+03   0.0000E+00                
@@ -30,7 +30,7 @@
 11047-040-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   3.5000E+03   1.7500E+02     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20077-004-1         E.Sokolowski            1964   2.5300E-08   0.0000E+00   2.4420E+03   0.0000E+00           DERIV
 20077-004-1         E.Sokolowski            1964   2.5300E-08   0.0000E+00   2.4460E+03   0.0000E+00           DERIV
 20077-004-2         E.Sokolowski            1964   2.5300E-08   0.0000E+00   2.4400E+03   3.0000E+01           DERIV

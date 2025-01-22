@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 21396-004-0         J-M.Auclair             1955   2.5300E-08   0.0000E+00   5.1800E+02   1.6000E+01                
 21471-003-0         J.F.Raffle              1959   2.5300E-08   0.0000E+00   5.1500E+02   1.5000E+01                
 23309-002-0         R.L.G.Keith             1968   2.5300E-08   0.0000E+00   5.3460E+02   5.3460E+00                
@@ -41,7 +41,7 @@
 12351-004-0         M.G.Inghram             1950   2.5300E-08   0.0000E+00   4.5500E+02   0.0000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23072-005-0         M.Calviani              2009   2.5300E-08   0.0000E+00   5.3480E+02   2.0000E-01           DERIV
 V1002-580-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.2910E+02   1.2000E+00           RECOM
 # ------------------

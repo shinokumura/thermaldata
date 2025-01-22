@@ -25,7 +25,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20186-002-0         A.Fabry                 1969   2.5300E-08   0.0000E+00   1.2000E-01   5.0000E-03                
 10662-004-0         G.Gleason               1977   2.5300E-08   0.0000E+00   1.4500E-01   1.5000E-02                
 21584-002-0         M.Kurosawa              1979   2.5300E-08   0.0000E+00   1.5000E-01   0.0000E+00                
@@ -49,7 +49,7 @@
 11813-011-0         G.H.E.Sims              1967   2.5300E-08   0.0000E+00   2.2400E-01   1.0000E-02     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 41062-004-0         S.I.Babich              1989   2.5300E-08   0.0000E+00   1.4000E-01   1.0000E-01           DERIV
 31757-003-0         Md.S.Uddin              2015   2.5300E-08   0.0000E+00   1.3300E-01   8.0000E-03           DERIV
 V1001-402-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.3000E-01   6.0000E-03           RECOM

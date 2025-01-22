@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 13845-005-0         G.A.Fink                1936   2.5300E-08   0.0000E+00   1.3000E+02   5.0000E+00                
 20275-003-0         T.Fuketa                1960   2.5300E-08   0.0000E+00   1.6400E+02   1.1000E+01                
 22828-002-0         S.Lee                   2003   2.5300E-08   0.0000E+00   1.3300E+02   9.3000E-01                
@@ -33,7 +33,7 @@
 11528-026-0         S.P.Harris              1950   2.5300E-08   0.0000E+00   1.7200E+02   8.6000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22906-005-0         A.Brusegan              2004   2.5300E-08   0.0000E+00   1.4520E+02   0.0000E+00     MXW   DERIV
 V1001-435-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.4350E+02   1.5000E+00           RECOM
 # ------------------
@@ -62,13 +62,13 @@ V1001-435-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.4
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23488-041-1         F.De Corte              1988   2.5300E-08   0.0000E+00   1.1000E+01   0.0000E+00                
 11447-063-0         L.Seren                 1947   2.5300E-08   0.0000E+00   1.1600E+01   1.1600E+00     MXW        
 11917-002-0         W.H.Walker              1966   2.5300E-08   0.0000E+00   1.1000E+01   1.0000E+00     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-435-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.0600E+01   3.0000E-01           RECOM
 # ------------------
 #
@@ -96,13 +96,13 @@ V1001-435-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.0
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23488-041-2         F.De Corte              1988   2.5300E-08   0.0000E+00   1.3400E+02   0.0000E+00                
 11447-062-0         L.Seren                 1947   2.5300E-08   0.0000E+00   1.3700E+02   1.3700E+01     MXW        
 11917-004-0         W.H.Walker              1966   2.5300E-08   0.0000E+00   1.3500E+02   3.0000E+00     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20965-010-0         W.Dilg                  1974   2.5300E-08   0.0000E+00   1.4480E+02   7.0000E-01           DERIV
 # ------------------
 #

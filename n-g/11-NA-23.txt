@@ -25,7 +25,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 40589-003-0         L.V.Groshev             1955   2.5300E-08   0.0000E+00   5.0000E-01   0.0000E+00                
 21183-002-0         S.J.Cocking             1956   2.5300E-08   0.0000E+00   5.3600E-01   6.0000E-03                
 21470-004-0         H.Rose                  1959   2.5300E-08   0.0000E+00   5.3600E-01   8.0000E-03                
@@ -57,7 +57,7 @@
 30257-004-0         K.Wagner                1962   2.5300E-08   0.0000E+00   4.9000E-01   0.0000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-060-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.1700E-01   4.0000E-03           RECOM
 # ------------------
 #
@@ -83,12 +83,12 @@ V1001-060-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.1
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 40589-002-0         L.V.Groshev             1955   2.5300E-08   0.0000E+00   3.9000E-01   6.0000E-02     MXW        
 31003-002-0         K.F.Alexander           1963   2.5300E-08   0.0000E+00   4.0000E-01   3.0000E-02     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-060-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.0000E-01   3.0000E-02           RECOM
 # ------------------
 #

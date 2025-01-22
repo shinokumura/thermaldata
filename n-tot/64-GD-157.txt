@@ -19,13 +19,13 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 21325-020-0         N.J.Pattenden           1958   2.5300E-08   0.0000E+00   2.6400E+05   4.5000E+03                
 20328-005-0         Y.Ohno                  1968   2.5300E-08   0.0000E+00   2.4800E+05   4.0000E+03                
 23607-002-0         A.Kimura                2023   2.5230E-08   0.0000E+00   2.5269E+05   4.5700E+03                
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12097-006-0         H.B.Moller              1960   2.5300E-08   0.0000E+00   2.5400E+05   2.0000E+03           DERIV
 23607-006-0         A.Kimura                2023   2.5300E-08   0.0000E+00   2.5190E+05   4.6000E+03           DERIV
 # ------------------

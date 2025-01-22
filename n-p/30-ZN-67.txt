@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12970-002-0         S.Mirzadeh              1986   2.5300E-08   0.0000E+00   1.2300E-03   1.3000E-04     SPA        
 12970-003-0         S.Mirzadeh              1986   2.5300E-08   0.0000E+00   9.1000E-04   1.0000E-04     SPA        
 # ------------------

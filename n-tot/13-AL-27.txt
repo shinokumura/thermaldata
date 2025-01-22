@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 11468-002-0         R.J.Brown               1958   2.5200E-08   0.0000E+00   1.5800E+00   0.0000E+00                
 # ------------------
 #

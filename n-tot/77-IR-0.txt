@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 40536-011-0         V.P.Vertebnyj           1980   2.5400E-08   0.0000E+00   4.3500E+02   0.0000E+00                
 40536-011-0         V.P.Vertebnyj           1980   2.5300E-08   0.0000E+00   4.4100E+02   0.0000E+00                
 40536-011-0         V.P.Vertebnyj           1980   2.5200E-08   0.0000E+00   4.3300E+02   0.0000E+00                

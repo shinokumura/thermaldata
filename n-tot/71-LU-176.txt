@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12096-002-0         J.Roberge               1960   2.5400E-08   0.0000E+00   2.0480E+03   0.0000E+00                
 21322-009-0         A.H.Baston              1960   2.5266E-08   4.0426E-13   2.1004E+03   0.0000E+00                
 14026-006-0         T.E.Young               1970   2.5300E-08   0.0000E+00   2.1340E+03   6.0000E+01                

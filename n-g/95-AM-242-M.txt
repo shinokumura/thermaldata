@@ -23,14 +23,14 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22941-016-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   1.1520E+03   1.1200E+02                
 22941-015-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   1.0740E+03   1.0800E+02 MXW/FCT        
 12581-003-0         K.Street Jr             1950   2.5300E-08   0.0000E+00   4.0000E+03   0.0000E+00     SPA        
 12583-007-0         K.Street Jr             1952   2.5300E-08   0.0000E+00   2.0000E+03   0.0000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1002-647-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.2900E+03   3.0000E+02           RECOM
 # ------------------
 #

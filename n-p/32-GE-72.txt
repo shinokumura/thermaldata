@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20251-002-0         R.De Neve               1966   2.5300E-08   0.0000E+00   4.4000E-05   7.0000E-06     SPA        
 # ------------------
 #

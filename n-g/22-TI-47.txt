@@ -21,12 +21,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23502-002-0         J.F.A.G.Ruyl            1984   2.5300E-08   0.0000E+00   1.4800E+00   9.0000E-02                
 11507-014-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   1.6200E+00   3.2400E-01     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-159-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.6300E+00   4.0000E-02           RECOM
 # ------------------
 #

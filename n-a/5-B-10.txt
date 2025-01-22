@@ -19,12 +19,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20192-004-0         A.Prosdocimi            1963   2.5300E-08   0.0000E+00   3.8350E+03   0.0000E+00                
 20192-004-0         A.Prosdocimi            1963   2.5300E-08   0.0000E+00   3.8360E+03   0.0000E+00                
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-021-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.8370E+03   9.0000E+00           RECOM
 # ------------------
 #

@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23485-006-0         L.Friedmann             1983   2.5300E-08   0.0000E+00   2.2000E+01   3.8000E+00                
 23485-007-0         L.Friedmann             1983   2.5300E-08   0.0000E+00   2.2000E+01   3.8000E+00     SPA        
 # ------------------

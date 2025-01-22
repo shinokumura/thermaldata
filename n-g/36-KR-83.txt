@@ -23,13 +23,13 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 21563-011-0         M.Lucas                 1977   2.5300E-08   0.0000E+00   2.1500E+02   1.5000E+01                
 12016-003-0         T.J.Kennet              1958   2.5300E-08   0.0000E+00   2.1600E+02   4.3000E+01     MXW        
 11858-012-0         J.Macnamara             1950   2.5300E-08   0.0000E+00   2.0500E+02   1.0000E+01     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-321-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.9700E+02   1.0000E+01           RECOM
 # ------------------
 #

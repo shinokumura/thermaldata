@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12537-002-0         O.D.Simpson             1961   2.5340E-08   0.0000E+00   1.3830E+03   0.0000E+00                
 12528-012-0         D.S.Craig               1964   2.5280E-08   0.0000E+00   1.2480E+03   0.0000E+00                
 12528-017-0         D.S.Craig               1964   2.5300E-08   0.0000E+00   1.3830E+03   3.0000E+01                
@@ -27,7 +27,7 @@
 13019-004-0         J.R.Smith               1970   2.5280E-08   0.0000E+00   1.3930E+03   0.0000E+00                
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 13805-006-0         J.R.Smith                nan   2.5300E-08   0.0000E+00   1.3950E+03   2.0000E+01           DERIV
 12527-002-0         R.B.Schwartz            1958   2.5300E-08   0.0000E+00   1.4100E+03   8.0000E+01           DERIV
 13019-005-0         J.R.Smith               1970   2.5300E-08   0.0000E+00   1.3950E+03   0.0000E+00           DERIV

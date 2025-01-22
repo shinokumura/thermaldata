@@ -21,12 +21,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12933-002-0         J.Halperin              1985   2.5300E-08   0.0000E+00   2.8300E+01   2.5000E+00                
 12567-010-0         B.G.Harvey              1954   2.5300E-08   0.0000E+00   1.5000E+01   0.0000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1002-710-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.8300E+01   2.5000E+00           RECOM
 # ------------------
 #

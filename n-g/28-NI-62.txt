@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 10608-007-0         G.H.E.Sims              1970   2.5300E-08   0.0000E+00   1.4200E+01   0.0000E+00                
 14164-002-0         A.M.Alpizar-Vicente     2008   2.5290E-08   2.3290E-10   1.4200E+01   9.6100E-01                
 11507-029-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   1.4600E+01   2.1900E+00     MXW        
@@ -35,7 +35,7 @@
 20660-002-0         H.Michael               1974   2.5300E-08   0.0000E+00   1.4800E+01   8.0000E-01     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-232-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.4900E+01   3.0000E-01           RECOM
 # ------------------
 #

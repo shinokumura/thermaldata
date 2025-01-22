@@ -21,13 +21,13 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20438-002-0         H.R.Von Gunten          1970   2.5300E-08   0.0000E+00   2.0000E+02   2.0000E+01                
 20351-004-0         P.Del Marmol            1973   2.5300E-08   0.0000E+00   2.1560E+02   9.7000E+00     MXW        
 20351-005-0         P.Del Marmol            1973   2.5300E-08   0.0000E+00   2.0020E+02   4.5000E+00     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20351-003-0         P.Del Marmol            1973   2.5300E-08   0.0000E+00   2.0300E+02   1.6000E+01     MXW   DERIV
 V1002-552-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.0200E+02   1.3000E+01           RECOM
 # ------------------

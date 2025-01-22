@@ -21,14 +21,14 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 30926-004-0         A.W.Carbonari           1988   2.5300E-08   0.0000E+00   4.5200E+00   1.0000E-01                
 11507-026-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   4.2000E+00   3.3600E-01     MXW        
 10676-002-0         A.F.M.Ishaq             1977   2.5300E-08   0.0000E+00   4.5000E+00   0.0000E+00     MXW        
 13947-007-0         S.Raman                 2004   2.5300E-08   0.0000E+00   4.1300E+00   5.0000E-02     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23210-003-0         P.Zugec                 2014   2.5300E-08   0.0000E+00   4.3850E+00   0.0000E+00           DERIV
 V1001-223-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.3700E+00   1.0000E-01           RECOM
 # ------------------

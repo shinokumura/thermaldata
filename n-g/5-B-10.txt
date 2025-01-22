@@ -21,13 +21,13 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 31768-014-0         R.B.Firestone           2016   2.5300E-08   0.0000E+00   3.9400E-01   1.5000E-02                
 11014-004-0         G.A.Bartholomew         1957   2.5300E-08   0.0000E+00   5.0000E-01   2.0000E-01     SPA        
 23486-002-0         P.J.J.Kok               1986   2.5300E-08   0.0000E+00   2.9000E-01   4.0000E-02     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-021-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.0500E-01   1.6000E-02           RECOM
 # ------------------
 #

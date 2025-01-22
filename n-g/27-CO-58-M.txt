@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 40743-003-0         I.A.Kondurov            1968   2.5300E-08   0.0000E+00   1.3600E+05   1.0000E+04                
 12597-003-0         C.H.Hogg                1962   2.5300E-08   0.0000E+00   1.4000E+05   1.2000E+04     MXW        
 12597-005-0         C.H.Hogg                1962   2.5300E-08   0.0000E+00   1.7000E+05   1.2000E+04     SPA        
@@ -31,7 +31,7 @@
 40743-008-0         I.A.Kondurov            1968   2.5300E-08   0.0000E+00   1.5700E+05   1.0000E+04     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-215-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.4000E+05   1.0000E+04           RECOM
 # ------------------
 #

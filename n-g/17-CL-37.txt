@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20790-004-0         T.B.Ryves               1970   2.5300E-08   0.0000E+00   4.3300E-01   0.0000E+00                
 23488-006-0         F.De Corte              1988   2.5300E-08   0.0000E+00   4.2300E-01   6.3450E-03                
 23266-017-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   4.1000E-01   0.0000E+00                
@@ -34,7 +34,7 @@
 10644-008-0         G.Gleason               1975   2.5300E-08   0.0000E+00   4.3100E-01   8.0000E-03     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-109-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.3300E-01   6.0000E-03           RECOM
 # ------------------
 #
@@ -60,11 +60,11 @@ V1001-109-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.3
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 11565-002-0         G.Scharff-Goldhaber     1954   2.5300E-08   0.0000E+00   5.0000E-03   0.0000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1001-109-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.7000E-02   1.0000E-02           RECOM
 # ------------------
 #

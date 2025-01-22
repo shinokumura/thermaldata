@@ -19,13 +19,13 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23500-003-1         R.F.Casten              1978   2.5300E-08   0.0000E+00   3.8300E+02   5.4000E+01     SPA        
 23500-003-2         R.F.Casten              1978   2.5300E-08   0.0000E+00   3.0000E+02   0.0000E+00     SPA        
 23500-003-3         R.F.Casten              1978   2.5300E-08   0.0000E+00   4.0400E+02   6.0000E+01     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1002-721-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.8300E+02   5.4000E+01           RECOM
 # ------------------
 #

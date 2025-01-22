@@ -19,11 +19,11 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 13572-003-0         J.E.Gindler             1959   2.5300E-08   0.0000E+00   2.5000E+03   5.0000E+02     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1002-615-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.4550E+03   2.9500E+02           RECOM
 # ------------------
 #

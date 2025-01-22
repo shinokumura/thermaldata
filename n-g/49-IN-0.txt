@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20275-005-0         T.Fuketa                1960   2.5300E-08   0.0000E+00   1.9600E+02   7.0000E+00                
 20638-032-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   1.9100E+02   2.0000E+00                
 11028-015-0         J.W.Meadows             1961   2.5300E-08   0.0000E+00   1.9400E+02   2.0000E+00                
@@ -32,7 +32,7 @@
 31311-006-0         G.Huttel                1963   2.5300E-08   0.0000E+00   1.9400E+02   1.1000E+00     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22802-002-0         Jungran Yoon            2002   2.5300E-08   0.0000E+00   1.9960E+02   5.6000E+00           DERIV
 V1001-500-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.9380E+02   1.5000E+00           RECOM
 # ------------------

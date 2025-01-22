@@ -25,7 +25,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20185-002-0         B.Pinoncelli            1967   2.5300E-08   0.0000E+00   4.0300E+00   1.7000E-01                
 20789-016-0         T.B.Ryves               1970   2.5300E-08   0.0000E+00   4.4000E+00   0.0000E+00                
 20561-002-0         T.B.Ryves               1974   2.5300E-08   0.0000E+00   4.4000E+00   2.0000E-01                
@@ -41,7 +41,7 @@
 11625-005-0         W.S.Lyon                1960   2.5300E-08   0.0000E+00   4.6600E+00   4.6600E-01     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 20965-009-0         W.Dilg                  1974   2.5300E-08   0.0000E+00   4.4900E+00   4.0000E-02           DERIV
 V1001-240-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.5000E+00   2.0000E-02           RECOM
 # ------------------

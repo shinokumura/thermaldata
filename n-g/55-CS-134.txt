@@ -21,14 +21,14 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12017-003-0         J.G.Bayly               1958   2.5300E-08   0.0000E+00   1.3400E+02   1.2000E+01     MXW        
 12011-017-0         T.A.Eastwood            1958   2.5300E-08   0.0000E+00   1.3400E+02   7.0000E+00     SPA        
 12011-017-0         T.A.Eastwood            1958   2.5300E-08   0.0000E+00   1.4200E+02   1.4000E+01     SPA        
 22430-002-0         T.Katoh                 1998   2.5300E-08   0.0000E+00   1.4060E+02   8.5000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1002-079-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.4000E+02   1.2000E+01           RECOM
 # ------------------
 #

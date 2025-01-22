@@ -25,7 +25,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 12167-009-0         S.J.Friesenhahn         1966   2.5300E-08   0.0000E+00   3.7800E+01   1.2000E+00                
 20184-002-0         P.P.Damle               1967   2.5300E-08   0.0000E+00   3.5400E+01   8.0000E-01                
 12602-007-0         C.H.Hogg                1970   2.5300E-08   0.0000E+00   4.0000E+01   1.5000E+00                
@@ -53,7 +53,7 @@
 31650-003-0         V.Bondarenko            2008   2.5300E-08   0.0000E+00   3.5900E+01   1.1000E+00     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 22045-016-0         K.Knopf                 1987   2.5300E-08   0.0000E+00   3.8500E+01   8.0000E-01           DERIV
 31735-013-0         A.M.Hurst               2014   2.5300E-08   0.0000E+00   3.3330E+01   6.2000E-01           DERIV
 14678-002-0         O.A.Ersoz               2019   2.5300E-08   0.0000E+00   3.7800E+01   1.8000E+00     MXW   DERIV
@@ -82,7 +82,7 @@ V1002-416-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.8
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 31735-015-0         A.M.Hurst               2014   2.5300E-08   0.0000E+00   4.0000E-01   1.6000E-02                
 # ------------------
 #

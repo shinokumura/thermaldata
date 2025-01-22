@@ -19,11 +19,11 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 40436-007-0         K.D.Zhuravlev           1975   2.5300E-08   0.0000E+00   1.4000E-01   5.0000E-02     MXW        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 23577-005-0         O.Serot                 2005   2.5300E-08   0.0000E+00   1.2000E-02   2.5000E-02           DERIV
 V1002-673-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.4000E-01   5.0000E-02           RECOM
 # ------------------

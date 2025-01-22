@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 14689-002-0         H.L.Anderson            1946   2.5300E-08   0.0000E+00   4.0500E+00   0.0000E+00                
 14232-003-0         C.D.Bowman              2008   2.5230E-08   0.0000E+00   5.9000E+00   0.0000E+00                
 14232-003-0         C.D.Bowman              2008   2.5250E-08   0.0000E+00   5.8600E+00   0.0000E+00                

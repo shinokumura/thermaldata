@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 40163-002-0         B.M.Aleksandrov         1972   2.5300E-08   0.0000E+00   2.6000E+02   1.3000E+01                
 40579-003-0         L.N.Jurova              1984   2.5300E-08   0.0000E+00   2.1900E+02   6.0000E+00                
 12273-002-0         R.R.Smith               1956   2.5300E-08   0.0000E+00   2.0000E+02   1.5000E+01     MXW        
@@ -35,7 +35,7 @@
 12272-002-0         R.Elson                 1953   2.5300E-08   0.0000E+00   2.9300E+02   4.3950E+01     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1002-566-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.0060E+02   2.3000E+00           RECOM
 # ------------------
 #

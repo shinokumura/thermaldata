@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 21321-009-0         G.J.Mc Callum           1958   2.5300E-08   0.0000E+00   1.8700E+01   1.7000E+00                
 41012-002-1         P.N.Vorona              1987   2.5300E-08   0.0000E+00   1.6000E+01   1.0000E-01                
 41012-002-2         P.N.Vorona              1987   2.5300E-08   0.0000E+00   1.8200E+01   0.0000E+00                
@@ -27,7 +27,7 @@
 41012-010-0         P.N.Vorona              1987   2.5300E-08   0.0000E+00   2.7796E+01   0.0000E+00                
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 V1002-589-5         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.5890E+01   1.2000E-01           RECOM
 # ------------------
 #

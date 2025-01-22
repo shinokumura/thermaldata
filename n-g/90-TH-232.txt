@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 21181-005-0         V.S.Crocker             1955   2.5300E-08   0.0000E+00   7.3100E+00   1.2000E-01                
 22555-002-0         P.A.Egelstaff           1955   2.5300E-08   0.0000E+00   7.2000E+00   2.0000E-01                
 22543-002-0         P.Hubert                1957   2.5300E-08   0.0000E+00   7.6000E+00   1.6000E-01                
@@ -57,7 +57,7 @@
 22941-023-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   6.2700E+00   1.8000E-01     SPA        
 # ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          Firtstauthor            year   en_inc       den_inc      data         ddata         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
 40357-006-1         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.2900E+00   1.0000E-01     MXW   DERIV
 40357-006-2         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.3300E+00   0.0000E+00     MXW   DERIV
 40357-006-3         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.3100E+00   0.0000E+00     MXW   DERIV

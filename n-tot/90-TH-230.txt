@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 41670-003-0         S.M.Kalebin             1966   2.5000E-08   0.0000E+00   7.0000E+01   3.0000E+00                
 40093-002-0         S.M.Kalebin             1968   2.4100E-08   0.0000E+00   7.6000E+01   3.0000E+00                
 40093-002-0         S.M.Kalebin             1968   2.4800E-08   0.0000E+00   7.2000E+01   3.0000E+00                

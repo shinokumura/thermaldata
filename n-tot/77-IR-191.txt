@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12155-002-0         H.Bolotin               1959   2.5300E-08   0.0000E+00   9.2400E+02   5.3000E+01                
 40536-005-0         V.P.Vertebnyj           1980   2.6000E-08   0.0000E+00   9.4500E+02   0.0000E+00                
 40536-005-0         V.P.Vertebnyj           1980   2.5900E-08   0.0000E+00   9.4000E+02   0.0000E+00                

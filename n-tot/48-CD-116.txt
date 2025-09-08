@@ -19,9 +19,9 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40122-005-0         V.P.Vertebny            1979   2.5000E-08   0.0000E+00   9.0000E+00   1.0000E+00                
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23196-009-1         K.Volev                 2013   2.5300E-08   0.0000E+00   5.0190E+00   0.0000E+00            EVAL
 V1001-497-5         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.0200E+00   1.4000E-01           RECOM

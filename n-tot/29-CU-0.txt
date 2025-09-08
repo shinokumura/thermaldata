@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11795-002-0         W.W.Havens Jr           1948   2.4500E-08   0.0000E+00   1.0250E+01   0.0000E+00                
 30362-002-0         F.Kropff Moreno         1977   2.4550E-08   0.0000E+00   1.0390E+01   1.1000E-01                
 30362-002-0         F.Kropff Moreno         1977   2.5120E-08   0.0000E+00   1.0270E+01   1.1000E-01                
@@ -141,5 +141,5 @@
 12634-027-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   7.5000E+00   0.0000E+00     MXW        
 22518-007-0         M.Goldhaber             1937   2.5300E-08   0.0000E+00   1.1900E+01   0.0000E+00     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40152-003-0         A.V.Antonov             1978   2.5300E-08   0.0000E+00   3.7700E+00   1.6000E-01           DERIV

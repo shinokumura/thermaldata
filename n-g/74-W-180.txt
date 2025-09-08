@@ -21,12 +21,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 31596-002-0         W.G.Kang                2007   2.5300E-08   0.0000E+00   2.2600E+01   1.7000E+00                
 11507-090-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   3.0000E+01   0.0000E+00     MXW        
 14679-002-0         K.S.Krane               2019   2.5300E-08   0.0000E+00   2.2700E+01   1.6000E+00     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1002-399-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.7400E+01   0.0000E+00            CALC
 32222-008-2         P.N.Vorona              2008   2.5300E-08   0.0000E+00   3.7300E+01   0.0000E+00           DERIV
 31752-002-0         A.M.Hurst               2015   2.5300E-08   0.0000E+00   2.1670E+01   7.7000E-01           DERIV
@@ -49,5 +49,5 @@ V1002-399-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   7.7
 #
 # Data Table
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 31752-004-0         A.M.Hurst               2015   2.5300E-08   0.0000E+00   1.9960E+01   5.5000E-01           DERIV

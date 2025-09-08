@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 10724-009-0         R.W.Benjamin            1983   2.5569E-08   0.0000E+00   2.4963E+03   1.5409E+02                
 10724-009-0         R.W.Benjamin            1983   2.4808E-08   0.0000E+00   1.9620E+03   1.3969E+02                
 10724-009-0         R.W.Benjamin            1983   2.4080E-08   0.0000E+00   2.1446E+03   1.4636E+02                

@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11751-006-0         C.S.Wu                  1947   2.5000E-08   0.0000E+00   9.0470E+00   0.0000E+00                
 14691-005-0         Wm.B.Jones Jr           1947   2.5160E-08   0.0000E+00   1.6868E+01   0.0000E+00                
 12634-046-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   9.4000E+00   0.0000E+00     MXW        

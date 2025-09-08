@@ -19,8 +19,8 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11578-003-0         R.E.Lewis               1968   2.5300E-08   0.0000E+00   7.0000E+02   1.0000E+02     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1001-480-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   7.0000E+02   1.0000E+02           RECOM

@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 13761-008-0         J.A.Harvey              1977   2.5926E-08   0.0000E+00   2.1666E+00   9.4985E-02                
 13761-008-0         J.A.Harvey              1977   2.5663E-08   0.0000E+00   2.3088E+00   9.6868E-02                
 13761-008-0         J.A.Harvey              1977   2.5403E-08   0.0000E+00   2.0872E+00   9.7669E-02                

@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12011-004-0         T.A.Eastwood            1958   2.5300E-08   0.0000E+00   1.7100E+01   4.0000E-01                
 40085-006-0         V.F.Gerasimov           1966   2.4500E-08   0.0000E+00   1.6600E+01   0.0000E+00                
 40085-006-0         V.F.Gerasimov           1966   2.5400E-08   0.0000E+00   1.6300E+01   3.0000E+00                
@@ -31,5 +31,5 @@
 12497-002-0         E.K.Hulet               1957   2.5300E-08   0.0000E+00   1.8400E+01   9.0000E-01     MXW        
 41091-003-0         V.S.Zenkevich           1990   2.5300E-08   0.0000E+00   1.6700E+01   8.0000E-01     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 20881-003-0         H.Ihle                  1972   2.5000E-08   0.0000E+00   2.0000E+01   0.0000E+00     SPA   DERIV

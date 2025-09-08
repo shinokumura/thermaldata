@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 21325-009-0         N.J.Pattenden           1958   2.5300E-08   0.0000E+00   3.9900E+04   6.0000E+02                
 20327-003-0         Y.Ohno                  1965   2.5570E-08   0.0000E+00   3.8380E+04   0.0000E+00                
 20328-002-0         Y.Ohno                  1968   2.5300E-08   0.0000E+00   3.7500E+04   1.0000E+03                

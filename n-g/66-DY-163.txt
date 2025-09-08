@@ -25,7 +25,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12082-005-0         L.House                 1958   2.5300E-08   0.0000E+00   1.2000E+02   5.0000E+01                
 40681-004-0         L.S.Danelyan            1964   2.4000E-08   0.0000E+00   1.4500E+02   1.5000E+01                
 40681-004-0         L.S.Danelyan            1964   2.5300E-08   0.0000E+00   1.3500E+02   1.3000E+01                
@@ -39,5 +39,5 @@
 23750-004-0         G.N.Kim                 2002   2.5300E-08   0.0000E+00   1.6230E+02   0.0000E+00     TTA        
 23750-004-0         G.N.Kim                 2002   2.5640E-08   0.0000E+00   1.6433E+02   0.0000E+00     TTA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1002-283-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.3400E+02   7.0000E+00           RECOM

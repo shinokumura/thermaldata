@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 31092-003-0         V.P.Duggal              1962   2.5000E-08   0.0000E+00   2.2000E+01   0.0000E+00                
 12634-067-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   2.5000E+01   0.0000E+00     MXW        
 22518-010-0         M.Goldhaber             1937   2.5300E-08   0.0000E+00   2.1500E+01   0.0000E+00     MXW        

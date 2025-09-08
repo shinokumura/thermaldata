@@ -25,7 +25,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23488-058-0         F.De Corte              1988   2.5300E-08   0.0000E+00   8.4000E-01   0.0000E+00                
 23266-115-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   7.5000E-01   0.0000E+00                
 23266-114-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   7.5000E-01   1.0000E-02      AV        
@@ -33,7 +33,7 @@
 14340-004-0         A.Y.Dauenhauer          2012   2.5300E-08   0.0000E+00   5.8200E-01   2.9000E-02     MXW        
 31249-004-0         S.K.Mangal              1963   2.5300E-08   0.0000E+00   1.5000E-01   0.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1002-089-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.0000E-01   0.0000E+00           RECOM
 # Header: 
 #   title: 56-BA-132(N,G) thermal cross section 
@@ -58,11 +58,11 @@ V1002-089-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.0
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 14340-005-0         A.Y.Dauenhauer          2012   2.5300E-08   0.0000E+00   7.5100E+00   3.2000E-01     MXW        
 12019-003-0         W.S.Lyon                1963   2.5300E-08   0.0000E+00   6.5000E+00   0.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1002-089-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   6.5000E+00   8.0000E-01           RECOM
 # Header: 
 #   title: 56-BA-132(N,G) thermal cross section 
@@ -85,5 +85,5 @@ V1002-089-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   6.5
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12037-002-0         S.Katcoff               1947   2.5300E-08   0.0000E+00   6.0000E+00   0.0000E+00     SPA        

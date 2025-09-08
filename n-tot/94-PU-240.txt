@@ -19,12 +19,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 21068-003-0         N.J.Pattenden           1959   2.5300E-08   0.0000E+00   2.7300E+02   8.0000E+00                
 12024-011-0         R.C.Block               1960   2.4000E-08   0.0000E+00   2.9100E+02   0.0000E+00                
 12024-011-0         R.C.Block               1960   2.4800E-08   0.0000E+00   2.8500E+02   0.0000E+00                
 12024-011-0         R.C.Block               1960   2.5600E-08   0.0000E+00   2.7900E+02   0.0000E+00                
 12941-002-0         R.R.Spencer             1987   2.5300E-08   0.0000E+00   2.8400E+02   2.0000E+00                
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12024-014-0         R.C.Block               1960   2.5300E-08   0.0000E+00   2.9000E+02   8.0000E+00           DERIV

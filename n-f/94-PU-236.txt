@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 14047-003-0         E.K.Hulet               1961   2.5000E-08   0.0000E+00   1.6200E+02   0.0000E+00                
 13572-002-0         J.E.Gindler             1959   2.5300E-08   0.0000E+00   1.7000E+02   3.5000E+01     MXW        
 41093-002-0         B.N.Belyaev             1990   2.5300E-08   0.0000E+00   1.3500E+02   1.6000E+01     MXW        

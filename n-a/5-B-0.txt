@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 21196-002-0         P.A.Egelstaff           1957   2.5300E-08   0.0000E+00   7.7100E+02   5.0000E+00                
 20192-002-0         A.Prosdocimi            1963   2.4700E-08   0.0000E+00   7.6670E+02   0.0000E+00                
 20192-002-0         A.Prosdocimi            1963   2.5500E-08   0.0000E+00   7.4290E+02   0.0000E+00                

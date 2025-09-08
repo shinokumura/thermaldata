@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 10383-002-0         S.S.Malik               1973   2.4000E-08   0.0000E+00   5.2300E+01   0.0000E+00                
 10383-002-0         S.S.Malik               1973   2.5000E-08   0.0000E+00   5.0500E+01   0.0000E+00                
 10383-002-0         S.S.Malik               1973   2.6000E-08   0.0000E+00   5.0200E+01   4.0000E-01                

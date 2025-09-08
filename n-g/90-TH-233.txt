@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 22874-004-0         H.Chatani               2004   2.5300E-08   0.0000E+00   1.2700E+03   5.0000E+01                
 11739-004-0         F.J.Johnston            1960   2.5300E-08   0.0000E+00   1.4500E+03   1.0000E+02     MXW        
 12291-002-0         E.K.Hyde                1948   2.5300E-08   0.0000E+00   1.3500E+03   1.0000E+02     SPA        

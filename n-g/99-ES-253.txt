@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 10363-002-0         R.M.Harbour             1973   2.5300E-08   0.0000E+00   1.5500E+02   2.0000E+01     MXW        
 12586-002-0         M.Jones                 1956   2.5300E-08   0.0000E+00   4.5000E+02   0.0000E+00     SPA        
 12574-002-0         P.R.Fields              1967   2.5300E-08   0.0000E+00   3.3800E+02   0.0000E+00     SPA        
@@ -49,7 +49,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 10363-003-0         R.M.Harbour             1973   2.5300E-08   0.0000E+00   3.0000E+00   0.0000E+00     MXW        
 12574-003-0         P.R.Fields              1967   2.5300E-08   0.0000E+00   1.3000E+01   0.0000E+00     SPA        
 41600-006-2         V.A.Anufriev            1974   2.5300E-08   0.0000E+00   4.0000E+01   0.0000E+00     SPA        
@@ -74,6 +74,6 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12567-009-0         B.G.Harvey              1954   2.5300E-08   0.0000E+00   1.6000E+02   0.0000E+00     SPA        
 41600-006-3         V.A.Anufriev            1974   2.5300E-08   0.0000E+00   9.8000E+02   9.0000E+01     SPA        

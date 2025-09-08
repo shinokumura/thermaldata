@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 14565-004-0         E.J.Hennelly            1968   2.5300E-08   0.0000E+00   2.0000E-02   0.0000E+00                
 40901-002-0         V.V.Kozharin            1986   2.5300E-08   0.0000E+00   2.0000E-02   1.0000E-03                
 14807-002-0         A.Ghiorso               1949   2.5300E-08   0.0000E+00   1.9000E-02   3.0000E-03     MXW        

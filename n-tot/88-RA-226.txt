@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40351-003-0         M.I.Pevzner             1956   2.4100E-08   0.0000E+00   1.9800E+01   0.0000E+00                
 40351-003-0         M.I.Pevzner             1956   2.4600E-08   0.0000E+00   2.1000E+01   0.0000E+00                
 40351-003-0         M.I.Pevzner             1956   2.5200E-08   0.0000E+00   2.1100E+01   0.0000E+00                

@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23526-005-2         P.A.Egelstaff           1955   2.5300E-08   0.0000E+00   9.7100E+02   5.0000E+01                
 40063-014-0         Ju.V.Adamchuk           1955   2.5099E-08   0.0000E+00   9.6900E+02   0.0000E+00                
 21031-004-0         R.Richmond              1956   2.4600E-08   0.0000E+00   9.7500E+02   0.0000E+00                
@@ -101,7 +101,7 @@
 23526-007-2         P.A.Egelstaff           1955   2.5300E-08   0.0000E+00   1.0790E+03   5.7000E+01     SPA        
 12535-006-0         P.R.Fields              1956   2.5300E-08   0.0000E+00   1.0600E+03   2.1000E+02     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12434-008-0         B.R.Leonard Jr          1957   2.5300E-08   0.0000E+00   9.0500E+02   0.0000E+00           DERIV
 12434-009-0         B.R.Leonard Jr          1957   2.5300E-08   0.0000E+00   9.4100E+02   4.6000E+01           DERIV
 12551-003-0         B.R.Leonard Jr          1959   2.5300E-08   0.0000E+00   9.5600E+02   4.3000E+01           DERIV

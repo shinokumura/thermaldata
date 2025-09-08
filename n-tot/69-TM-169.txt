@@ -21,11 +21,11 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12111-003-0         E.G.Joki                1956   2.5300E-08   0.0000E+00   1.3400E+02   3.0000E+00                
 30224-014-0         R.L.Zimmerman           1967   2.5300E-08   0.0000E+00   1.3400E+02   2.0000E+00                
 13725-025-0         Y.Danon                 1998   2.5300E-08   0.0000E+00   1.3330E+02   0.0000E+00                
 12634-059-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   5.0000E+02   0.0000E+00     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 30906-007-0         M.Adib                  1979   2.5300E-08   0.0000E+00   1.2600E+02   6.0000E+00           DERIV

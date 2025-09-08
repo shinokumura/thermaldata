@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11980-002-0         J.E.Evans               1955   2.5100E-08   0.0000E+00   1.8640E+02   0.0000E+00                
 11980-002-0         J.E.Evans               1955   2.5310E-08   0.0000E+00   1.8440E+02   0.0000E+00                
 11980-002-0         J.E.Evans               1955   2.5540E-08   0.0000E+00   1.7750E+02   0.0000E+00                

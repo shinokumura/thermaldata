@@ -21,10 +21,10 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40064-014-0         N.I.Kroshkin            1970   2.5300E-08   0.0000E+00   1.0000E+00   1.0000E+00                
 10128-002-0         R.W.Benjamin            1972   2.5000E-08   0.0000E+00   1.1000E+00   5.0000E-01                
 40436-005-0         K.D.Zhuravlev           1975   2.5300E-08   0.0000E+00   1.0000E+00   2.0000E-01     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 20881-023-0         H.Ihle                  1972   2.5000E-08   0.0000E+00   5.0000E+00   0.0000E+00     SPA   DERIV

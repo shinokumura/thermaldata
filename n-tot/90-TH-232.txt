@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12247-002-0         W.W.Havens Jr           1951   2.4500E-08   0.0000E+00   1.9200E+01   0.0000E+00                
 21036-004-0         P.A.Egelstaff           1953   2.5000E-08   0.0000E+00   1.9900E+01   0.0000E+00                
 10973-002-0         D.K.Olsen               1982   2.4065E-08   0.0000E+00   1.9230E+01   0.0000E+00                
@@ -45,5 +45,5 @@
 21759-002-0         K.Kobayashi             1982   2.5165E-08   0.0000E+00   1.9870E+01   1.4590E-01      AV        
 12634-073-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   3.2000E+01   0.0000E+00     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 10956-003-0         R.C.Little              1981   2.5300E-08   0.0000E+00   1.9100E+01   4.0000E-01           DERIV

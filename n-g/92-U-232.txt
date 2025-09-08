@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12374-003-0         J.Halperin              1965   2.5300E-08   0.0000E+00   7.8000E+01   4.0000E+00     MXW        
 20477-002-0         M.J.Cabell              1971   2.5300E-08   0.0000E+00   7.3100E+01   1.5000E+00     MXW        
 12387-003-0         R.Elson                 1953   2.5300E-08   0.0000E+00   5.0000E+02   0.0000E+00     SPA        

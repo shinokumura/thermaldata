@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11443-003-0         E.G.Joki                1955   2.4120E-08   0.0000E+00   4.2890E+00   0.0000E+00                
 11443-003-0         E.G.Joki                1955   2.4390E-08   0.0000E+00   4.2400E+00   0.0000E+00                
 11443-003-0         E.G.Joki                1955   2.4670E-08   0.0000E+00   4.2080E+00   0.0000E+00                

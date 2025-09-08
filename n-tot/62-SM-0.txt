@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 20327-002-0         Y.Ohno                  1965   2.5570E-08   0.0000E+00   5.6630E+03   0.0000E+00                
 12634-052-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   4.7000E+03   0.0000E+00     MXW        
 22088-002-0         K.Higurashi             1988   2.5300E-08   2.3000E-09   5.4280E+03   8.7000E+01     SPA        

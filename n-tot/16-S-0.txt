@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 14689-009-0         H.L.Anderson            1946   2.5300E-08   0.0000E+00   1.6600E+00   0.0000E+00                
 14689-010-0         H.L.Anderson            1946   2.5300E-08   0.0000E+00   3.5200E+00   0.0000E+00                
 11145-006-0         L.J.Rainwater           1948   2.4300E-08   0.0000E+00   1.6400E+00   0.0000E+00                
@@ -36,5 +36,5 @@
 30747-002-0         R.E.Mayer               1987   2.4230E-08   0.0000E+00   1.4800E+00   1.6000E-02                
 12634-016-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   1.4000E+00   0.0000E+00     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 30466-003-0         R.M.A.Maayouf           1968   2.5000E-08   0.0000E+00   1.9000E+00   1.0000E-01           DERIV

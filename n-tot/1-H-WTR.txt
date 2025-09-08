@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11150-003-0         E.Melkonian             1949   2.4890E-08   0.0000E+00   1.1000E+02   0.0000E+00                
 11173-002-0         R.B.Walton              1960   2.4000E-08   0.0000E+00   1.0630E+02   0.0000E+00                
 11173-002-0         R.B.Walton              1960   2.4800E-08   0.0000E+00   1.0570E+02   0.0000E+00                

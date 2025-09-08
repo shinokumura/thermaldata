@@ -23,11 +23,11 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40753-005-0         V.P.Vertebnyi           1982   2.5000E-08   0.0000E+00   3.9500E+03   4.0000E+02                
 10154-002-0         R.S.Mowatt              1970   2.5300E-08   0.0000E+00   4.0400E+03   1.2500E+02     MXW        
 21898-003-0         T.Sekine                1983   2.5000E-08   0.0000E+00   3.7600E+03   1.7000E+02     MXW        
 12138-006-0         R.J.Hayden              1949   2.5300E-08   0.0000E+00   7.9000E+03   0.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1002-228-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.9500E+03   1.2500E+02           RECOM

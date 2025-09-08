@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11432-005-0         W.B.Jones Jr            1948   2.4570E-08   0.0000E+00   5.2328E+01   0.0000E+00                
 11150-002-0         E.Melkonian             1949   2.5400E-08   0.0000E+00   3.5100E+01   0.0000E+00                
 21146-002-0         B.Broecker              1966   2.4980E-08   2.4980E-10   4.7400E+01   4.7400E-01                
@@ -46,5 +46,5 @@
 23423-008-0         W.D.Seiffert            1970   2.4022E-08   1.2876E-10   5.4446E+01   0.0000E+00 TMP/MSC        
 23423-008-0         W.D.Seiffert            1970   2.5587E-08   1.3715E-10   5.4433E+01   0.0000E+00 TMP/MSC        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 21233-003-0         A.Gibert                1946   2.5300E-08   0.0000E+00   1.9600E+01   0.0000E+00     MXW   DERIV

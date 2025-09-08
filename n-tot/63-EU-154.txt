@@ -19,5 +19,5 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40466-003-0         V.F.Razbudej            1977   2.5300E-08   0.0000E+00   1.5300E+03   2.0000E+02                

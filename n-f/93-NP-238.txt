@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 41324-002-0         S.Abramovich            1995   2.5300E-08   0.0000E+00   2.1100E+03   7.4000E+01                
 13602-003-0         Y.Danon                 1996   2.4040E-08   0.0000E+00   2.7100E+03   6.1700E+01                
 13602-003-0         Y.Danon                 1996   2.4370E-08   0.0000E+00   2.7230E+03   6.0900E+01                

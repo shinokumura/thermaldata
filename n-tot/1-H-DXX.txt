@@ -19,6 +19,6 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23423-005-0         W.D.Seiffert            1970   2.5900E-08   0.0000E+00   2.7300E+01   0.0000E+00     TMP        
 23423-009-0         W.D.Seiffert            1970   2.5689E-08   1.3769E-10   2.8273E+01   0.0000E+00     TMP        

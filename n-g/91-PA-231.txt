@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40163-002-0         B.M.Aleksandrov         1972   2.5300E-08   0.0000E+00   2.6000E+02   1.3000E+01                
 40579-003-0         L.N.Jurova              1984   2.5300E-08   0.0000E+00   2.1900E+02   6.0000E+00                
 12273-002-0         R.R.Smith               1956   2.5300E-08   0.0000E+00   2.0000E+02   1.5000E+01     MXW        

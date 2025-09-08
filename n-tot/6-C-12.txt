@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 14689-002-0         H.L.Anderson            1946   2.5300E-08   0.0000E+00   4.0500E+00   0.0000E+00                
 21149-004-0         P.A.Egelstaff           1957   2.5000E-08   0.0000E+00   5.1900E+00   0.0000E+00                
 21149-005-0         P.A.Egelstaff           1957   2.4200E-08   0.0000E+00   5.3100E+00   0.0000E+00                

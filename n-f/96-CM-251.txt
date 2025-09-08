@@ -19,5 +19,5 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12550-013-0         C.H.Ice                 1966   2.5300E-08   0.0000E+00   3.0000E+03   0.0000E+00     SPA        

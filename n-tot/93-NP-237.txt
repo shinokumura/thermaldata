@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40063-012-0         Ju.V.Adamchuk           1955   2.4599E-08   0.0000E+00   2.2900E+02   0.0000E+00                
 12487-004-0         M.S.Smith               1957   2.4120E-08   0.0000E+00   2.0100E+02   0.0000E+00                
 12487-004-0         M.S.Smith               1957   2.4390E-08   0.0000E+00   1.8300E+02   0.0000E+00                

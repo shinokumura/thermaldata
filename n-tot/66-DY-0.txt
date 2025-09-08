@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 21025-002-0         J.Brunner               1967   2.4070E-08   5.0000E-11   1.0428E+03   3.4000E+00                
 21025-002-0         J.Brunner               1967   2.4510E-08   5.0000E-11   1.0319E+03   3.3600E+00                
 21025-002-0         J.Brunner               1967   2.4970E-08   5.0000E-11   1.0234E+03   3.3300E+00                
@@ -36,5 +36,5 @@
 12634-056-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   7.0000E+02   0.0000E+00     MXW        
 22088-004-0         K.Higurashi             1988   2.5300E-08   2.3000E-09   1.0410E+03   2.1000E+01     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 30467-007-0         A.Abdel-Kawi            1972   2.5000E-08   0.0000E+00   1.0160E+03   1.5000E+01           DERIV

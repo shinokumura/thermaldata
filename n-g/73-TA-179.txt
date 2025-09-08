@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23791-002-0         R.Garg                  2023   2.5300E-08   0.0000E+00   9.6500E+02   6.3000E+01                
 23791-004-0         R.Garg                  2023   2.5300E-08   0.0000E+00   9.3900E+02   5.7000E+01                
 23791-006-0         R.Garg                  2023   2.5300E-08   0.0000E+00   9.5200E+02   5.7000E+01      AV        
@@ -46,5 +46,5 @@
 #
 # Data Table
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1002-386-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   9.3200E+02   6.2000E+01           RECOM

@@ -27,7 +27,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 21082-006-0         J.M.Auclair              nan   2.4700E-08   0.0000E+00   5.8800E+02   0.0000E+00                
 14732-004-0         M.Deutsch               1944   2.5300E-08   0.0000E+00   5.2600E+02   3.0000E+01                
 40063-011-0         Ju.V.Adamchuk           1955   2.5099E-08   0.0000E+00   5.3800E+02   0.0000E+00                
@@ -248,7 +248,7 @@
 21522-013-0         C.Wagemans              1979   2.4022E-08   0.0000E+00   9.5032E+01   1.4255E+00     RTE        
 12866-208-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   5.8000E+02   0.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12434-005-0         B.R.Leonard Jr          1957   2.5300E-08   0.0000E+00   5.5200E+02   0.0000E+00           DERIV
 12404-006-0         G.J.Safford             1959   2.5300E-08   0.0000E+00   5.9080E+02   5.4000E+00           DERIV
 20189-003-0         A.J.Deruytter           1961   2.5300E-08   0.0000E+00   5.8700E+02   6.0000E+00           DERIV

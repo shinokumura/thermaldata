@@ -25,7 +25,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 14704-004-0         H.L.Anderson            1939   2.5300E-08   0.0000E+00   1.0000E+01   0.0000E+00                
 21395-017-0         B.Grimeland             1951   2.5300E-08   0.0000E+00   1.2400E+01   2.0000E-01                
 20638-008-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   1.3250E+01   1.5000E-01                
@@ -62,7 +62,7 @@
 11528-012-0         S.P.Harris              1950   2.5300E-08   0.0000E+00   1.2300E+01   0.0000E+00     SPA        
 12866-024-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   1.3300E+01   1.0000E-01     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 31827-003-0         M.A.Islam               2020   2.5300E-08   0.0000E+00   1.2930E+01   5.3000E-01           DERIV
 V0042-003-0         E.J.Axton               1986   2.5300E-08   0.0000E+00   1.3408E+01   3.7000E-02            EVAL
 V1001-196-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.3360E+01   5.0000E-02           RECOM

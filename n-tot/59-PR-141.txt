@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12004-003-0         G.D.Hickman             1965   2.4000E-08   0.0000E+00   2.0400E+01   4.0000E-01                
 12004-003-0         G.D.Hickman             1965   2.5000E-08   0.0000E+00   2.0500E+01   3.0000E-01                
 12070-002-0         H.M.Eiland              1966   2.4000E-08   0.0000E+00   1.8600E+01   2.0000E-01                

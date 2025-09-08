@@ -21,14 +21,14 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23291-002-0         R.C.Hanna               1955   2.5300E-08   0.0000E+00   5.3000E+04   8.0000E+03                
 41596-006-0         Yu.M.Gledenov           1987   2.4657E-08   5.1656E-10   4.9269E+04   0.0000E+00                
 13163-003-0         P.E.Koehler             1988   2.5300E-08   0.0000E+00   3.8820E+04   8.0900E+02                
 31791-003-0         I.Tomandl               2019   2.5300E-08   0.0000E+00   4.4300E+04   1.4000E+03                
 32103-002-0         J.Cervena               1989   2.5300E-08   0.0000E+00   4.6800E+04   4.0000E+03     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23399-004-0         L.Damone                2018   2.5300E-08   0.0000E+00   5.2300E+04   0.0000E+00           DERIV
 23399-005-0         L.Damone                2018   2.4000E-08   0.0000E+00   5.4123E+04   0.0000E+00           DERIV
 23399-005-0         L.Damone                2018   2.4250E-08   0.0000E+00   5.3843E+04   0.0000E+00           DERIV

@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23488-078-0         F.De Corte              1988   2.5300E-08   0.0000E+00   3.1100E+00   0.0000E+00                
 23260-129-0         F.Farina Arbocco        2014   2.5300E-08   0.0000E+00   2.8500E+00   7.0000E-02                
 23260-130-0         F.Farina Arbocco        2014   2.5300E-08   0.0000E+00   2.8000E+00   0.0000E+00                
@@ -34,5 +34,5 @@
 12127-026-0         W.H.Walker              1956   2.5300E-08   0.0000E+00   0.0000E+00   0.0000E+00     SPA        
 12866-170-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   3.0200E+00   5.0000E-02     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1002-343-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.8500E+00   5.0000E-02           RECOM

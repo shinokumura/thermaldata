@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 21112-002-0         Hubert                  1958   2.4000E-08   0.0000E+00   4.3500E+02   0.0000E+00                
 21025-007-0         J.Brunner               1967   2.4070E-08   5.0000E-11   4.5296E+02   4.0100E+00                
 21025-007-0         J.Brunner               1967   2.4510E-08   5.0000E-11   4.4840E+02   3.9700E+00                

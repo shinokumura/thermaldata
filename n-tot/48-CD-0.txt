@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 14687-003-0         C.P.Baker               1941   2.4000E-08   0.0000E+00   3.8137E+03   0.0000E+00                
 11685-003-0         L.J.Rainwater           1947   2.5000E-08   0.0000E+00   2.4559E+03   0.0000E+00                
 11685-013-0         L.J.Rainwater           1947   2.5000E-08   0.0000E+00   2.3981E+03   0.0000E+00                

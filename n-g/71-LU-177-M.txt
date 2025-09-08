@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 22915-006-0         G.Belier                2006   2.5300E-08   0.0000E+00   4.1700E+02   2.6000E+01                
 22915-009-0         G.Belier                2006   2.5300E-08   0.0000E+00   3.6900E+02   2.3000E+01 MXW/FCT        
 # Header: 
@@ -42,5 +42,5 @@
 #
 # Data Table
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1002-357-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.1800E+00   3.0000E-01           RECOM

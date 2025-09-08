@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12085-006-0         C.A.Conrad              1969   2.5300E-08   0.0000E+00   3.9700E+01   7.0000E-01                
 40279-017-0         V.P.Vertebny            1975   2.5300E-08   0.0000E+00   5.1000E+01   0.0000E+00                
 20318-007-0         K.Okamoto               1971   2.5300E-08   0.0000E+00   5.5000E+01   8.0000E+00     MXW        

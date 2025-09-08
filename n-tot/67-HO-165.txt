@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11745-008-0         S.Bernstein             1952   2.5900E-08   0.0000E+00   9.2500E+01   0.0000E+00                
 12123-002-0         R.Schermer              1964   2.4200E-08   0.0000E+00   1.0370E+02   4.0000E-01                
 12123-002-0         R.Schermer              1964   2.5700E-08   0.0000E+00   1.0100E+02   4.0000E-01                

@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40094-002-0         V.P.Vertebny            1969   2.4100E-08   0.0000E+00   3.5800E+02   0.0000E+00                
 40094-002-0         V.P.Vertebny            1969   2.4900E-08   0.0000E+00   3.4300E+02   1.2000E+01                
 40094-002-0         V.P.Vertebny            1969   2.5600E-08   0.0000E+00   3.4300E+02   0.0000E+00                

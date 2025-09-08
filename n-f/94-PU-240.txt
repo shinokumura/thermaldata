@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12509-004-0         W.W.Pratt               1956   2.5300E-08   0.0000E+00   3.7000E+00   8.0000E+00                
 12011-006-0         T.A.Eastwood            1958   2.5300E-08   0.0000E+00   3.0000E-02   4.5000E-02                
 23458-004-0         A.Stamatopoulos         2020   2.4268E-08   0.0000E+00   6.9698E-02   5.5235E-03                

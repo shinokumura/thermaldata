@@ -19,7 +19,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 14242-002-1         R.Sanchez               2009   2.4100E-08   0.0000E+00   4.4322E+02   0.0000E+00                
 14242-002-1         R.Sanchez               2009   2.4400E-08   0.0000E+00   4.3932E+02   0.0000E+00                
 14242-002-1         R.Sanchez               2009   2.4700E-08   0.0000E+00   4.3764E+02   0.0000E+00                

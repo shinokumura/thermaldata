@@ -21,12 +21,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40486-002-0         V.D.Gavrilov            1978   2.5300E-08   0.0000E+00   1.5200E+01   1.2000E+00                
 22941-038-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   1.5810E+01   3.0000E+00                
 12585-003-0         C.M.Stevens             1954   2.5300E-08   0.0000E+00   2.5000E+01   1.0000E+01     SPA        
 12550-007-0         C.H.Ice                 1966   2.5300E-08   0.0000E+00   2.0000E+01   0.0000E+00     SPA        
 22941-037-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   1.9110E+01   2.6700E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 20881-022-0         H.Ihle                  1972   2.5000E-08   0.0000E+00   7.0000E+01   0.0000E+00     SPA   DERIV

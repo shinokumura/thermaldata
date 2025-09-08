@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 10317-002-0         R.M.Harbour             1973   2.5300E-08   0.0000E+00   8.3800E+01   2.6000E+00                
 40467-011-0         V.D.Gavrilov            1976   2.5300E-08   0.0000E+00   7.3000E+01   1.4000E+01                
 22346-002-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   6.0900E+01   2.6000E+00                
@@ -35,7 +35,7 @@
 12583-002-0         K.Street Jr             1952   2.5300E-08   0.0000E+00   5.0000E+01   0.0000E+00     SPA        
 12578-003-0         R.W.Hoff                1959   2.5300E-08   0.0000E+00   1.2000E+02   0.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 20881-012-0         H.Ihle                  1972   2.5000E-08   0.0000E+00   9.5000E+01   0.0000E+00     SPA   DERIV
 # Header: 
 #   title: 95-AM-241(N,G) thermal cross section 
@@ -62,7 +62,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 10317-003-0         R.M.Harbour             1973   2.5300E-08   0.0000E+00   7.4800E+02   2.0000E+01                
 40467-010-0         V.D.Gavrilov            1976   2.5300E-08   0.0000E+00   7.8000E+02   5.0000E+01                
 22346-003-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   7.3600E+02   3.1000E+01                
@@ -82,7 +82,7 @@
 12583-003-0         K.Street Jr             1952   2.5300E-08   0.0000E+00   3.0000E+02   0.0000E+00     SPA        
 12578-002-0         R.W.Hoff                1959   2.5300E-08   0.0000E+00   6.2000E+02   6.5000E+01     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 20881-011-0         H.Ihle                  1972   2.5000E-08   0.0000E+00   7.7500E+02   0.0000E+00     SPA   DERIV
 # Header: 
 #   title: 95-AM-241(N,G) thermal cross section 
@@ -113,7 +113,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 40305-006-2         T.S.Belanova            1976   2.5300E-08   0.0000E+00   6.2400E+02   2.0000E+01                
 22346-004-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   7.9700E+02   3.1000E+01                
 22727-004-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   8.5400E+02   5.8000E+01                
@@ -190,7 +190,7 @@
 12581-002-0         K.Street Jr             1950   2.5300E-08   0.0000E+00   1.0000E+02   0.0000E+00     SPA        
 22941-003-0         A.Letourneau            2009   2.5000E-08   0.0000E+00   7.1418E+02   2.3340E+01     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 23237-002-0         K.Fraval                2014   2.5300E-08   0.0000E+00   6.7800E+02   6.8000E+01           DERIV
 23264-003-1         C.Genreith              2014   2.5300E-08   0.0000E+00   7.2540E+02   3.4400E+01           DERIV
 23264-003-2         C.Genreith              2014   2.5300E-08   0.0000E+00   7.1110E+02   3.3900E+01           DERIV
@@ -219,7 +219,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12566-002-0         D.H.White               1965   2.5300E-08   0.0000E+00   1.0000E-05   0.0000E+00     MXW        
 20181-002-0         C.Wagemans              1967   2.5300E-08   0.0000E+00   1.3000E-04   0.0000E+00     SPA        
 41640-002-2         Yu.P.Gangrskiy          1969   2.5300E-08   0.0000E+00   1.0000E-04   5.0000E-05     SPA        

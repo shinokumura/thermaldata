@@ -21,7 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11634-006-0         R.E.Schmunk             1960   2.5300E-08   0.0000E+00   2.0000E+01   9.0000E-01                
 20638-056-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   1.9000E+01   2.0000E-01                
 20437-012-0         F.Widder                1975   2.4120E-08   0.0000E+00   2.1364E+01   6.9610E-01                

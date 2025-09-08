@@ -25,7 +25,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 12602-003-0         C.H.Hogg                1970   2.5300E-08   0.0000E+00   7.3000E-02   4.0000E-03                
 23488-021-0         F.De Corte              1988   2.5300E-08   0.0000E+00   6.9900E-02   1.6077E-03                
 23266-067-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   7.1000E-02   0.0000E+00                
@@ -44,7 +44,7 @@
 11625-007-0         W.S.Lyon                1960   2.5300E-08   0.0000E+00   1.0000E-01   1.0000E-02     SPA        
 12866-036-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   7.2000E-02   7.0000E-03     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1001-254-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   7.2000E-02   4.0000E-03           RECOM
 # Header: 
 #   title: 30-ZN-68(N,G) thermal cross section 
@@ -67,10 +67,10 @@ V1001-254-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   7.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 11447-031-0         L.Seren                 1947   2.5300E-08   0.0000E+00   1.0900E+00   2.1800E-01     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1001-254-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.0000E+00   1.0000E-01           RECOM
 # Header: 
 #   title: 30-ZN-68(N,G) thermal cross section 
@@ -93,9 +93,9 @@ V1001-254-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.0
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 31248-003-0         S.K.Mangal              1962   2.5300E-08   0.0000E+00   1.1160E+00   1.6740E-01     MXW        
 40780-005-0         L.N.Bystrov             1968   2.5300E-08   0.0000E+00   1.1100E+00   0.0000E+00     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]    dData         sf8    sf9
 V1001-254-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.0700E+00   1.0000E-01           RECOM

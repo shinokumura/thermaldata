@@ -1,7 +1,7 @@
 # Header: 
 #   title: 89-AC-227(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 89 
 #   A: 227 
@@ -19,15 +19,11 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 12249-003-0         S.Peterson              1949   2.5300E-08   0.0000E+00   2.0000E+00   0.0000E+00     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 20351-002-0         P.Del Marmol            1973   2.5300E-08   0.0000E+00   3.5000E-04   0.0000E+00     MXW   DERIV
 20351-006-0         P.Del Marmol            1973   2.5300E-08   0.0000E+00   1.2500E-04   1.6400E-04     MXW   DERIV
 20351-007-0         P.Del Marmol            1973   2.5300E-08   0.0000E+00   3.3500E-04   6.8000E-05     MXW   DERIV
 V1002-550-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.9000E-04   0.0000E+00           RECOM
-# ------------------
-#
-

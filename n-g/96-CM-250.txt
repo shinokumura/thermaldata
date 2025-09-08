@@ -1,7 +1,7 @@
 # Header: 
 #   title: 96-CM-250(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 96 
 #   A: 250 
@@ -19,8 +19,5 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 12550-012-0         C.H.Ice                 1966   2.5300E-08   0.0000E+00   1.2000E+03   0.0000E+00     SPA        
-# ------------------
-#
-

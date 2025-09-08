@@ -1,7 +1,7 @@
 # Header: 
 #   title: 54-XE-124(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 54 
 #   A: 124 
@@ -19,23 +19,19 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 12013-002-0         J.M.Tobin               1958   2.5300E-08   0.0000E+00   7.4400E+01   0.0000E+00     MXW        
 12046-003-0         P.V.Harper              1961   2.5300E-08   0.0000E+00   1.1500E+02   0.0000E+00     MXW        
 11849-005-0         T.Eastwood              1963   2.5300E-08   0.0000E+00   9.4000E+01   9.4000E+00     MXW        
 20628-002-0         M.Bresesti              1964   2.5300E-08   0.0000E+00   1.1100E+02   1.1000E+01     MXW        
 11883-008-0         E.Kondaiah              1968   2.5300E-08   0.0000E+00   1.4400E+02   1.1000E+01     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1002-042-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.5000E+02   2.0000E+01           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 54-XE-124(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 54 
 #   A: 124 
@@ -53,12 +49,8 @@ V1002-042-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.5
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 11883-007-0         E.Kondaiah              1968   2.5300E-08   0.0000E+00   2.3600E+01   2.5000E+00     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1002-042-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.8000E+01   5.0000E+00           RECOM
-# ------------------
-#
-

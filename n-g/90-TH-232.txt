@@ -1,14 +1,14 @@
 # Header: 
 #   title: 90-TH-232(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 90 
 #   A: 232 
 #   Nuclide: 90-TH-232 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z: 90 
 #   A: 233 
@@ -16,14 +16,16 @@
 # Statistics:
 #   Thermal Simple Mean       |  Simple Stdev        : 7.37025E+00  |   1.02134E-01  (N = 16)
 #   Thermal Weighted Mean    +/- Weighted Error      : 7.37504E+00 +/-  1.60857E-02  (N = 16)
+#   AV Simple Mean            |  Simple Stdev        : 6.41000E+00  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #   MXW Simple Mean           |  Simple Stdev        : 7.24875E+00  |   5.39217E-01   (N = 8)
 #   MXW Weighted Mean        +/- Weighted Error      : 7.38219E+00 +/-  4.36574E-02   (N = 8)
-#   SPA Simple Mean           |  Simple Stdev        : 7.59286E+00  |   1.40047E+00   (N = 7)
-#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 7)
+#   SPA Simple Mean           |  Simple Stdev        : 7.55000E+00  |   1.21582E+00   (N = 9)
+#   SPA Weighted Mean        +/- Weighted Error      : 7.23375E+00 +/-  6.90411E-02   (N = 9)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 21181-005-0         V.S.Crocker             1955   2.5300E-08   0.0000E+00   7.3100E+00   1.2000E-01                
 22555-002-0         P.A.Egelstaff           1955   2.5300E-08   0.0000E+00   7.2000E+00   2.0000E-01                
 22543-002-0         P.Hubert                1957   2.5300E-08   0.0000E+00   7.6000E+00   1.6000E-01                
@@ -40,6 +42,7 @@
 23260-144-0         F.Farina Arbocco        2014   2.5300E-08   0.0000E+00   7.3710E+00   0.0000E+00                
 23260-144-0         F.Farina Arbocco        2014   2.5300E-08   0.0000E+00   7.4200E+00   0.0000E+00                
 23260-144-0         F.Farina Arbocco        2014   2.5300E-08   0.0000E+00   7.4110E+00   0.0000E+00                
+10956-004-0         R.C.Little              1981   2.5050E-08   0.0000E+00   6.4100E+00   0.0000E+00      AV        
 12040-003-0         W.E.Grumitt             1944   2.5300E-08   0.0000E+00   7.7500E+00   3.0000E-01     MXW        
 11945-010-0         G.A.Linenberger         1946   2.5300E-08   0.0000E+00   6.0300E+00   0.0000E+00     MXW        
 11507-103-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   7.0000E+00   4.0000E-01     MXW        
@@ -54,10 +57,11 @@
 40357-015-1         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.3800E+00   0.0000E+00     SPA        
 40357-015-2         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.6500E+00   0.0000E+00     SPA        
 40357-016-0         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   1.0620E+01   0.0000E+00     SPA        
+12866-206-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   7.4000E+00   8.0000E-02     SPA        
+22941-008-0         A.Letourneau            2009   2.5000E-08   0.0000E+00   7.4000E+00   2.1000E-01     SPA        
 22941-023-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   6.2700E+00   1.8000E-01     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 40357-006-1         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.2900E+00   1.0000E-01     MXW   DERIV
 40357-006-2         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.3300E+00   0.0000E+00     MXW   DERIV
 40357-006-3         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.3100E+00   0.0000E+00     MXW   DERIV
@@ -67,7 +71,3 @@
 40357-018-1         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.2400E+00   0.0000E+00     MXW   DERIV
 40357-018-2         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   7.1700E+00   0.0000E+00     MXW   DERIV
 40357-018-3         G.G.Myasishcheva        1957   2.5300E-08   0.0000E+00   6.7500E+00   0.0000E+00     MXW   DERIV
-V1002-559-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   7.3500E+00   3.0000E-02           RECOM
-# ------------------
-#
-

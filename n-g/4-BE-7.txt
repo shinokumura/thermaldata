@@ -1,7 +1,7 @@
 # Header: 
 #   title: 4-BE-7(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 4 
 #   A: 7 
@@ -19,8 +19,5 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 20896-003-0         P.Bassi                 1963   2.5300E-08   0.0000E+00   1.5500E-01   0.0000E+00     MXW        
-# ------------------
-#
-

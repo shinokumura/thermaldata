@@ -1,14 +1,14 @@
 # Header: 
 #   title: 12-MG-26(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 12 
 #   A: 26 
 #   Nuclide: 12-MG-26 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z: 12 
 #   A: 27 
@@ -20,12 +20,12 @@
 #   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #   MXW Simple Mean           |  Simple Stdev        : 4.20500E-02  |   1.21769E-02   (N = 4)
 #   MXW Weighted Mean        +/- Weighted Error      : 3.76375E-02 +/-  8.16421E-04   (N = 4)
-#   SPA Simple Mean           |  Simple Stdev        : 4.10000E-02  |   9.89949E-03   (N = 2)
-#   SPA Weighted Mean        +/- Weighted Error      : 4.12856E-02 +/-  6.92532E-03   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 3.95000E-02  |   7.46659E-03   (N = 3)
+#   SPA Weighted Mean        +/- Weighted Error      : 3.65977E-02 +/-  9.89735E-04   (N = 3)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 20789-003-0         T.B.Ryves               1970   2.5300E-08   0.0000E+00   3.8200E-02   0.0000E+00                
 23488-003-0         F.De Corte              1988   2.5300E-08   0.0000E+00   3.7200E-02   3.3480E-03                
 31698-008-0         B.J.B.Nyarko            2010   2.5300E-08   0.0000E+00   3.2000E-02   1.0000E-03                
@@ -39,10 +39,7 @@
 13544-007-0         T.A.Walkiewicz          1992   2.5300E-08   0.0000E+00   3.9200E-02   1.0000E-03     MXW        
 11447-005-0         L.Seren                 1947   2.5300E-08   0.0000E+00   4.8000E-02   9.6000E-03     SPA        
 20214-007-0         P.Spilling              1967   2.5300E-08   0.0000E+00   3.4000E-02   1.0000E-02     SPA        
-# ------------------
+12866-004-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   3.6500E-02   1.0000E-03     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-071-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.8400E-02   6.0000E-04           RECOM
-# ------------------
-#
-

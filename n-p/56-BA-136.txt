@@ -1,7 +1,7 @@
 # Header: 
 #   title: 56-BA-136(N,P) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 56 
 #   A: 136 
@@ -19,8 +19,5 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 14073-005-0         B.L.Robinson            1956   2.5300E-08   0.0000E+00   2.0000E-07   5.0000E-08     SPA        
-# ------------------
-#
-

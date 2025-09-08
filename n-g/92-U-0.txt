@@ -1,7 +1,7 @@
 # Header: 
 #   title: 92-U-0(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 92 
 #   A: 0 
@@ -23,10 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 30073-009-0         Al.Stefanescu           1961   2.5300E-08   0.0000E+00   7.8300E+00   4.2000E-01                
 21182-002-0         V.G.Small               1955   2.5300E-08   0.0000E+00   7.0700E+00   1.2000E-01     MXW        
 23397-003-0         K.Hanatani              1945   2.5300E-08   0.0000E+00   4.0000E+00   2.1000E+00     SPA        
-# ------------------
-#
-

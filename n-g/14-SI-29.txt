@@ -1,7 +1,7 @@
 # Header: 
 #   title: 14-SI-29(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 14 
 #   A: 29 
@@ -21,15 +21,11 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 11507-006-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   2.7000E-01   8.1000E-02     MXW        
 13549-006-0         S.Raman                 1992   2.5300E-08   0.0000E+00   1.1900E-01   3.0000E-03     MXW        
 20542-003-0         A.M.J.Spits             1974   2.5300E-08   0.0000E+00   1.0100E-01   1.4000E-02     SPA        
 13864-006-0         M.A.Islam               1990   2.5300E-08   0.0000E+00   1.2000E-01   3.0000E-03     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-083-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.1900E-01   3.0000E-03           RECOM
-# ------------------
-#
-

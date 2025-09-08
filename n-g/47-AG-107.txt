@@ -1,14 +1,14 @@
 # Header: 
 #   title: 47-AG-107(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 47 
 #   A: 107 
 #   Nuclide: 47-AG-107 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z: 47 
 #   A: 108 
@@ -20,12 +20,14 @@
 #   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #   MXW Simple Mean           |  Simple Stdev        : 3.31667E+01  |   9.91228E+00   (N = 3)
 #   MXW Weighted Mean        +/- Weighted Error      : 3.08783E+01 +/-  2.30932E+00   (N = 3)
+#   SPA Simple Mean           |  Simple Stdev        : 3.53000E+01  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #   SPA/A Simple Mean         |  Simple Stdev        : 5.00000E-02  |           NAN   (N = 1)
 #   SPA/A Weighted Mean      +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 20791-011-0         T.B.Ryves               1971   2.5300E-08   0.0000E+00   3.7200E+01   0.0000E+00                
 20561-006-0         T.B.Ryves               1974   2.5300E-08   0.0000E+00   3.7600E+01   1.2000E+00                
 23266-107-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   3.3500E+01   0.0000E+00                
@@ -35,19 +37,16 @@
 11945-003-0         G.A.Linenberger         1946   2.5300E-08   0.0000E+00   2.5300E+01   0.0000E+00     MXW        
 11447-066-0         L.Seren                 1947   2.5300E-08   0.0000E+00   4.4300E+01   8.8600E+00     MXW        
 11507-056-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   2.9900E+01   2.3920E+00     MXW        
+12866-090-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   3.5300E+01   1.0000E+00     SPA        
 11447-072-0         L.Seren                 1947   2.5300E-08   0.0000E+00   5.0000E-02   1.0000E-02   SPA/A        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 23533-009-0         L.Salamon               2020   2.5300E-08   0.0000E+00   3.7510E+01   0.0000E+00           DERIV
 V1001-466-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.7600E+01   1.2000E+00           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 47-AG-107(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 47 
 #   A: 107 
@@ -67,21 +66,17 @@ V1001-466-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.7
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 21625-002-0         T.B.Ryves               1979   2.5300E-08   0.0000E+00   3.6600E-01   6.5000E-02                
 13129-002-0         M.Gavrilas              1987   2.5300E-08   0.0000E+00   4.7700E-01   3.3000E-02                
 12959-002-0         D.V.Rao                 1978   2.5300E-08   0.0000E+00   3.3000E-01   0.0000E+00     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-466-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.3000E-01   8.0000E-02           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 47-AG-107(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 47 
 #   A: 107 
@@ -99,8 +94,5 @@ V1001-466-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.3
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 23488-044-0         F.De Corte              1988   2.5300E-08   0.0000E+00   3.3100E+01   1.6550E+00                
-# ------------------
-#
-

@@ -1,7 +1,7 @@
 # Header: 
 #   title: 40-ZR-0(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 40 
 #   A: 0 
@@ -21,16 +21,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 20638-019-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   1.9100E-01   4.0000E-03                
 20658-014-0         J.C.Carre               1966   2.5300E-08   0.0000E+00   1.8200E-01   2.0000E-03                
 11047-033-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   1.8000E-01   1.8000E-02     MXW        
 30295-004-0         A.Kocic                 1968   2.5300E-08   0.0000E+00   1.8800E-01   8.0000E-03     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 10501-019-0         S.S.Malik               1970   2.5300E-08   0.0000E+00   2.5000E-01   5.0000E-02           DERIV
 V1001-365-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.8500E-01   3.0000E-03           RECOM
-# ------------------
-#
-

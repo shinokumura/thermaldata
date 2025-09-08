@@ -1,7 +1,7 @@
 # Header: 
 #   title: 28-NI-59(N,A) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 28 
 #   A: 59 
@@ -21,16 +21,12 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 10387-002-0         H.M.Eiland              1974   2.5300E-08   0.0000E+00   1.3700E+01   1.2000E+00                
 10472-003-0         R.D.Werner              1975   2.5300E-08   0.0000E+00   1.8000E+01   1.6000E+00                
 10680-002-0         J.A.Harvey              1976   2.5300E-08   0.0000E+00   1.1400E+01   8.0000E-01                
 20433-003-0         J.Mcdonald              1976   2.5300E-08   0.0000E+00   2.2300E+01   1.6000E+00                
 10257-002-0         A.A.Bauer               1972   2.5300E-08   0.0000E+00   7.3800E+00   2.2140E-01     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-226-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.2300E+01   6.0000E-01           RECOM
-# ------------------
-#
-

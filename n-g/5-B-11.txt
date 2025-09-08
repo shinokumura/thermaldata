@@ -1,7 +1,7 @@
 # Header: 
 #   title: 5-B-11(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 5 
 #   A: 11 
@@ -19,13 +19,9 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 11235-006-0         W.L.Imhof               1962   2.5300E-08   0.0000E+00   5.0000E-03   3.0000E-03                
 31768-017-0         R.B.Firestone           2016   2.5300E-08   0.0000E+00   9.0900E-03   1.0000E-04                
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-023-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.5000E-03   3.3000E-03           RECOM
-# ------------------
-#
-

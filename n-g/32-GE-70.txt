@@ -1,7 +1,7 @@
 # Header: 
 #   title: 32-GE-70(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 32 
 #   A: 70 
@@ -21,24 +21,20 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 11507-034-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   3.2500E+00   2.6000E-01     MXW        
 11426-006-0         W.A.Brooksbank          1955   2.5300E-08   0.0000E+00   3.9000E+00   1.2000E+00     MXW        
 22521-005-0         W.Mannhart              1968   2.5300E-08   0.0000E+00   3.1500E+00   1.6000E-01     MXW        
 11447-036-0         L.Seren                 1947   2.5300E-08   0.0000E+00   4.5000E-01   1.8000E-01     SPA        
 11625-009-0         W.S.Lyon                1960   2.5300E-08   0.0000E+00   3.4700E+00   3.4700E-01     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22046-014-0         L.Koester               1987   2.5300E-08   0.0000E+00   2.9000E+00   2.0000E-01           DERIV
 V1001-267-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.0500E+00   1.3000E-01           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 32-GE-70(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 32 
 #   A: 70 
@@ -56,19 +52,15 @@ V1001-267-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.0
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 31003-004-0         K.F.Alexander           1963   2.5300E-08   0.0000E+00   2.8000E-01   7.0000E-02     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-267-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.8000E-01   7.0000E-02           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 32-GE-70(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 32 
 #   A: 70 
@@ -83,8 +75,5 @@ V1001-267-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.8
 #
 # Data Table
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-267-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.7700E+00   1.5000E-01           RECOM
-# ------------------
-#
-

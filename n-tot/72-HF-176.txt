@@ -1,7 +1,7 @@
 # Header: 
 #   title: 72-HF-176(N,TOT) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 72 
 #   A: 176 
@@ -21,10 +21,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 12085-002-0         C.A.Conrad              1969   2.5300E-08   0.0000E+00   3.6200E+01   9.4000E+00                
 40279-013-0         V.P.Vertebny            1975   2.5300E-08   0.0000E+00   1.9000E+01   0.0000E+00                
 20318-003-0         K.Okamoto               1971   2.5300E-08   0.0000E+00   2.7000E+02   2.8300E+02     MXW        
-# ------------------
-#
-

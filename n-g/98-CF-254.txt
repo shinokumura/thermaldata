@@ -1,7 +1,7 @@
 # Header: 
 #   title: 98-CF-254(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 98 
 #   A: 254 
@@ -19,13 +19,6 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 12567-008-0         B.G.Harvey              1954   2.5300E-08   0.0000E+00   2.0000E+00   0.0000E+00     SPA        
 12723-003-0         R.W.Lougheed            1981   2.5300E-08   0.0000E+00   4.5000E+00   1.0000E+00     SPA        
-# ------------------
-#   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-V1002-704-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.5000E+00   1.5000E+00           RECOM
-# ------------------
-#
-

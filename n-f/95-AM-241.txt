@@ -1,45 +1,60 @@
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
 #   Nuclide: 95-AM-241 
 # Reaction: 
 #   Type: N,F 
-#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
+#   Incident energy       : 2.4020e-08 MeV - 2.5900e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Thermal Simple Mean       |  Simple Stdev        : 2.97500E+00  |   2.47487E-01   (N = 2)
-#   Thermal Weighted Mean    +/- Weighted Error      : 3.10420E+00 +/-  9.04316E-02   (N = 2)
-#   MXW Simple Mean           |  Simple Stdev        : 3.09600E+00  |   9.12688E-02   (N = 5)
-#   MXW Weighted Mean        +/- Weighted Error      : 3.13902E+00 +/-  6.73939E-02   (N = 5)
+#   Thermal Simple Mean       |  Simple Stdev        : 3.15223E+00  |   3.68971E-01  (N = 13)
+#   Thermal Weighted Mean    +/- Weighted Error      : 3.15366E+00 +/-  6.68229E-02  (N = 13)
+#   MXW Simple Mean           |  Simple Stdev        : 3.21333E+00  |   2.98775E-01   (N = 6)
+#   MXW Weighted Mean        +/- Weighted Error      : 3.20642E+00 +/-  6.38655E-02   (N = 6)
+#   SDT Simple Mean           |  Simple Stdev        : 4.14096E+00  |   5.75585E-01   (N = 5)
+#   SDT Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 5)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+40085-005-0         V.F.Gerasimov           1966   2.4300E-08   0.0000E+00   2.9000E+00   0.0000E+00                
+40085-005-0         V.F.Gerasimov           1966   2.4700E-08   0.0000E+00   3.4000E+00   0.0000E+00                
+40085-005-0         V.F.Gerasimov           1966   2.5100E-08   0.0000E+00   3.8000E+00   0.0000E+00                
+40085-005-0         V.F.Gerasimov           1966   2.5500E-08   0.0000E+00   2.7000E+00   0.0000E+00                
+40085-005-0         V.F.Gerasimov           1966   2.5900E-08   0.0000E+00   3.1000E+00   4.0000E-01                
+40270-003-0         V.F.Gerasimov           1966   2.4300E-08   0.0000E+00   2.9000E+00   0.0000E+00                
+40270-003-0         V.F.Gerasimov           1966   2.4700E-08   0.0000E+00   3.4000E+00   0.0000E+00                
+40270-003-0         V.F.Gerasimov           1966   2.5100E-08   0.0000E+00   3.8000E+00   0.0000E+00                
+40270-003-0         V.F.Gerasimov           1966   2.5500E-08   0.0000E+00   2.7000E+00   0.0000E+00                
+40270-003-0         V.F.Gerasimov           1966   2.5900E-08   0.0000E+00   3.1000E+00   4.0000E-01                
 40467-003-0         V.D.Gavrilov            1976   2.5300E-08   0.0000E+00   2.8000E+00   2.5000E-01                
+12809-002-0         J.W.T.Dabbs             1983   2.4020E-08   0.0000E+00   3.2290E+00   1.0590E-01                
 22479-004-0         S.Yamamoto              1997   2.5300E-08   0.0000E+00   3.1500E+00   9.7000E-02                
 12496-003-0         G.C.Hanna               1951   2.5300E-08   0.0000E+00   3.0000E+00   0.0000E+00     MXW        
 13574-002-0         B.B.Cunningham          1951   2.5300E-08   0.0000E+00   3.0000E+00   2.0000E-01     MXW        
 12497-004-0         E.K.Hulet               1957   2.5300E-08   0.0000E+00   3.1300E+00   1.5000E-01     MXW        
+20274-002-0         M.Hyakutake             1966   2.5000E-08   0.0000E+00   3.8000E+00   2.0000E-01     MXW        
 40436-003-0         K.D.Zhuravlev           1975   2.5300E-08   0.0000E+00   3.2000E+00   1.5000E-01     MXW        
 22344-002-0         K.Kobayashi             1997   2.5300E-08   0.0000E+00   3.1500E+00   9.7000E-02     MXW        
-# ------------------
+41369-010-0         V.F.Gerasimov           1997   2.4067E-08   2.1588E-10   3.1913E+00   0.0000E+00     SDT        
+41369-010-0         V.F.Gerasimov           1997   2.4424E-08   2.1908E-10   4.5439E+00   0.0000E+00     SDT        
+41369-010-0         V.F.Gerasimov           1997   2.4582E-08   2.2050E-10   4.1790E+00   0.0000E+00     SDT        
+41369-010-0         V.F.Gerasimov           1997   2.5083E-08   2.2499E-10   4.1402E+00   0.0000E+00     SDT        
+41369-010-0         V.F.Gerasimov           1997   2.5606E-08   2.2969E-10   4.6504E+00   0.0000E+00     SDT        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2000E+00   9.0000E-02           RECOM
-# ------------------
-#
-
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
+20881-013-0         H.Ihle                  1972   2.5000E-08   0.0000E+00   4.0000E+00   0.0000E+00     SPA   DERIV
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -57,15 +72,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-002-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.4000E-01   1.2000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -83,15 +95,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-004-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.4800E-01   2.3000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -109,15 +118,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-006-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.7000E-01   2.3000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -135,15 +141,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-008-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.7700E-01   4.6000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -161,15 +164,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-010-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.6900E-02   2.4000E-03     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -187,15 +187,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-012-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.1200E-02   8.1000E-03     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -213,15 +210,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-014-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.4200E-01   1.2000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -239,15 +233,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-016-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.8100E-01   1.7000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -265,15 +256,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-018-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.0500E-01   1.7000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -291,15 +279,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-020-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.2800E-01   1.9000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -317,15 +302,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-022-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   2.8300E-01   2.4000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -343,15 +325,12 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-024-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.2100E-01   1.1000E-02     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 95-AM-241(N,F) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
@@ -369,8 +348,5 @@ V1002-643-4         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22425-026-0         N.Shinohara             1999   2.5300E-08   0.0000E+00   1.6000E-03   3.0000E-04     MXW        
-# ------------------
-#
-

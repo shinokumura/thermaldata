@@ -1,7 +1,7 @@
 # Header: 
 #   title: 45-RH-105(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 45 
 #   A: 105 
@@ -21,16 +21,13 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 11918-002-0         J.Cuninghame            1962   2.5300E-08   0.0000E+00   1.8000E+04   0.0000E+00     MXW        
 11930-002-0         P.Lantz                 1966   2.5300E-08   0.0000E+00   1.5800E+04   1.5000E+03     SPA        
-# ------------------
-#
-
 # Header: 
 #   title: 45-RH-105(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 45 
 #   A: 105 
@@ -48,19 +45,15 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 11924-002-0         L.Glendenin             1964   2.5300E-08   0.0000E+00   1.3300E+04   1.5000E+03     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-440-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.1000E+04   3.0000E+03           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 45-RH-105(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 45 
 #   A: 105 
@@ -78,12 +71,8 @@ V1001-440-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.1
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 11937-002-0         L.Glendenin             1967   2.5300E-08   0.0000E+00   5.7000E+03   1.2000E+03     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-440-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.0000E+03   1.0000E+03           RECOM
-# ------------------
-#
-

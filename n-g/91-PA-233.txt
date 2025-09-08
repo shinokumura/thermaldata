@@ -1,14 +1,14 @@
 # Header: 
 #   title: 91-PA-233(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 91 
 #   A: 233 
 #   Nuclide: 91-PA-233 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z: 91 
 #   A: 234 
@@ -18,12 +18,12 @@
 #   Thermal Weighted Mean    +/- Weighted Error      : 3.93989E+01 +/-  9.75872E-01   (N = 3)
 #   MXW Simple Mean           |  Simple Stdev        : 4.73500E+01  |   1.53826E+01   (N = 4)
 #   MXW Weighted Mean        +/- Weighted Error      : 3.32999E+01 +/-  9.50110E-01   (N = 4)
-#   SPA Simple Mean           |  Simple Stdev        : 8.40200E+01  |   5.30768E+01   (N = 8)
-#   SPA Weighted Mean        +/- Weighted Error      : 3.64575E+01 +/-  1.36776E+00   (N = 8)
+#   SPA Simple Mean           |  Simple Stdev        : 7.90633E+01  |   5.18278E+01   (N = 9)
+#   SPA Weighted Mean        +/- Weighted Error      : 3.93794E+01 +/-  1.39272E-01   (N = 9)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 12302-005-0         J.Halperin              1962   2.5300E-08   0.0000E+00   4.6000E+01   5.0000E+00                
 10083-004-0         J.C.Connor              1970   2.5300E-08   0.0000E+00   3.9500E+01   1.2000E+00                
 22941-026-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   3.8340E+01   1.7800E+00                
@@ -38,25 +38,19 @@
 12301-003-0         J.Halperin              1956   2.5300E-08   0.0000E+00   1.5100E+02   2.0000E+01     SPA        
 12301-004-0         J.Halperin              1956   2.5300E-08   0.0000E+00   1.4000E+02   2.0000E+01     SPA        
 12011-021-0         T.A.Eastwood            1958   2.5300E-08   0.0000E+00   2.0000E+01   4.0000E+00     SPA        
+22941-009-0         A.Letourneau            2009   2.5000E-08   0.0000E+00   3.9410E+01   1.4000E-01     SPA        
 22941-025-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   3.4160E+01   1.5400E+00     SPA        
-# ------------------
-#   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-V1002-570-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.9500E+01   1.2000E+00           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 91-PA-233(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 91 
 #   A: 233 
 #   Nuclide: 91-PA-233 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
+#   Incident energy       : 2.5300e-08 MeV 
 # Residual: 
 #   Z: 91 
 #   A: 234 
@@ -69,28 +63,21 @@ V1002-570-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.9
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 12299-003-0         R.R.Smith               1955   2.5300E-08   0.0000E+00   2.5000E+01   4.0000E+00     MXW        
 12256-003-0         T.A.Eastwood            1960   2.5300E-08   0.0000E+00   1.9000E+01   3.0000E+00     MXW        
 12299-004-0         R.R.Smith               1955   2.5300E-08   0.0000E+00   3.2000E+01   5.0000E+00     SPA        
-# ------------------
-#   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-V1002-570-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.9400E+01   3.0000E+00           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 91-PA-233(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 91 
 #   A: 233 
 #   Nuclide: 91-PA-233 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
+#   Incident energy       : 2.5300e-08 MeV 
 # Residual: 
 #   Z: 91 
 #   A: 234 
@@ -103,14 +90,7 @@ V1002-570-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.9
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 12299-005-0         R.R.Smith               1955   2.5300E-08   0.0000E+00   4.3000E+01   5.0000E+00     MXW        
 12256-002-0         T.A.Eastwood            1960   2.5300E-08   0.0000E+00   2.0000E+01   4.0000E+00     MXW        
 12299-006-0         R.R.Smith               1955   2.5300E-08   0.0000E+00   7.5000E+01   9.0000E+00     SPA        
-# ------------------
-#   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-V1002-570-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.0100E+01   3.2000E+00           RECOM
-# ------------------
-#
-

@@ -1,7 +1,7 @@
 # Header: 
 #   title: 29-CU-64(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 29 
 #   A: 64 
@@ -21,13 +21,9 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 40743-006-0         I.A.Kondurov            1968   2.5300E-08   0.0000E+00   2.1000E+03   1.9000E+03     MXW        
 12982-002-0         D.W.Kneff               1985   2.5300E-08   0.0000E+00   2.7000E+02   1.7000E+02     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-242-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.7000E+02   1.7000E+02           RECOM
-# ------------------
-#
-

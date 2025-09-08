@@ -1,7 +1,7 @@
 # Header: 
 #   title: 70-YB-171(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 70 
 #   A: 171 
@@ -21,13 +21,9 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 20637-022-0         R.Dobrozemsky           1971   2.5300E-08   0.0000E+00   5.8000E+01   4.0000E+00     MXW        
 12127-022-0         W.H.Walker              1956   2.5300E-08   0.0000E+00   6.4000E+01   7.0000E+00     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1002-331-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.8300E+01   3.8000E+00           RECOM
-# ------------------
-#
-

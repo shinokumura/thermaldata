@@ -1,7 +1,7 @@
 # Header: 
 #   title: 29-CU-0(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 29 
 #   A: 0 
@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 20638-015-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   4.0000E+00   1.0000E-01                
 30073-005-0         Al.Stefanescu           1961   2.5300E-08   0.0000E+00   4.1400E+00   1.0000E-01                
 20658-012-0         J.C.Carre               1966   2.5300E-08   0.0000E+00   3.7400E+00   4.0000E-02                
@@ -36,13 +36,9 @@
 31100-004-0         J.Bouzyk                1963   2.5300E-08   0.0000E+00   3.6200E+00   1.2000E-01     MXW        
 30289-002-0         V.Markovic              1971   2.5300E-08   0.0000E+00   3.8500E+00   5.0000E-02     MXW        
 11528-015-0         S.P.Harris              1950   2.5300E-08   0.0000E+00   3.7100E+00   0.0000E+00     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 10501-013-0         S.S.Malik               1970   2.5300E-08   0.0000E+00   3.6800E+00   1.5000E-01           DERIV
 21017-011-0         A.Steyerl               1972   2.5300E-08   0.0000E+00   3.7700E+00   1.2000E-01           DERIV
 20965-008-0         W.Dilg                  1974   2.5300E-08   0.0000E+00   3.7700E+00   2.5000E-02           DERIV
 V1001-238-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.7800E+00   2.0000E-02           RECOM
-# ------------------
-#
-

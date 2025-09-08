@@ -1,7 +1,7 @@
 # Header: 
 #   title: 73-TA-179(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 73 
 #   A: 179 
@@ -23,18 +23,15 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 23791-002-0         R.Garg                  2023   2.5300E-08   0.0000E+00   9.6500E+02   6.3000E+01                
 23791-004-0         R.Garg                  2023   2.5300E-08   0.0000E+00   9.3900E+02   5.7000E+01                
 23791-006-0         R.Garg                  2023   2.5300E-08   0.0000E+00   9.5200E+02   5.7000E+01      AV        
 22490-002-0         M.Schumann              1999   2.5300E-08   0.0000E+00   9.3200E+02   6.2000E+01     MXW        
-# ------------------
-#
-
 # Header: 
 #   title: 73-TA-179(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 73 
 #   A: 179 
@@ -49,8 +46,5 @@
 #
 # Data Table
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1002-386-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   9.3200E+02   6.2000E+01           RECOM
-# ------------------
-#
-

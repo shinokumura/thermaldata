@@ -1,7 +1,7 @@
 # Header: 
 #   title: 34-SE-82(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 34 
 #   A: 82 
@@ -21,20 +21,16 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 11507-044-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   2.0000E+00   1.4000E+00     MXW        
 11447-043-0         L.Seren                 1947   2.5300E-08   0.0000E+00   6.0000E-02   1.2000E-02     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-299-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.4000E-02   3.0000E-03           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 34-SE-82(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 34 
 #   A: 82 
@@ -52,19 +48,15 @@ V1001-299-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.4
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22521-010-0         W.Mannhart              1968   2.5300E-08   0.0000E+00   3.9000E-02   3.0000E-03     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-299-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.9000E-02   3.0000E-03           RECOM
-# ------------------
-#
-
 # Header: 
 #   title: 34-SE-82(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 34 
 #   A: 82 
@@ -82,12 +74,8 @@ V1001-299-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.9
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 22521-011-0         W.Mannhart              1968   2.5300E-08   0.0000E+00   5.8000E-03   4.0000E-04     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1001-299-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.2000E-03   4.0000E-04           RECOM
-# ------------------
-#
-

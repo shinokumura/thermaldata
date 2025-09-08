@@ -1,7 +1,7 @@
 # Header: 
 #   title: 94-PU-239(N,A) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 94 
 #   A: 239 
@@ -19,12 +19,8 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 21724-008-0         C.Wagemans              1981   2.5300E-08   0.0000E+00   3.7000E-04   0.0000E+00     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 21529-009-0         C.Wagemans              1975   2.5300E-08   0.0000E+00   3.0000E-02   3.0000E-02     MXW   DERIV
-# ------------------
-#
-

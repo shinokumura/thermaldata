@@ -1,7 +1,7 @@
 # Header: 
 #   title: 66-DY-158(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 66 
 #   A: 158 
@@ -21,13 +21,9 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 20187-004-0         J.Alstad                1972   2.5300E-08   0.0000E+00   4.3000E+01   6.0000E+00                
 31244-004-0         M.Sehgal                1959   2.5300E-08   0.0000E+00   9.6000E+01   2.0000E+01     MXW        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1002-269-0         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.3000E+01   6.0000E+00           RECOM
-# ------------------
-#
-

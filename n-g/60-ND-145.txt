@@ -1,7 +1,7 @@
 # Header: 
 #   title: 60-ND-145(N,G) thermal cross section 
 #   source: EXFOR 
-#   date created: 2025-01-22 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 60 
 #   A: 145 
@@ -23,7 +23,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 21325-007-0         N.J.Pattenden           1958   2.5300E-08   0.0000E+00   5.1000E+01   3.0000E+00                
 20638-044-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   4.9300E+01   1.5000E+00                
 21467-007-0         M.J.Cabell              1968   2.5300E-08   0.0000E+00   4.0500E+01   2.1000E+00                
@@ -33,10 +33,6 @@
 21467-005-0         M.J.Cabell              1968   2.5300E-08   0.0000E+00   4.2100E+01   2.2000E+00     MXW        
 12067-003-0         D.C.Hess                1949   2.5300E-08   0.0000E+00   3.0000E+01   0.0000E+00     SPA        
 12059-003-0         W.H.Walker              1953   2.5300E-08   0.0000E+00   3.7000E+01   6.0000E+00     SPA        
-# ------------------
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc[MeV]  dEn_inc      Data[eV]     dData         sf8    sf9
 V1002-156-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.0000E+01   1.0000E+00           RECOM
-# ------------------
-#
-

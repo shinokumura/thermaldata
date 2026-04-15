@@ -40,3 +40,27 @@
 40536-011-0         V.P.Vertebnyj           1980   2.5000E-08   0.0000E+00   4.4100E+02   0.0000E+00                
 40536-011-0         V.P.Vertebnyj           1980   2.4900E-08   0.0000E+00   4.3800E+02   0.0000E+00                
 12634-066-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   2.8500E+02   0.0000E+00     MXW        
+# Header: 
+#   title: 77-IR-0(N,TOT) thermal cross section 
+#   source: EXFOR 
+#   date created: 2026-04-15 
+# Target: 
+#   Z: 77 
+#   A: 0 
+#   Nuclide: 77-IR-0 
+# Reaction: 
+#   Type: N,TOT 
+#   Type: N,TOT 
+#   Incident energy       : 2.5000e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 2.85000E+02  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+12634-066-0         J.R.Dunning             1935   2.5000E-08   0.0000E+00   2.8500E+02   0.0000E+00     MXW        
